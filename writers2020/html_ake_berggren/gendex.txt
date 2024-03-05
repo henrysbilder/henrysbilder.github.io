@@ -1,0 +1,167 @@
+;; Skapad av MinSläkt 4.0 2017-01-26, Programmet tillhör: Jan Fredman
+;;
+p321aa433.html|Andersdotter Utter|Margeta /Andersdotter Utter/|1693|Bergsbyn 7, Bergsholmen, Skellefteå sn|19AUG 1775|Åträsk 1, Piteå sn|
+p01e115b9.html|Andersdotter|Anna /Andersdotter/|16APR 1750|Sjulsmark 1, Piteå sn|5MAY 1816|Öjebyn 32(31), Backen, Piteå sn|
+pbdde284b.html|Andersdotter|Catharina /Andersdotter/|1754|Roknäs 2, Klumb, Piteå sn|||
+pd07c1a35.html|Andersdotter|Catharina /Andersdotter/|26DEC 1768|Sjulsmark 1, Porsman, Piteå sn|||
+p2235a8be.html|Andersdotter|Cecilia /Andersdotter/|1619||1700|Svensbyn 26, Hamptjärn, Piteå sn|
+p69b9c1d5.html|Andersdotter|Christina /Andersdotter/|29SEP 1764|Sjulsmark 1, Porsman, Piteå sn|||
+p88c93e61.html|Andersdotter|Karin /Andersdotter/|1695|Östanbäck 8, Skellefteå sn|10MAY 1750|Håkansön 10, Piteå sn|
+p6bb28989.html|Andersdotter|Kerstin /Andersdotter/|1688|Bergsbyn 7, Bergsholmen, Skellefteå sn|19JUN 1775|Porsnäs 14, Piteå sn|
+p091e4f2f.html|Andersdotter|Magdalena (Malin) /Andersdotter/|24DEC 1725|Sjulsmark 1, Porsman, Piteå sn|28MAY 1776|Porsnäs 15, Piteå sn|
+p570ca009.html|Andersdotter|Magdalena (Malin) /Andersdotter/|5DEC 1754|Sjulsmark 1, Porsman, Piteå sn|27DEC 1835|Långnäs 14, Piteå sn|
+p8ad71bfe.html|Andersdotter|Magdalena /Andersdotter/|19JUL 1754|Lillpite 5, Björkmans, Piteå sn|7MAR 1819|Porsnäs 9 (8), Näset, Piteå sn|
+pebf71512.html|Andersdotter|N /Andersdotter/|||5SEP 1696|Renbergsvattnet 6, Burträsk sn|
+p378cb476.html|Andersdotter|N /Andersdotter/|||5JUL 1703|Porsnäs 5, Otter, Piteå sn|
+pbec710ca.html|Andersdotter|Sara /Andersdotter/|1694|Drängsmark 5, Skellefteå lfs, Skellefteå sn|22JAN 1773|Porsnäs, Piteå lfs, Piteå sn|
+p5c1cad48.html|Andersdotter|Sofia /Andersdotter/|20FEB 1704||25APR 1729|Bergsviken, Piteå sn|
+pc09d24b5.html|Andersson-Järnhäst|Anders /Andersson-Järnhäst/||Kusmark 7, Brönet, Skellefteå sn|1710|Ersmark 5, Jåsshemmanet, Skellefteå sn|
+pd4f5985f.html|Andersson-Porsman|Anders /Andersson-Porsman/|1697|Gammelbyn 6, Skarviken, Burträsk fs, Burträsk sn|2JAN 1782|Sjulsmark 1, Frammegården, Piteå sn|
+pc0df0e64.html|Andersson-Rosenfeldt|Anders /Andersson-Rosenfeldt/|18JUN 1728|Lillpite 5, Piteå sn|7DEC 1803|Porsnäs 15, Piteå sn|
+p97d98f53.html|Andersson-Soth-Nyman|Johan /Andersson-Soth-Nyman/|8NOV 1689|Kopparnäs 12, Piteå sn|6DEC 1769|Kopparnäs 14(13), Nybärget, Piteå sn|
+p9af0276a.html|Andersson-Utter|Olof /Andersson-Utter/|1696|Östanbäck 8, Skellefteå sn|26OCT 1786|Porsnäs 5, Otter, Piteå sn|
+p6fdd87fc.html|Andersson Berggren|Christopher /Andersson Berggren/|22MAY 1789|Sjulsmark 1, Nygården, Piteå lfs, Piteå sn|25JUN 1861|Piteå sfs, Piteå stad|
+pb77095ff.html|Andersson Porsman|Anders /Andersson Porsman/|23JAN 1724|Sjulsmark 1, Porsman, Piteå sn|29APR 1798|Sjulsmark 1, Porsman, Piteå sn|
+pc9da2ce9.html|Andersson Porsman|Anders /Andersson Porsman/|23MAR 1752|Sjulsmark 1, Piteå sn|12JUL 1802|Sjulsmark 1, Nygården, Piteå lfs, Piteå sn|
+pe0167ac5.html|Andersson|Anders /Andersson/|1752|Sjulsmark 1, Porsman, Piteå sn|||
+p9af0a198.html|Andersson|Christoffer /Andersson/|8JUL 1728|Sjulsmark 1, Porsman, Piteå sn|28JUN 1812|Öjebyn 24(23), Tall, Piteå sn|
+p59b89c43.html|Andersson|Christoffer /Andersson/|26FEB 1761|Sjulsmark 1, Porsman, Piteå sn|16JAN 1844|Sjulsmark 1 ư, Piteå sn|
+pdda5f722.html|Andersson|Johan /Andersson/|1685|Bergsbyn 7, Bergsholmen, Skellefteå sn||I fält|
+p0b45e7d6.html|Andersson|Jon /Andersson/|10JUL 1704|Porsnäs 5, Otter, Piteå sn|||
+pa2bbfc6e.html|Andersson|N /Andersson/|||JUN 1700|Gammelbyn 6, Skarviken, Burträsk fs, Burträsk sn|
+p5074277c.html|Andersson|Nicodemus /Andersson/|22OCT 1706|Porsnäs 5, Otter, Piteå sn|29JUN 1728|Porsnäs 5, Otter, Piteå sn|
+p1bf691d4.html|Andersson|Nils /Andersson/||||Gummark 2, Skellefteå sn|
+pfafca060.html|Andersson|Nils /Andersson/|24DEC 1758|Sjulsmark 1, Porsman, Piteå sn|||
+p93619c9f.html|Berggren|Johan Ferdinand /Berggren/|3APR 1862|Piteå sfs, Piteå stad|6APR 1953|Nygatan 8, Piteå, Piteå sfs, Piteå stad|
+pc6f61809.html|Berggren|Kurt Vilhelm /Berggren/|24FEB 1926|Piteå sfs, Piteå stad|1SEP 1996|Lejonet 2, Piteå sfs, Piteå stad|
+p84b7fd74.html|Berggren|Kurt Åke /Berggren/|5MAY 1954|Lejonet 2, Piteå sfs, Piteå stad|||
+p9f8bf3b3.html|Berggren|Petter Anton /Berggren/|2AUG 1819|Piteå sfs, Piteå stad|22AUG 1910|Norrmalm, Piteå sfs, Piteå stad|
+pb3015965.html|Berggren|Svegder /Berggren/|13APR 1886|Piteå sfs, Piteå stad|1DEC 1956|Nygatan 9, Piteå, Piteå sfs, Piteå stad|
+p16d37686.html|Berggren|Vilma Johanna /Berggren/|30APR 1910|Piteå sfs, Piteå stad|17AUG 2004|Öjagatan 44, Öjebyn, Piteå lfs, Piteå kn|
+pcae7fef9.html|Björkbom|Jonas Fredrik /Björkbom/|10OCT 1864||||
+p9696105f.html|Björkbom|Sally Maria /Björkbom/|24JUL 1900|Rosvik 1, Piteå lfs, Piteå sn|||
+p24e7cf2b.html|Burström|Brita Margareta (Greta) /Burström/|10AUG 1794|Piteå sfs, Piteå stad|4AUG 1868|Piteå sfs, Piteå stad|
+p9d613f3f.html|Christoffersdotter|Anna /Christoffersdotter/|1701|Sjulsmark 1, Frammegården, Piteå sn|||
+pb7f00512.html|Christoffersdotter|Brita /Christoffersdotter/|1684|Sjulsmark 1, Frammegården, Piteå sn|||
+p9ccab678.html|Christoffersdotter|Elsa /Christoffersdotter/|1692|Sjulsmark 1, Frammegården, Piteå sn|1694|Sjulsmark 1, Frammegården, Piteå sn|
+pbed21681.html|Christoffersdotter|Elsa /Christoffersdotter/|1699|Sjulsmark 1, Frammegården, Piteå sn|||
+p591b7bd7.html|Christoffersdotter|Karin /Christoffersdotter/|1682|Sjulsmark 1, Frammegården, Piteå sn|||
+p3de771a0.html|Christoffersdotter|Malin /Christoffersdotter/|27MAR 1686|Sjulsmark 1, Frammegården, Piteå sn|6DEC 1772|Sjulsmark 1, Frammegården, Piteå sn|
+paad210af.html|Christoffersdotter|Margareta /Christoffersdotter/|1689|Sjulsmark 1, Frammegården, Piteå sn|||
+p5418acaf.html|Christoffersdotter|Margareta /Christoffersdotter/|13JUN 1689|Sjulsmark 1, Frammegården, Piteå sn|16DEC 1767|Porsnäs 2, Piteå lfs, Piteå sn|
+p7792380b.html|Christoffersdotter|Sara /Christoffersdotter/|7APR 1694|Sjulsmark 1, Frammegården, Piteå sn|5JAN 1753|Porsnäs 5, Otter, Piteå sn|
+p8c8009fb.html|Eliasdotter Rehn|Catharina (Karin) /Eliasdotter Rehn/|14JAN 1733|Öjebyn 22, Hamnen, Piteå sn|29SEP 1804|Öjebyn 24, Piteå sn|
+pdb18db7e.html|Ericsson|Carl /Ericsson/|4JUL 1760|Hortlax 2, Högland, Piteå sn|20SEP 1809|Hortlax 2, Högland, Piteå sn|
+pb71e9dbd.html|Eriksdotter|Sophia /Eriksdotter/|14NOV 1724|Kopparnäs 12, Piteå sn|1789|Kopparnäs 13(12), Bertnäs, Piteå sn|
+p4bf6d34b.html|Eriksson-Rännare|Henrik /Eriksson-Rännare/|1651||27JUL 1744|Bergsviken, Piteå sn|
+pba7a3490.html|Fjällström Laestander|Brita /Fjällström Laestander/|5FEB 1701|Öjebyn, Piteå lfs, Piteå sn|9FEB 1772|Porsnäs 17, Piteå sn|
+p1f2049df.html|Gabrielsson|Olof /Gabrielsson/|10DEC 1744|Långnäs 14, Piteå sn|11DEC 1826|Långnäs 14, Piteå sn|
+pd930df03.html|Georgsson Berggren|Anna Margit Viola /Georgsson Berggren/|1NOV 1959|Balsjöåsen, Bjurholms fs, Bjurholms kn|||
+pf92fa9e7.html|Henriksdotter|Kerstin /Henriksdotter/|1661||29APR 1741||
+p258e539b.html|Henriksson|Nils /Henriksson/|18OCT 1699|Bergsviken 2, Piteå sn|22DEC 1782|Öjebyn, Piteå sn|
+pc9702f9f.html|Håkansson|Nicodemus /Håkansson/|1592||1668|Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn|
+pa055cf8b.html|Isaksson|Olof /Isaksson/|16MAR 1744|Svensbyn 1, Risnäs, Piteå sn|||
+p63561d9b.html|Johansdotter|Anna /Johansdotter/|24MAR 1696|Öjebyn 15, Klint, Piteå sn|26JAN 1750||
+p7ad6307a.html|Johansdotter|Christina (Stina) /Johansdotter/|1722|Sjulsmark 6, Lund, Piteå sn|2SEP 1790|Sjulsmark 6, Lund, Piteå sn|
+pd0d5a7cd.html|Johansdotter|Kristina /Johansdotter/|1833|Rosvik, Piteå lfs, Piteå sn|||
+pf385243f.html|Johansson-Kock|Jon /Johansson-Kock/|18NOV 1721|Kopparnäs 8, Piteå sn|6MAR 1775|Kopparnäs 9(8), Asplund, Piteå sn|
+pf7355af4.html|Johansson-Tjock|Per /Johansson-Tjock/|22JUN 1723|Porsnäs, Piteå sn|1793||
+pf3ed0870.html|Johansson-Utter|Anders /Johansson-Utter/|1655|Gummark 2, Skellefteå sn|NOV 1710|Porsnäs 5, Otter, Piteå sn|
+p9b7853bc.html|Johansson|Johanna Amalia /Johansson/|21JUL 1865||10JUN 1909|Nygatan 8, Piteå, Piteå sfs, Piteå stad|
+pd475ceb4.html|Johansson|Per /Johansson/|4OCT 1704|Öjebyn 15, Klint, Piteå sn|10MAR 1743|Öjebyn 15, Klint, Piteå sn|
+pef0ea42d.html|Jonsson|Kiel /Jonsson/||Svensbyn 26, Hamptjärn, Piteå sn|1698|Svensbyn 26, Hamptjärn, Piteå sn|
+pb52ee52c.html|Jonsson|Kiel /Jonsson/|1556|Svensbyn 26, Hamptjärn, Piteå sn|1584|Svensbyn 26, Hamptjärn, Piteå sn|
+p3e3247bd.html|Jonsson|Mårten /Jonsson/|1619|Hjoggböle 1, Västra Hjoggböle, Skellefteå sn|1708|Bergsbyn 7, Bergsholmen, Skellefteå sn|
+pf4087e80.html|Jonsson|Olof /Jonsson/|1582|Gummark 2, Skellefteå sn|1661|Gummark 2, Skellefteå sn|
+pf7a14fb1.html|Kielsson|Olof /Kielsson/||Svensbyn 26, Hamptjärn, Piteå sn|||
+pac0c436f.html|Kielsson|Per /Kielsson/||Svensbyn 26, Hamptjärn, Piteå sn|5DEC 1724|Lillpite 6, Smeden, Piteå sn|
+pd0384fbc.html|Kristoffersson|Anders /Kristoffersson/|27FEB 1762|Rosvik, Piteå sn|||
+p849d1805.html|Larsdotter|Christina /Larsdotter/|27OCT 1765|Sjulsmark 7, Låggers, Piteå sn|29DEC 1839|Sjulsmark 1 ư, Piteå sn|
+p31475912.html|Larsdotter|Karin /Larsdotter/||Kopparnäs, Piteå sn|22JUL 1683|Porsnäs 8, Piteå sn|
+p48945e07.html|Larsdotter|Kerstin /Larsdotter/|15FEB 1724|Porsnäs 8, Piteå sn|15SEP 1786|Kopparnäs 9(8), Asplund, Piteå sn|
+pbeda65b2.html|Larsson-Ryss|Per /Larsson-Ryss/|1676|Hedensbyn 1, Skellefteå lfs, Skellefteå sn|1758|Hedensbyn 1, Skellefteå lfs, Skellefteå sn|
+p7306b19e.html|Larsson Renberg|Per /Larsson Renberg/|12JUL 1726|Porsnäs 8, Näset, Piteå sn|14FEB 1766|Porsnäs 9 (8), Näset, Piteå sn|
+p5ced729c.html|Larsson|Christoffer /Larsson/|1650|Sjulsmark 1, Frammegården, Piteå sn|22FEB 1731|Sjulsmark 1, Piteå sn|
+p20abd5db.html|Lundström|Johan Fredrik /Lundström/|17MAY 1829|Håkansön 12, Piteå lfs, Piteå sn|||
+p98e905fa.html|Lundström|Maria Sofia /Lundström/|17OCT 1873|Håkansön,  Piteå lfs, Piteå sn|||
+p56212bd8.html|Marklund|Elsy Lovisa /Marklund/|31DEC 1955|Hemmingsmark 6:9, Hortlax fs, Hortlax sn|||
+p70890006.html|Mattsdotter|N /Mattsdotter/||Falmark, Skellefteå lfs, Skellefteå sn||Renbergsvattnet 3, Burträsk fs, Burträsk sn|
+p03c011de.html|Mattsson|Olof /Mattsson/|1662|Ytterursviken 4, Skellefteå lfs, Skellefteå sn|1737|Ytterursviken 4, Skellefteå lfs, Skellefteå sn|
+p8a3c68f3.html|Mårtensdotter|Anna /Mårtensdotter/|1671|Bergsbyn 7, Bergsholmen, Skellefteå sn|1734|Ersmark 5, Jåsshemmanet, Skellefteå sn|
+pc75423d6.html|Mårtensdotter|Karin /Mårtensdotter/|1657|Hjoggböle a, Västra, Skellefteå sn|1743|Yttervik 2, Skellefteå sn|
+p7682bb3c.html|Mårtensdotter|Kerstin /Mårtensdotter/|1660|Hjoggböle a, Västra, Skellefteå sn|1747|Yttervik 5, Hällbacken, Skellefteå sn|
+p93a1be88.html|Mårtensdotter|Lisbeta /Mårtensdotter/|1676|Bergsbyn 7, Bergsholmen, Skellefteå sn|1765|Hedensbyn 1, Skellefteå lfs, Skellefteå sn|
+p2ad69455.html|Mårtensdotter|Malin /Mårtensdotter/|1672|Bergsbyn 7, Bergsholmen, Skellefteå sn|1759|Ytterursviken 4, Skellefteå lfs, Skellefteå sn|
+pae20df62.html|Mårtensdotter|Margareta /Mårtensdotter/|1654|Hjoggböle a, Västra, Skellefteå sn|24DEC 1736|Porsnäs 5, Otter, Piteå sn|
+pae355ea1.html|Mårtensdotter|Sara /Mårtensdotter/|1650|Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn|1742|Bergsbyn 3, Skellefteå sn|
+p0c1352e7.html|Mårtensson|Anders /Mårtensson/||Renbergsvattnet 3, Burträsk fs, Burträsk sn||Renbergsvattnet 3, Burträsk fs, Burträsk sn|
+p1d5ba62d.html|Mårtensson|Gert /Mårtensson/|1658|Hjoggböle a, Västra, Skellefteå sn|1747|Bergsbyn 7, Bergsholmen, Skellefteå sn|
+pbacb8c99.html|Mårtensson|Jon /Mårtensson/||Renbergsvattnet 3, Burträsk sn|1629|Hjoggböle 1, Västra Hjoggböle, Skellefteå sn|
+p63022767.html|Mårtensson|Nikodemus /Mårtensson/|1663|Hjoggböle a, Västra, Skellefteå sn|||
+p4b68078e.html|Mårtensson|Per /Mårtensson/||Bergsbyn 7, Bergsholmen, Skellefteå sn|||
+p136cc699.html|N|Mårten /N/||||Renbergsvattnet 3, Burträsk fs, Burträsk sn|
+p4a58070a.html|N|N /N/|||||
+p6b05a890.html|N|N /N/|||1710|Bergsbyn 7, Bergsholmen, Skellefteå sn|
+pf5a21c7b.html|N|Sara /N/|||1671|Staden, Piteå sn|
+p6f0e42ea.html|Nicodemidotter|Maglena (Malin)? /Nicodemidotter/|1624|Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn|1696|Bergsbyn 7, Bergsholmen, Skellefteå sn|
+p2616a8f2.html|Nilsdotter|Christina (Kerstin) /Nilsdotter/|14MAY 1727|Bergsviken 2, Piteå sn|1APR 1817|Sjulsmark 1, Porsman, Piteå sn|
+p2a38e4f8.html|Nilsdotter|Karin /Nilsdotter/|1677||9JAN 1752|Svensbyn, Piteå lfs, Piteå sn|
+pede56bdc.html|Nilsdotter|Karin /Nilsdotter/|14FEB 1733|Lillpite, Piteå lfs, Piteå sn|20MAR 1819|Åträsk 1, Piteå sn|
+p2ec92ca7.html|Nilsson-Blink|Jon /Nilsson-Blink/|24DEC 1699|Lillpite 24, Piteå sn|||
+p8f7e5ca1.html|Nilsson-Holm|Nils /Nilsson-Holm/|22MAR 1738|Lillpite 23, Åkern, Piteå sn|29MAY 1782||
+p3c5685aa.html|Nilsson-Nyman|Jöns /Nilsson-Nyman/|26AUG 1692|Håkansön, Piteå sn|15FEB 1773|Håkansön 10, Piteå sn|
+p10c4ad40.html|Nilsson-Reen|Per /Nilsson-Reen/|1685|Sjulsmark 6, Lund, Piteå sn|OCT 1710|I fält|
+pd03b7388.html|Nilsson|Hindrik (Hendrik) /Nilsson/|12JUN 1724|Bergsviken 2, Piteå sn|10JAN 1790|Sjulsmark 6, Lund, Piteå sn|
+p501ddefb.html|Nilsson|Jonas (Jon) /Nilsson/|11MAY 1775|Lillkorsträsk 2, Piteå sn|||
+p56c93232.html|Nilsson|Sven /Nilsson/|1655|Yttervik 2, Skellefteå sn|1746|Yttervik 2, Skellefteå sn|
+pd5bd3641.html|NN|nn /NN/|||18APR 1685|Svensbyn 26, Hamptjärn, Piteå sn|
+p834b459a.html|Nordström|Margareta /Nordström/|13OCT 1872||||
+pfcbfae61.html|Olofsdotter|Barbro /Olofsdotter/|1669|Bureå 8, Skellefteå sn|1754|Bergsbyn 7, Bergsholmen, Skellefteå sn|
+p4be9cfdb.html|Olofsdotter|Elisabet (Elsa) /Olofsdotter/|25MAR 1722|Lillpite 7(6), Smeden, Piteå sn|31MAR 1792|Porsnäs 9 (8), Näset, Piteå sn|
+pd82ded71.html|Olofsdotter|Elsa /Olofsdotter/|21JUN 1717|Lillpite 7(6), Smeden, Piteå sn|SEP 1717|Lillpite 7(6), Smeden, Piteå sn|
+pf46fbf7a.html|Olofsdotter|Karin /Olofsdotter/|25MAY 1693|Pitholm 2, Piteå sn|27MAR 1743|Porsnäs 8, Piteå sn|
+p6f28fe7e.html|Olofsdotter|Karin /Olofsdotter/|1716||||
+p1db2df51.html|Olofsdotter|Kerstin /Olofsdotter/|1659||4JAN 1740|Pitholm, Piteå sn|
+p1525845e.html|Olofsdotter|Kerstin /Olofsdotter/|24FEB 1701|Pitholm 2, Piteå sn|||
+p1d8575a9.html|Olofsdotter|Magdalena /Olofsdotter/|16DEC 1728|Lillpite 7(6), Smeden, Piteå sn|24NOV 1811||
+p3d38eb3f.html|Olofsdotter|Malin /Olofsdotter/||Ersnäs, Nederluleå sn|||
+p971f0520.html|Olofsdotter|Margareta /Olofsdotter/|1JUN 1727|Långnäs 15, Tiörbåga, Piteå sn|14FEB 1789|Lillpite 7, Smeden, Piteå sn|
+p10dbb8a0.html|Olofsdotter|Margeta /Olofsdotter/|21JUN 1717|Lillpite 7(6), Smeden, Piteå sn|||
+p6192a677.html|Olofsdotter|Sigrid /Olofsdotter/|26AUG 1699|Pitholm 2, Piteå sn|11NOV 1784|Öjebyn 15, Klint, Piteå sn|
+p756ffb88.html|Olofsson-Utter|Johan /Olofsson-Utter/|||1697|Gummark 2, Skellefteå sn|
+p02482f22.html|Olofsson|Anders /Olofsson/|2MAY 1724|Lillpite 7(6), Smeden, Piteå sn|27APR 1797|Lillpite 7(6), Smeden, Piteå sn|
+pd3c52f1a.html|Olofsson|Christopher /Olofsson/|22AUG 1726|Lillpite 7(6), Smeden, Piteå sn|||
+pb8ac5e8e.html|Olofsson|Johan /Olofsson/|12APR 1733|Lillpite 7(6), Smeden, Piteå sn|3JUL 1809|Åträsk 1, Piteå sn|
+p9682f6ff.html|Olofsson|Jon /Olofsson/|1581|Svensbyn 26, Hamptjärn, Piteå sn|||
+p15618981.html|Olofsson|Per /Olofsson/|13AUG 1720|Lillpite 7(6), Smeden, Piteå sn|31JAN 1807|Kopparnäs 13(12), Bertnäs, Piteå sn|
+p8e4adb8e.html|Olsson-Hurtig|Pehr /Olsson-Hurtig/|1704|Norge|1727||
+pc9908afd.html|Olsson|Jon /Olsson/|25FEB 1690|Pitholm, Piteå sn|20MAY 1754||
+p88880e2d.html|Olsson|Olof /Olsson/|1669||29MAR 1738|Pitholm, Piteå sn|
+p097f8736.html|Persdotter|Barbro /Persdotter/|9FEB 1718|Porsnäs 8, Piteå sn|27MAR 1785||
+p56cdfa99.html|Persdotter|Johanna /Persdotter/|7AUG 1836||||
+p1bfba8c5.html|Persdotter|Karin /Persdotter/|20NOV 1698|Krogen, Piteå lfs, Piteå sn|25NOV 1790|Porsnäs 12, Svidjan, Piteå sn|
+p384d812a.html|Persdotter|Kristina /Persdotter/|24APR 1758|Porsnäs 9 (8), Näset, Piteå sn|7FEB 1838|Rosvik, Piteå sn|
+p707d614d.html|Persdotter|Margareta /Persdotter/|17AUG 1748|Porsnäs 9 (8), Näset, Piteå sn|19FEB 1824|Sjulsmark 1, Nygården, Piteå lfs, Piteå sn|
+pd595aaaa.html|Persdotter|N /Persdotter/||Gummark 2, Skellefteå sn||Gummark 2, Skellefteå sn|
+p80dcb6e9.html|Persson-Hurtig|Olof /Persson-Hurtig/|23NOV 1698|Porsnäs 8, Piteå sn|8APR 1743|Porsnäs 11, Piteå lfs, Piteå sn|
+p33351ca7.html|Persson-Renberg|Lars /Persson-Renberg/|10DEC 1693|Porsnäs 8, Piteå sn|12DEC 1739|Porsnäs 8, Piteå sn|
+pfc8fa541.html|Persson-Smed|Zakarias /Persson-Smed/|5AUG 1677|Svensbyn 26, Hamptjärn, Piteå sn|14APR 1753||
+p1230eca7.html|Persson-Öberg|Johan /Persson-Öberg/|1MAR 1696|Porsnäs 8, Piteå sn|28MAR 1767||
+p2d7b3246.html|Persson|Anders /Persson/|26JUL 1699|Piteå sn|24JAN 1774|Porsnäs 14, Piteå sn|
+pd68f66c3.html|Persson|Jon /Persson/|1533|Svensbyn, Piteå lfs, Piteå sn|1563|Svensbyn 26, Hamptjärn, Piteå sn|
+pda37b5e0.html|Persson|Lars /Persson/|8NOV 1750|Porsnäs 9 (8), Näset, Piteå sn|14SEP 1818|Porsnäs 9 (8), Näset, Piteå sn|
+p4f865159.html|Persson|Olof /Persson/|5JAN 1694|Svensbyn, Piteå lfs, Piteå sn|1FEB 1761|Lillpite 6, Smeden, Piteå sn|
+p6801323b.html|Persson|Olof /Persson/|31OCT 1752|Porsnäs 9 (8), Näset, Piteå sn|||
+pef3dc52b.html|Persson|Sven /Persson/|1655|Yttervik 5, Hällbacken, Skellefteå sn|1748|Yttervik 5, Hällbacken, Skellefteå sn|
+p0f152c77.html|Risberg|John Albin /Risberg/|1MAY 1904|Öjebyn, Piteå lfs, Piteå sn|1JAN 1969|Mellangatan 39, Piteå, Piteå sfs, Piteå kn|
+p9f590628.html|Sandberg|Ejvor Margareta /Sandberg/|28APR 1925|Rosvik, Norrfjärden fs, Norrfjärdens sn|||
+p7520f712.html|Sandberg|Fritz Andreas /Sandberg/|12NOV 1867|Rosvik, Piteå lfs, Piteå sn|||
+p933bdbd3.html|Sandberg|Isak /Sandberg/|1845|Rosvik, Piteå lfs, Piteå sn|||
+paa9142a0.html|Sandberg|Konrad Alexander /Sandberg/|28AUG 1896|Rosvik, Piteå lfs, Piteå sn|||
+p3c38a29e.html|Stefansson|Per /Stefansson/|1662||18JAN 1750|Porsnäs 9 (8), Näset, Piteå sn|
+pb6396633.html|Stenberg|Klara Johanna /Stenberg/|12AUG 1888|Piteå sfs, Piteå stad|1JUL 1961|Nygatan 9, Piteå, Piteå sfs, Piteå stad|
+p63a2152e.html|Svenson|Per /Svenson/|||||
+pb15956b0.html|Svensson|Jon /Svensson/|1640|Yttervik 2, Skellefteå sn|1727|Bergsbyn 3, Skellefteå sn|
+p5634f3fb.html|Torneus|Emma /Torneus/|2JAN 1827|Piteå sfs, Piteå stad|18MAR 1899|Norrmalm, Piteå sfs, Piteå stad|
+p6bb34f5b.html|Zachrisson-Warg|Per /Zachrisson-Warg/|1694||22JAN 1773|Porsnäs, Piteå lfs, Piteå sn|
+pccd02674.html|Zakrisdotter|Elin /Zakrisdotter/|1647||4OCT 1742||

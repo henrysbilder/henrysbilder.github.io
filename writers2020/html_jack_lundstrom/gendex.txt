@@ -1,0 +1,1125 @@
+;; Skapad av MinSläkt 4.3 2020-05-02, Programmet tillhör: Jan Fredman
+;;
+p5f0725fd.html|(Hersesson?)|Fale /(Hersesson?)/|1384|Bureå, Skellefteå sn||Falmark, Skellefteå sn|
+p814fbedf.html|(Hersesson?)|Olof /(Hersesson?)/|1380|Bureå 1, Skellefteå sn|1460|Bureå 1, Skellefteå lfs, Skellefteå sn|
+p20f01ab9.html||Brita //|||||
+p76f06f90.html||Cherstin //|||0||
+p25c3abd4.html||Dordi //|1630||DEC 1709||
+paf830b8d.html||Gölug //||Hälsingland|||
+p9f361300.html||Karin //|||NOV 1699|Mjödvattnet 6, Burträsk sn|
+p376e14b0.html||Karin //|1654||1698||
+p924bdc62.html||Kerstin //|||||
+p29284fe7.html||Kerstin //|||JUN 1715|Mjödvattnet 6, Burträsk sn|
+pfe0d94d8.html||Margareta //||||Burvik 6, Skellefteå lfs, Skellefteå sn|
+pa91f009b.html||Marget //|||MAR 1726|Åbyn 7, Burträsk fs, Burträsk sn|
+pb9d2e009.html|Abrahamsdotter|Margareta /Abrahamsdotter/||Storkåge 12, Skellefteå lfs, Skellefteå sn|1691|Yttervik 1, Björsgården, Skellefteå sn|
+p40a4b791.html|Abrahamsdotter|Maria /Abrahamsdotter/|2MAR 1754|Åbyn, Burträsk sn|||
+pa6ed2ada.html|Abrahamsson-Bäckman|Erik /Abrahamsson-Bäckman/|20JUN 1711|Sävar 10, Umeå lfs, Umeå sn|15APR 1780|Sävar 14, Umeå lfs, Umeå sn|
+p8726ec62.html|Abrahamsson|Isak /Abrahamsson/||Gammelbyn 8, Svedjan, Burträsk fs, Burträsk sn||Gammelbyn 8, Svedjan, Burträsk fs, Burträsk sn|
+pa0e6eca1.html|Albrektsson|Nils /Albrektsson/|1505|Myckle 3, Skellefteå lfs, Skellefteå sn||Myckle 3, Skellefteå lfs, Skellefteå sn|
+p3c89db10.html|Albrektsson|Per /Albrektsson/||Myckle 3, Skellefteå lfs, Skellefteå sn||Myckle 1, Skellefteå lfs, Skellefteå sn|
+p9dcdfb16.html|Ambrosiusson Burman|Olof /Ambrosiusson Burman/|1599|Bureå 3, Skellefteå sn|1656|Hjoggböle 1, Västra Hjoggböle, Skellefteå sn|
+p1b74795b.html|Andersdotter-Trappman|Malin /Andersdotter-Trappman/|3JUN 1730|Vebomark, Lövångers fs, Lövångers sn|1799||
+pe8e170da.html|Andersdotter Boström|Brita /Andersdotter Boström/|8JUL 1744|Åbyn, Burträsk sn|1811|Frautjälen, Skellefteå sn|
+p182791ba.html|Andersdotter Boström|Catharina (Karin) /Andersdotter Boström/|28MAY 1747|Gammelbyn, Burträsk fs, Burträsk sn|24DEC 1795|Bodbyn, Burträsk sn|
+p7fc964e6.html|Andersdotter Boström|Margareta (Greta) /Andersdotter Boström/|22NOV 1742|Åbyn, Burträsk sn|3SEP 1816|Mjödvattnet 4, Burträsk sn|
+p0e72e2ac.html|Andersdotter|Anna /Andersdotter/|1515|Storkåge 4, Granden, Skellefteå sn|30APR 1583|Storkåge 1, Skellefteå lfs, Skellefteå sn|
+p67636e28.html|Andersdotter|Anna /Andersdotter/|1661||1747|Burvik 3, Skellefteå lfs, Skellefteå sn|
+pd0b75fcf.html|Andersdotter|Anna /Andersdotter/|2APR 1700|Kölen och Webbomark|0||
+p29f74fbd.html|Andersdotter|Anna /Andersdotter/|1729|Boviken 3, Skellefteå lfs, Skellefteå sn|1747|Boviken 3, Skellefteå lfs, Skellefteå sn|
+p3cb95b19.html|Andersdotter|Anna Magdalena /Andersdotter/|1768|Nordmalings fs, Nordmalings sn|8SEP 1828|Renbergsvattnet 1, Burträsk sn|
+p7bd28e28.html|Andersdotter|Barbro (Barbara) /Andersdotter/||Storkåge 4, Granden, Skellefteå sn||Bodan 5-6, Lövångers fs, Lövånger sn|
+pe06addc9.html|Andersdotter|Brita /Andersdotter/|1639|Skellefteå lfs, Skellefteå sn|1727|Fällfors 4, Skellefteå lfs, Skellefteå sn|
+pee5867ab.html|Andersdotter|Catharina /Andersdotter/|20MAR 1763|Frostkåge 14, Skellefteå lfs, Skellefteå sn|4OCT 1823|Byske 4, Skellefteå lfs, Skellefteå sn|
+pdc0e820d.html|Andersdotter|Catharina /Andersdotter/|22OCT 1792|Mårtensboda 1, Lövångers sn|28NOV 1883|Mårtensboda 1, Lövångers fs, Lövångers sn|
+p84032572.html|Andersdotter|Cherstin /Andersdotter/|NOV 1684|Vallen 1, Lövångers fs, Lövångers sn|1764||
+p26ed6039.html|Andersdotter|Dordi /Andersdotter/||Bodan, Lövånger sn|||
+pdf0f1941.html|Andersdotter|Karin /Andersdotter/|||||
+p2b36e88a.html|Andersdotter|Karin /Andersdotter/||Yttervik 7, Båtvik, Skellefteå sn|||
+pc982d0bc.html|Andersdotter|Karin /Andersdotter/||Bodan, Lövånger sn|||
+p689c1be3.html|Andersdotter|Karin /Andersdotter/||Storkåge 4, Granden, Skellefteå sn|||
+pa931f6f9.html|Andersdotter|Karin /Andersdotter/|1659||1746|Hjoggböle, Skellefteå sn|
+pca9b6804.html|Andersdotter|Karin /Andersdotter/|JAN 1681|Näs, Lövånger sn|APR 1762|Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn|
+pdee732d6.html|Andersdotter|Karin /Andersdotter/|1723|Boviken 3, Skellefteå lfs, Skellefteå sn|1759|Boviken 1, Skellefteå lfs, Skellefteå sn|
+pa5606914.html|Andersdotter|Karin /Andersdotter/|1723|Åbyn 7, Burträsk fs, Burträsk sn|1804||
+p94e6a1bc.html|Andersdotter|Karin /Andersdotter/|23DEC 1766|Gammelbyn, Burträsk fs, Burträsk sn|16DEC 1844|Åbyn, Burträsk sn|
+p5fff456f.html|Andersdotter|Kerstin (Kristina) /Andersdotter/||Storkåge 4, Granden, Skellefteå sn|||
+p8c0fea83.html|Andersdotter|Kerstin /Andersdotter/|||||
+p04ab4443.html|Andersdotter|Kerstin /Andersdotter/|NOV 1684|Vallen, Lövånger sn|27MAY 1764|Bodbyn 13, Kvarnriset, Burträsk fs, Burträsk sn|
+pac99ce23.html|Andersdotter|Kerstin /Andersdotter/|1718|Åbyn 7, Burträsk fs, Burträsk sn|27JAN 1796|Sävar 14, Umeå lfs, Umeå sn|
+p9d4431a2.html|Andersdotter|Kälug /Andersdotter/||Morön 2, Skellefteå sn|||
+p3d20b218.html|Andersdotter|Kälug /Andersdotter/|1512|Storkåge 4, Granden, Skellefteå sn||Storkåge 4, Granden, Skellefteå sn|
+pf6337546.html|Andersdotter|Lisbeta /Andersdotter/|3JUN 1715|Petisträsk, Burträsk sn|13FEB 1792|Renbergsvattnet 2, Burträsk sn|
+pd84bc6b3.html|Andersdotter|Lucia (Lille Lussi) /Andersdotter/|1462|Bureå 6, Skellefteå lfs, Skellefteå sn||Yttervik a, Skellefteå sn|
+p3188b252.html|Andersdotter|Magdalena (Maglena) /Andersdotter/|27NOV 1764|Frostkåge 14, Skellefteå lfs, Skellefteå sn|25DEC 1837|Frostkåge 7, Sörbyn, Skellefteå lfs, Skellefteå sn|
+p6d8c0b68.html|Andersdotter|Magdalena (Malin) /Andersdotter/||Storkåge 4, Granden, Skellefteå sn||Storkåge 4, Granden, Skellefteå sn|
+pa1cda33f.html|Andersdotter|Malin /Andersdotter/||Bodan, Lövånger sn||Bodan, Lövångers fs, Lövånger sn|
+pb13e98a2.html|Andersdotter|Malin /Andersdotter/||Yttervik 7, Båtvik, Skellefteå sn|||
+p68370837.html|Andersdotter|Malin /Andersdotter/|1696|Vebomark, Lövångers fs, Lövångers sn|2APR 1749||
+p9b7ac6bb.html|Andersdotter|Malin /Andersdotter/|1710|Bureå 2, Skellefteå lfs, Skellefteå sn|1789|Bureå 2, Skellefteå lfs, Skellefteå sn|
+p095df617.html|Andersdotter|Mareta (Mariet) /Andersdotter/||Myckle 6, Skellefteå lfs, Skellefteå sn||Böle 5, Norrböle, Skellefteå sn|
+pbd23f828.html|Andersdotter|Margareta /Andersdotter/||Boviken 3, Skellefteå lfs, Skellefteå sn|||
+p2b4534c1.html|Andersdotter|Margareta /Andersdotter/|||1714|Boviken 3, Skellefteå lfs, Skellefteå sn|
+p29f45067.html|Andersdotter|Margareta /Andersdotter/|1713|Boviken 3, Skellefteå lfs, Skellefteå sn|1715|Boviken 3, Skellefteå lfs, Skellefteå sn|
+pf3f978ac.html|Andersdotter|Margareta /Andersdotter/|1715|Boviken 3, Skellefteå lfs, Skellefteå sn|1802|Klutmark 6, Skellefteå sn|
+p9052b16e.html|Andersdotter|Margareta /Andersdotter/|1738||24JUL 1788||
+pf07263af.html|Andersdotter|Marget /Andersdotter/|1728|Åbyn 7, Burträsk fs, Burträsk sn|1809|Åbyn, Burträsk sn|
+p97667c93.html|Andersdotter|Margretha (Greta) /Andersdotter/|5FEB 1758|Frostkåge 14, Skellefteå lfs, Skellefteå sn|28FEB 1847|Fällfors 3, Skellefteå lfs, Skellefteå sn|
+pe0fbaa2d.html|Andersdotter|Maria /Andersdotter/|1725|Åbyn 7, Burträsk fs, Burträsk sn|17AUG 1793|Åbyn 7, Burträsk fs, Burträsk sn|
+pcbdc2315.html|Andersdotter|Maria /Andersdotter/|1729|Boviken 3, Skellefteå lfs, Skellefteå sn|1796||
+p760734e1.html|Andersdotter|Maria /Andersdotter/|1732|Bygdsiljum, Burträsk sn|14FEB 1790||
+p4fa2732b.html|Andersdotter|Mariet (Marit) /Andersdotter/||Yttervik 7, Båtvik, Skellefteå sn|||
+pcc8e380b.html|Andersdotter|Mariet /Andersdotter/||Bureå 6, Skellefteå lfs, Skellefteå sn||Tåme 4, Skellefteå sn|
+p4aa342cd.html|Andersdotter|N /Andersdotter/||Myckle 6, Skellefteå lfs, Skellefteå sn|||
+p40b9221d.html|Andersdotter|N /Andersdotter/||||Myckle 6, Skellefteå lfs, Skellefteå sn|
+pfa7ed0f4.html|Andersdotter|N /Andersdotter/|||JUL 1668|Myckle 6, Skellefteå lfs, Skellefteå sn|
+p184ef606.html|Andersdotter|N /Andersdotter/||Myckle 6, Skellefteå lfs, Skellefteå sn|1697|Böle 8, Norrböle, Skellefteå sn|
+pc2c113c1.html|Andersdotter|Sara /Andersdotter/|1669||25SEP 1715||
+p2d46fcce.html|Andersdotter|Sara /Andersdotter/|APR 1686|Vebomark 7, Lövångers fs, Löv ångers sn|14AUG 1715|Mårtensboda 1, Lövångers fs, Lövångers sn|
+p3b3a1219.html|Andersdotter|Sara /Andersdotter/|AUG 1706|Kålaboda, Nysätra sn|31MAR 1779|Bodbyn 6, Burträsk fs, Burträsk sn|
+p84af63c1.html|Andersdotter|Sara /Andersdotter/|9NOV 1709|Åbyn 7, Burträsk fs, Burträsk sn|2APR 1788|Nolbyn, Lövångers fs, Lövångers sn|
+p53e89dae.html|Andersdotter|Sigrid /Andersdotter/||Klintsjön, Nysätra sn|||
+pd9a2ffb4.html|Andersdotter|Sigrid /Andersdotter/|4MAR 1704|Mjödvattnet, Burträsk sn|DEC 1757|Mjödvattnet, Burträsk sn|
+p7e8b1340.html|Andersson-Furuknatt|Lars /Andersson-Furuknatt/||Burvik 3, Skellefteå lfs, Skellefteå sn|1695|Burvik 3, Skellefteå lfs, Skellefteå sn|
+pb7d9f8f2.html|Andersson-Hjerpenskiöld|Per /Andersson-Hjerpenskiöld/|FEB 1712|Åbyn 7, Burträsk fs, Burträsk sn|27JAN 1742|Fält|
+pc09d24b5.html|Andersson-Järnhäst|Anders /Andersson-Järnhäst/||Kusmark 7, Brönet, Skellefteå sn|1710|Ersmark 5, Jåsshemmanet, Skellefteå sn|
+pebc01687.html|Andersson-Läraktig|Anders /Andersson-Läraktig/|1727|Åbyn, Burträsk sn|23FEB 1763|Åbyn, Burträsk sn|
+pf8a57259.html|Andersson-Mård|Anders /Andersson-Mård/|1691|Vallen 1, Lövångers fs, Lövångers sn|27APR 1766|Åbyn 7, Burträsk fs, Burträsk sn|
+p680f0f34.html|Andersson-Mård|Anders /Andersson-Mård/|1720|Åbyn 7, Burträsk fs, Burträsk sn|||
+p8cf119a9.html|Andersson-Pipare|Erik /Andersson-Pipare/||Boviken 3, Skellefteå lfs, Skellefteå sn|||
+p95b695bc.html|Andersson-Strand-Knabb-Lång|Jonas (Jon) /Andersson-Strand-Knabb-Lång/|1703|Boviken 3, Skellefteå lfs, Skellefteå sn|23AUG 1741|Slaget vid Villmanstrand|
+p2581f90f.html|Andersson-Sundbom|Olof /Andersson-Sundbom/|30MAR 1803|Gärdsmark 3, Skellefteå lfs, Skellefteå sn|||
+p12ae00e2.html|Andersson Boström|Jacob /Andersson Boström/|1735|Åbyn 1, Gammelbyn, Burträsk sn|25JAN 1817|Böle, Norrböle, Skellefteå sn|
+p04ef76e5.html|Andersson Boström|Johan /Andersson Boström/|1733|Åbyn, Burträsk sn|||
+p863f25f5.html|Andersson Boström|Mattias /Andersson Boström/|1738|Gammelbyn, Burträsk fs, Burträsk sn|||
+p6bff3c02.html|Andersson Boström|Matts /Andersson Boström/|22JAN 1731|Gammelbyn, Burträsk fs, Burträsk sn|1731|Gammelbyn, Burträsk fs, Burträsk sn|
+p4c5d60bf.html|Andersson Burman|Anders /Andersson Burman/|1460|Bureå 6, Skellefteå lfs, Skellefteå sn||Röbäck, Umeå lfs, Umeå sn|
+p8d7a0a15.html|Andersson Djurman|Mathias (Matts) /Andersson Djurman/|||1717|Prästbordet, Skellefteå sn|
+pf76e5613.html|Andersson Flarck|Per /Andersson Flarck/|||1697|Umeå stad, Umeå sn|
+p129a9d0b.html|Andersson Smed|Jon /Andersson Smed/||Frostkåge, Skellefteå sn|||
+p6ee44d1a.html|Andersson|Abraham /Andersson/||Bodan 6, Lövångers fs, Lövångers sn|||
+p379dd3ed.html|Andersson|Abraham /Andersson/|1597|Morön 2, Skellefteå sn||Morön 1, Skellefteå sn|
+pec60bf2c.html|Andersson|Anders ? /Andersson/|11NOV 1706||14SEP 1780|Bygdsiljum, Burträsk sn|
+p1483cc21.html|Andersson|Anders /Andersson/||||Renbergsvattnet 1, Burträsk sn|
+pb8726efa.html|Andersson|Anders /Andersson/||Böle 8, Norrböle, Skellefteå sn||Böle 8, Norrböle, Skellefteå sn|
+pe2661c1b.html|Andersson|Anders /Andersson/||||Böle, Råneå sn|
+p53ba87ab.html|Andersson|Anders /Andersson/||Myckle 6, Skellefteå lfs, Skellefteå sn|APR 1679|Myckle 6, Skellefteå lfs, Skellefteå sn|
+pae0d28a1.html|Andersson|Anders /Andersson/|1655|Bodan 6, Lövångers fs, Lövångers sn|1SEP 1735|Vallen 1, Lövångers fs, Lövångers sn|
+p24966a5e.html|Andersson|Anders /Andersson/|1655|Bodan 6, Lövångers sn|1SEP 1735|Vallen 1, Lövångers fs, Lövångers sn|
+p2f1bad14.html|Andersson|Anders /Andersson/|1688|Boviken 3, Skellefteå lfs, Skellefteå sn|1756|Boviken 3, Skellefteå lfs, Skellefteå sn|
+p0dfd86bf.html|Andersson|Anders /Andersson/|1713|Boviken 3, Skellefteå lfs, Skellefteå sn|||
+pca0c9646.html|Andersson|Anders /Andersson/|25APR 1755|Frostkåge 14, Skellefteå lfs, Skellefteå sn|30AUG 1837|Bureå 3, Skellefteå lfs, Skellefteå sn|
+pfd764bda.html|Andersson|Anders /Andersson/|1759|Mjödvattnet 11, Burträsk sn|21NOV 1829|Bodbyn 7, Burträsk sn|
+pc1d0af82.html|Andersson|Anders /Andersson/|15NOV 1763|Gammelbyn, Burträsk fs, Burträsk sn|10MAR 1835|Gammelbyn, Burträsk fs, Burträsk sn|
+p9a0e21be.html|Andersson|Arvid /Andersson/||Morön 2, Skellefteå sn|||
+p2bb1a18f.html|Andersson|Clemet /Andersson/||Tjärn 3, Skellefteå sn|||
+pf301ee23.html|Andersson|Eric /Andersson/|1642||14OCT 1716||
+pe13c721e.html|Andersson|Erik /Andersson/||Böle 8, Norrböle, Skellefteå sn|||
+pef9126f7.html|Andersson|Erik /Andersson/|1721|Boviken 3, Skellefteå lfs, Skellefteå sn|1787|Boviken 3, Skellefteå lfs, Skellefteå sn|
+p8e7726cb.html|Andersson|Erik /Andersson/|1738|Gummark 1, Noret, Skellefteå lfs, Skellefteå sn|1792|Klintträsk, Skellefteå lfs, Skellefteå sn|
+p1c031321.html|Andersson|Henrik /Andersson/|1587|Morön 2, Skellefteå sn|||
+pa4d811ee.html|Andersson|Holger (Hångel) /Andersson/|1599|Böle 8, Norrböle, Skellefteå sn|1646|Böle 8, Norrböle, Skellefteå sn|
+p7b9391da.html|Andersson|Holger /Andersson/||Böle 8, Norrböle, Skellefteå sn||Böle 8, Norrböle, Skellefteå sn|
+p2c5ce507.html|Andersson|Håkan /Andersson/||Burvik 6, Skellefteå lfs, Skellefteå sn|||
+p51c5f910.html|Andersson|Håkan /Andersson/|||1672|Renbergsvattnet 1, Burträsk sn|
+p0f66820d.html|Andersson|Jakob /Andersson/||Böle 8, Norrböle, Skellefteå sn|||
+p10277226.html|Andersson|Jakob /Andersson/||Böle 8, Norrböle, Skellefteå sn|||
+p87bcda2c.html|Andersson|Jakob /Andersson/|1450|Bureå 6, Skellefteå lfs, Skellefteå sn||Bureå 8, Skellefteå sn|
+pd2e3d4c8.html|Andersson|Johan /Andersson/||Myckle 3, Skellefteå lfs, Skellefteå sn|1710|Myckle 3, Skellefteå lfs, Skellefteå sn|
+p54055020.html|Andersson|Johan /Andersson/|1707|Boviken 3, Skellefteå lfs, Skellefteå sn|1756|Degerbyn 7, Skellefteå sn|
+pead525d2.html|Andersson|Johan /Andersson/|1713|Klutmark 6, Skellefteå sn|1771|Klutmark 6, Skellefteå sn|
+p2fa79609.html|Andersson|Jon /Andersson/||Morön 2, Skellefteå sn|||
+p0045de23.html|Andersson|Jon /Andersson/|1455|Bureå 6, Skellefteå lfs, Skellefteå sn||Viken, Skellefteå sn|
+p80430b87.html|Andersson|Jonas (Jon) /Andersson/|28JUL 1760|Frostkåge 14, Skellefteå lfs, Skellefteå sn|22FEB 1832|Frostkåge 4, Sörbyn, Skellefteå lfs, Skellefteå sn|
+p76214331.html|Andersson|Jonas /Andersson/|1735|Boviken 3, Skellefteå lfs, Skellefteå sn|1735|Boviken 3, Skellefteå lfs, Skellefteå sn|
+pb1676c4a.html|Andersson|Jöns /Andersson/||||Bodan 6, Lövångers fs, Lövångers sn|
+p80376b25.html|Andersson|Jöns /Andersson/|31AUG 1752|Frostkåge 14, Skellefteå lfs, Skellefteå sn|14JUL 1819|Tåme 5, Skellefteå lfs, Skellefteå sn|
+p36e94e77.html|Andersson|Lars /Andersson/||Böle 8, Norrböle, Skellefteå sn|1629|Marienburg, Preussen|
+p2ab41ad3.html|Andersson|Lars /Andersson/||Morön 2, Skellefteå sn|1632|Morön 2, Skellefteå sn|
+p23cf0240.html|Andersson|Lars /Andersson/|6AUG 1751|Åbyn, Burträsk sn|19NOV 1827|Åbyn, Burträsk sn|
+p120c7de3.html|Andersson|Lasse /Andersson/|||1553|Östanbäck 4, Skellefteå lfs, Skellefteå sn|
+p31f942e7.html|Andersson|Mats /Andersson/||Gummark 7, Skellefteå sn|1676|Sjöslaget vid södra Öland|
+pe2add0cc.html|Andersson|Måns /Andersson/|1581|Tjärn 3, Skellefteå sn|1639|Tjärn 3, Skellefteå sn|
+p8dabc46e.html|Andersson|Mårten /Andersson/||Ljusvattnet 5, Burträsk sn|||
+p9e1b400c.html|Andersson|N /Andersson/|1732|Boviken 3, Skellefteå lfs, Skellefteå sn|1732|Boviken 3, Skellefteå lfs, Skellefteå sn|
+p43980575.html|Andersson|Nils /Andersson/||Böle 8, Norrböle, Skellefteå sn|1560|Böle 10, Norrböle, Skellefteå sn|
+p11c85b50.html|Andersson|Nils /Andersson/|1592|Morön 2, Skellefteå sn|1669|Hedensbyn 3, Skellefteå lfs, Skellefteå sn|
+pe9d42e4a.html|Andersson|Nils /Andersson/|1731|Boviken 3, Skellefteå lfs, Skellefteå sn|||
+p6daa4829.html|Andersson|Olof /Andersson/||Bureå 6, Skellefteå lfs, Skellefteå sn||Bureå 1, Skellefteå lfs, Skellefteå sn|
+p9a7edae2.html|Andersson|Olof /Andersson/||||Åbyn, Burträsk, Skellefteå sn|
+pac71d1db.html|Andersson|Olof /Andersson/||Burvik 8, Skellefteå lfs, Skellefteå sn||Burvik 8, Backen, Skellefteå sn|
+p3527b3e6.html|Andersson|Olof /Andersson/||Morön 2, Skellefteå sn|||
+p093f14f4.html|Andersson|Olof /Andersson/|1700|Skellefteå sn|1785|Östanbäck 3, Skellefteå lfs, Skellefteå sn|
+p82b5a452.html|Andersson|Per /Andersson/||Morön 2, Skellefteå sn|||
+pff093b93.html|Andersson|Per /Andersson/||Böle 8, Norrböle, Skellefteå sn|||
+p4d582ef5.html|Andersson|Per /Andersson/||Boviken 3, Skellefteå lfs, Skellefteå sn|||
+p1322b46e.html|Andersson|Per /Andersson/||Bodan, Lövånger sn|||
+p659b2bf5.html|Andersson|Per /Andersson/||Myckle 6, Skellefteå lfs, Skellefteå sn|1715|Myckle 6, Skellefteå lfs, Skellefteå sn|
+p50dcc2a2.html|Andersson|Per /Andersson/|1592|Frostkåge 6, Sörbyn, Skellefteå lfs, Skellefteå sn|1674|Frostkåge 6, Sörbyn, Skellefteå lfs, Skellefteå sn|
+p528ba71d.html|Andersson|Per /Andersson/|16FEB 1750|Frostkåge 14, Skellefteå lfs, Skellefteå sn|5MAR 1809|Frostkåge 14, Skellefteå lfs, Skellefteå sn|
+p61389d49.html|Andersson|Påvel /Andersson/|1453|Bureå 6, Skellefteå lfs, Skellefteå sn||Ostvik 9, Skellefteå lfs, Skellefteå sn|
+p6121055b.html|Andersson|Östen /Andersson/|1680|Uttersjön, Lövångers fs, Lövångers sn|14SEP 1761||
+pfde06598.html|Arvidsson|Anders /Arvidsson/||Morön 2, Skellefteå sn||Morön 2, Skellefteå sn|
+p98facdba.html|Arvidsson|Jon /Arvidsson/||Morön 2, Skellefteå sn|1606|Ersmark 11, Falshemmanet, Skellefteå sn|
+p57852b60.html|Berg|Dorothea /Berg/|||1732|Nysätra|
+p9e733a99.html|Bergstedt|Anna /Bergstedt/|6APR 1756|Avan|||
+peac38906.html|Bergstedt|Carl Magnus /Bergstedt/|22AUG 1772|Avan|||
+p42da2032.html|Bergstedt|Catharina (Karin) /Bergstedt/|10FEB 1750|Avan 1, Lövångers fs, Lövångers sn|12APR 1751|Avan 1, Lövångers fs, Lövångers sn|
+p471c664b.html|Bergstedt|Eva Margareta /Bergstedt/|24JAN 1834|Stämningsgården, Skellefteå lfs, Skellefteå sn|||
+p1fa9adcd.html|Bergstedt|Fredrik /Bergstedt/|23JUL 1767|Avan 1, Lövångers fs, Lövångers sn|||
+p674ec630.html|Bergstedt|Georg (Jöran) /Bergstedt/|11OCT 1758|Avan|||
+p79b91dfa.html|Bergstedt|Gustav /Bergstedt/|14APR 1766||1766||
+p7f55e4ee.html|Bergstedt|Jacob /Bergstedt/|11DEC 1723|Västerhiske, Umeå sn|1782||
+p0e660544.html|Bergstedt|Jacob /Bergstedt/|25MAR 1761|Avan|22JUN 1762||
+pd9b061c8.html|Bergstedt|Johannes /Bergstedt/|28MAR 1755||31AUG 1755||
+pa2b7b084.html|Bergstedt|Jonas /Bergstedt/|17AUG 1769||1789||
+pfa59acc4.html|Bergstedt|Margareta /Bergstedt/|7JUL 1764||1765||
+pb7cb4338.html|Bergstedt|Mattias /Bergstedt/|23APR 1763||1765||
+p09c2a51e.html|Bergstedt|Olof /Bergstedt/|23DEC 1803|Kyrkobordet, Umeå lfs, Umeå sn|||
+p49a9b1e2.html|Bergstedt|Pehr /Bergstedt/|22JAN 1752|Avan|1793||
+p487f0ee5.html|Bergstedt|Peter /Bergstedt/|1720||||
+p9797d0f5.html|Black|Anna Christina /Black/|6FEB 1727||||
+p0b8e23c9.html|Black|Brigitta /Black/|27AUG 1731|Avan|1803||
+p96db89ff.html|Black|Catharina /Black/|26DEC 1740||30MAY 1752||
+p34b9ba6c.html|Black|Charlotta /Black/|8SEP 1738||19SEP 1738||
+p80a03c8c.html|Black|Johannes /Black/|19NOV 1721||19JAN 1722||
+pe17656d1.html|Black|Johannes /Black/|26DEC 1732||27JAN 1734||
+pfc14a6f0.html|Black|Jonas /Black/|28SEP 1726|Avan|||
+ped544058.html|Black|Margareta /Black/|18SEP 1734|Avan 1, Lövångers fs, Lövångers sn|14JUN 1802|Gammelbyn 1, Lövånger fs, Lövångers sn|
+pbeb8b38b.html|Black|Zackarias /Black/|||||
+p55aff0cf.html|Black|Zackarias /Black/|1724||11NOV 1724||
+p56a2042e.html|Boström|Christina (Kerstin) /Boström/|13JAN 1741|Åbyn, Burträsk sn|22AUG 1776|Gammelbyn, Burträsk fs, Burträsk sn|
+pdcf271d3.html|Boström|Elsa /Boström/|7SEP 1753|Gammelbyn, Burträsk fs, Burträsk sn|24JUL 1785|Gammelbyn, Burträsk fs, Burträsk sn|
+pa12e1eab.html|Boström|Johan /Boström/|2DEC 1720||1803||
+pc8664828.html|Boström|Magdalena (Malin) /Boström/|6DEC 1749|Gammelbyn, Burträsk fs, Burträsk sn|6NOV 1777|Gammelbyn, Burträsk fs, Burträsk sn|
+p6e5fcfcc.html|Carlsdotter Burman|Margareta /Carlsdotter Burman/||Bureå 8, Skellefteå sn|1689|Myckle 3, Skellefteå lfs, Skellefteå sn|
+pba51d3fa.html|Christiernsdotter|Margareta /Christiernsdotter/|4OCT 1754|Bygdsiljum, Burträsk sn|9FEB 1793|Mårtensboda 2, Lövångers sn|
+p47e13b21.html|Christiernsson|Olof /Christiernsson/|||||
+p79a63185.html|Christiersdotter|Karin /Christiersdotter/|1708|Medle 10, Skellefteå sn|1773|Degerbyn 7, Skellefteå sn|
+p636c7356.html|Christiersdotter|Kerstin (Karin) /Christiersdotter/|1636|Vallen 1, Lövångers fs, Lövångers sn|8NOV 1730|Mårtensboda 1, Lövångers fs, Lövångers sn|
+p1632a045.html|Christiersdotter|Sara /Christiersdotter/|1652|Vallen 1, Lövångers fs, Lövångers sn|1OCT 1738|Vallen 1, Lövångers fs, Lövångers sn|
+pfde7ef9b.html|Christiersdotter|Sara /Christiersdotter/|1652|Vallen 1, Lövångers fs, Lövångers sn|1OCT 1738|Vallen 1, Lövångers fs, Lövångers sn|
+p4873ed4c.html|Christiersson|Anders /Christiersson/|1641|Vallen 1, Lövångers fs, Lövångers sn||Holmsvattnet 1, Skellefteå lfs, Skellefteå sn|
+pe696cbbb.html|Christiersson|Johan /Christiersson/||Kattisträsk 2, Liden, Skellefteå lfs, Skellefteå sn|1675|Gummark 6, Skellefteå lfs, Skellefteå sn|
+p49221e67.html|Christiersson|Mårten /Christiersson/||Åbyn 3, Burträsk fs, Burträsk sn||Åbyn 3, Burträsk fs, Burträsk sn|
+pc644416f.html|Christiersson|Olof /Christiersson/||Vallen 1, Lövångers fs, Lövångers sn|||
+p7d66e2c2.html|Christophersson|Lars /Christophersson/|1657|Ryssböle, Lövånger sn|||
+p3a996883.html|Clemetsson|Sune (Sven) /Clemetsson/||Stämningsgården 5, Skellefteå sn|1605|Stämningsgården 5, Skellefteå sn|
+p962995a6.html|Dalkarl Jätte|Olof /Dalkarl Jätte/||||Burträsk, Skellefteå sn|
+p3fbed59c.html|Danielsson|Nils /Danielsson/|10JAN 1771|Drängsmark 4, Skellefteå lfs, Skellefteå sn|9AUG 1849|Norra Grundträsk, Arvidsjaur sn|
+p4cf68638.html|Djurman|Catharina (Karin) /Djurman/|1SEP 1712|Umeå stad|1AUG 1794|Åbyn, Burträsk sn|
+p18f8613e.html|Eriksdotter|Anna /Eriksdotter/||Mjödvattnet 6, Burträsk sn||Gummark, Skellefteå sn|
+pf05f93fb.html|Eriksdotter|Brita /Eriksdotter/|1661|Mjödvattnet 6, Burträsk sn|1748|Burvik 6, Skellefteå lfs, Skellefteå sn|
+pe137814e.html|Eriksdotter|Cathrina /Eriksdotter/|1DEC 1756|Boviken 3, Skellefteå lfs, Skellefteå sn|1800||
+p6f84228f.html|Eriksdotter|Christina /Eriksdotter/|24MAR 1739|Vallen 6, Trehörningen, Lövångers fs, Lövångers sn|16AUG 1791||
+p8a5689da.html|Eriksdotter|Christina /Eriksdotter/|28AUG 1755|Boviken 3, Skellefteå lfs, Skellefteå sn|1798|Gagsmark 2, Oppgårds, Skellefteå sn|
+pb5bbfac2.html|Eriksdotter|Karin /Eriksdotter/||Hjoggböle 7, Sjön, Skellefteå sn|1688|Hjoggböle 4, Östra Hjoggböle, Skellefteå sn|
+p2746a1a0.html|Eriksdotter|Kerstin /Eriksdotter/|0|Villvattnet 6, Risåträsk, Burträsk sn|FEB 1716|Ljusvattnet 12, Burträsk, Burträsk fs, Burträsk sn|
+pc3f83421.html|Eriksdotter|Kerstin /Eriksdotter/||Boviken 3, Skellefteå lfs, Skellefteå sn|1723|Böle 4, Sörböle, Skellefteå sn|
+p66a28a77.html|Eriksdotter|Margareta /Eriksdotter/||Hjoggböle 7, Sjön, Skellefteå sn||Renbergsvattnet 1, Burträsk sn|
+pcb2c02ac.html|Eriksdotter|Margareta /Eriksdotter/||Mjödvattnet 6, Burträsk sn|||
+p28de5f3e.html|Eriksdotter|Margareta /Eriksdotter/|12JUN 1754|Boviken 3, Skellefteå lfs, Skellefteå sn|9OCT 1827|Mossarotträsk, Skellefteå lfs, Skellefteå sn|
+p167fe110.html|Eriksdotter|Maria /Eriksdotter/|4DEC 1746|Boviken 3, Skellefteå lfs, Skellefteå sn|22FEB 1827|Klintträsk, Skellefteå lfs, Skellefteå sn|
+p13c148eb.html|Eriksson-Buller|Östen /Eriksson-Buller/|1692|Uttersjön, Lövångers fs, Lövångers sn|25AUG 1763|Gammelbyn 1, Lövångers fs, Lövångers sn|
+p33c5ef44.html|Eriksson Stenmark|Erik /Eriksson Stenmark/|16MAY 1761|Boviken 3, Skellefteå lfs, Skellefteå sn|8JAN 1841|Nolbyn 6, Lövångers fs, Lövångers sn|
+p2a17b634.html|Eriksson|Anders /Eriksson/||Hjoggböle 7, Sjön, Skellefteå sn||Falmark 13, Sjöbotten, Skellefteå sn|
+pce46327a.html|Eriksson|Anders /Eriksson/|1660|Boviken 3, Skellefteå lfs, Skellefteå sn|||
+p2d0fe9af.html|Eriksson|Anders /Eriksson/|1726|Lappvattnet 1, Burträsk fs, Burträsk sn|15APR 1795|Lappvattnet 1, Burträsk fs, Burträsk sn|
+pdd378533.html|Eriksson|Anders /Eriksson/|1752|Boviken 3, Skellefteå lfs, Skellefteå sn|||
+p2f12fb63.html|Eriksson|Christier /Eriksson/||||Åbyn 3, Burträsk fs, Burträsk sn|
+p80e7c34e.html|Eriksson|Erik /Eriksson/||||Hjoggböle 7, Sjön, Skellefteå sn|
+pcaa89067.html|Eriksson|Erik /Eriksson/||Bygdeträsk 6, Burträsk sn|||
+pabf5e004.html|Eriksson|Erik /Eriksson/||Hjoggböle 7, Sjön, Skellefteå sn|JAN 1716|Nolbyn 5, Lövångers fs, Lövångers sn|
+p7060b83c.html|Eriksson|Henrik /Eriksson/|JUN 1658|Bygdeträsk 6, Burträsk sn|1FEB 1741|Bygdeträsk 6, Burträsk sn|
+p8f3cf023.html|Eriksson|Jonas (Jon) /Eriksson/||Hjoggböle 7, Sjön, Skellefteå sn|||
+pa52beb40.html|Eriksson|Jonas (Jon) /Eriksson/||Hjoggböle 7, Sjön, Skellefteå sn||Hjoggböle 9, Forsen, Skellefteå sn|
+p4edbe87f.html|Eriksson|Markus /Eriksson/|||1577|Boviken 3, Skellefteå lfs, Skellefteå sn|
+pcec01005.html|Eriksson|Måns /Eriksson/||Mjödvattnet 6, Burträsk sn|||
+p4aa25d9c.html|Eriksson|Nils /Eriksson/||Hjoggböle 7, Sjön, Skellefteå sn|1715|Hjoggböle 7, Sjön, Skellefteå sn|
+p80bf93a9.html|Eriksson|Nils /Eriksson/|1597|Hjoggböle 7, Sjön, Skellefteå sn|NOV 1681|Hjoggböle 7, Sjön, Skellefteå sn|
+p197fe863.html|Eriksson|Olof /Eriksson/||Lappvattnet, Burträsk fs, Burtäsk sn||Lappvattnet, Burträsk fs, Burträsk sn|
+p89af29fa.html|Eriksson|Olof /Eriksson/|1660|Boviken 3, Skellefteå lfs, Skellefteå sn|1727|Innervik 11, Gästgivargården, Skellefteå sn|
+pb205bec7.html|Eriksson|Sven /Eriksson/||||Bodan, Lövångers fs, Lövånger sn|
+p481a9170.html|Eriksson|Tomas /Eriksson/||Holmsvattnet 1 , Skellefteå lfs, Skellefteå sn||Holmsvattnet 1 , Skellefteå lfs, Skellefteå sn|
+p3aea312b.html|Eriksson|Zackris /Eriksson/||Mjödvattnet 6, Burträsk sn|MAR 1719|Mjödvattnet 6, Burträsk sn|
+pd8bfe7f3.html|Eriksson|Östen /Eriksson/|26FEB 1718|Bygdeträsk, Burträsk sn|23MAY 1776|Bergnäset, Burträsk sn|
+p681af13c.html|Gabrielsdotter|Sara /Gabrielsdotter/|1722|Flarken, Nysätra fs, Nysätra sn|14NOV 1796||
+p3caeaebc.html|Gabrielsson|Olof /Gabrielsson/|23SEP 1733|Risvattnet, Nysätra sn|10SEP 1774||
+p648e7b79.html|Germundsson|Bengt /Germundsson/||||Österteg, Umeå lfs, Umeå sn|
+pd054d4a4.html|Gierding|Jacob /Gierding/|||||
+p085f3ced.html|Hamrén|Anna Sophia /Hamrén/|1769||||
+p7b51df9d.html|Hansdotter|Karin /Hansdotter/|1658|Ånäset|30MAR 1747|Nybyn|
+p9c64ef45.html|Hansson-Ljus|Mårten /Hansson-Ljus/|1722|Burträsk sn|1799|Lycksele sn|
+p96032fff.html|Hansson|Jacob /Hansson/||Ängesbyn, Luleå sn|||
+pd2f424a5.html|Hansson|Lasse /Hansson/||||Storkåge 19, Skellefteå lfs, Skellefteå sn|
+p4b01c873.html|Hansson|Olof /Hansson/|7AUG 1735|Innervik 11, Gästgivargården, Skellefteå sn|7MAY 1804|Innervik 11, Gästgivargården, Skellefteå sn|
+p5b337a0e.html|Hedström|Per /Hedström/|1732|Åbyn, Burträsk sn|30SEP 1783|Överkalix sn|
+p72361097.html|Henrichsson|Olaus /Henrichsson/|22DEC 1776|Trehörningen, Umeå sn|12JAN 1843||
+p46b825b6.html|Henriksdotter|Anna /Henriksdotter/||Bygdeträsk, Burträsk sn|||
+pfbaa3725.html|Henriksdotter|Karin /Henriksdotter/|14APR 1705|Bygdeträsk 1, Burträsk sn|29JAN 1786|Bygdeträsk 1, Burträsk sn|
+pa6bd3af3.html|Henriksdotter|Mariat /Henriksdotter/||Bygdeträsk, Burträsk sn|||
+pa7110554.html|Henriksson|Erik /Henriksson/||Bygdeträsk, Burträsk sn|||
+p516d8b6c.html|Henriksson|Erik /Henriksson/|||1655|Bygdeträsk 6, Burträsk sn|
+p1accf615.html|Henriksson|Lars /Henriksson/||Bygdeträsk, Burträsk sn|||
+p946d1135.html|Henriksson|Per /Henriksson/||Bygdeträsk, Burträsk sn|||
+pe65c1be8.html|Heriksson-Schönfeldt|Nils /Heriksson-Schönfeldt/|13AUG 1736|Roten 41 Vall, Vallen, Lövånger sn|2JUL 1821|Grisbacka 5, Umeå lfs, Umeå sn|
+p33013686.html|Hermansdotter|Brita /Hermansdotter/||Storkåge, Skellefteå lfs, Skellefteå sn|1693|Storkåge 24, Skellefteå lfs, Skellefteå sn|
+p81392ef4.html|Hermansdotter|Brita /Hermansdotter/|1702|Bureå 2, Skellefteå lfs, Skellefteå sn|1760|Yttervik 4, Skellefteå sn|
+p1b0bcab5.html|Hermansdotter|Margareta /Hermansdotter/|1672|Stämningsgården 5, Skellefteå sn|1740|Böle 12, Norrböle, Skellefteå sn|
+p2a263f8c.html|Hermansdotter|Sara /Hermansdotter/|1700|Yttervik, Skellefteå sn|||
+p682b675c.html|Hermansson|Jacob /Hermansson/|1675|Tavelsjö, Umeå lfs, Umeå sn|||
+p8fa3d305.html|Hernodia|Kristina /Hernodia/|1683||26JUL 1743|Avan, Lövånger sn|
+p15046a5c.html|Hertzberg|Anders /Hertzberg/|1704|Hertzånger, Nysätra sn|||
+p7170cb71.html|Hertzberg|Jon /Hertzberg/|1698|Hertzånger, Nysätra sn|||
+paa0a47c7.html|Hertzberg|Katarina (Karin) /Hertzberg/|10OCT 1738|Umeå sfs, Umeå stad|1809|Umeå sfs, Umeå stad|
+p92d1f16c.html|Hertzberg|Lars /Hertzberg/|1704|Hertzånger, Nysätra sn|||
+pe4123ba1.html|Hertzberg|Lars /Hertzberg/|1743|Umeå sn|1810||
+p661bd4ab.html|Hindricksdotter|N /Hindricksdotter/||Yttervik 5, Hällbacken, Skellefteå sn||Yttervik 5, Hällbacken, Skellefteå sn|
+p286408bf.html|Hindricsson|Anders /Hindricsson/|1682||AUG 1744||
+pe09d6edd.html|Holgersdotter|Mariet (Märta) /Holgersdotter/||Böle 8, Norrböle, Skellefteå sn||Böle 8, Norrböle, Skellefteå sn|
+p41b7d4cd.html|Holm|Elisabet /Holm/|13APR 1696||||
+p17fd390f.html|Holmberg|Elisabeth /Holmberg/|||||
+p178eeef3.html|Håkansdotter|Barbro /Håkansdotter/||Renbergsvattnet 1, Burträsk sn|OCT 1725|Gammelbyn 12, Burträsk fs, Burträsk sn|
+p8f2b56dd.html|Håkansdotter|Ingrid /Håkansdotter/|9JUL 1659|Estersmark, Nysätra sn|||
+p89ce6ede.html|Håkansdotter|Karin /Håkansdotter/|1663|Estersmark, Nysätra sn|17JUL 1752||
+p14d52cc4.html|Håkansdotter|Kerstin /Håkansdotter/|1656|Estersmark, Nysätra sn|1741||
+pc56ff7b7.html|Håkansdotter|Margareta /Håkansdotter/|1657|Renbergsvattnet 1, Burträsk sn|MAR 1727|Ljusvattnet 11, Burträsk, Burträsk fs, Burträsk sn|
+pe06f9baa.html|Håkansdotter|N /Håkansdotter/||Renbergsvattnet 1, Burträsk sn|||
+p950a1fc1.html|Håkansdotter|N /Håkansdotter/||Renbergsvattnet 1, Burträsk sn|||
+pb6e86ee4.html|Håkansson-Lång|Jonas /Håkansson-Lång/|1652|Estersmark, Nysätra sn|||
+pef46e36d.html|Håkansson-Orre|Lars /Håkansson-Orre/|1661|Estersmark, Nysätra sn|30MAY 1690||
+p37adf139.html|Håkansson|Anders /Håkansson/|1654|Renbergsvattnet 1, Burträsk sn|JUN 1740|Renbergsvattnet 2, Burträsk sn|
+pe409b65e.html|Håkansson|Christiern /Håkansson/|25MAR 1651|Estersmark, Nysätra sn|1708||
+p49fea1a8.html|Håkansson|Erik /Håkansson/|28FEB 1667|Estersmark, Nysätra sn|1695||
+p38f3dea4.html|Håkansson|Jon /Håkansson/|1663|Renbergsvattnet 1, Burträsk sn|1717|Renbergsvattnet 2, Burträsk sn|
+pc6ca67ca.html|Håkansson|Lars /Håkansson/|||||
+pe98ca2b5.html|Håkansson|Moses /Håkansson/||Burvik 6, Skellefteå lfs, Skellefteå sn|1633|Burvik 6, Skellefteå lfs, Skellefteå sn|
+p86223975.html|Håkansson|Nicodemus /Håkansson/|1592||1668|Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn|
+pd601de47.html|Håkansson|Olof /Håkansson/||Åbyn 4, Burträsk lfs, Burträsk sn|MAR 1697|Gammelbyn 12, Burträsk fs, Burträsk sn|
+pbb0e9880.html|Håkansson|Olof /Håkansson/|1656|Estersmark, Nysätra sn|||
+p63cd65d2.html|Isaksson|Per /Isaksson/||Gammelbyn 8, Svedjan, Burträsk fs, Burträsk sn||Gammelbyn 8, Svedjan, Burträsk fs, Burträsk sn|
+p8a0d42c5.html|Jacobsdotter|Brita /Jacobsdotter/|||||
+p494d8dcf.html|Jacobsdotter|Catharina (Kajsa) /Jacobsdotter/|25APR 1742|Böle 5, Norrböle, Skellefteå sn|1820|Böle, Norrböle, Skellefteå sn|
+pcf603ad7.html|Jacobsdotter|Kerstin /Jacobsdotter/|||||
+p51da04ce.html|Jacobsdotter|Sara /Jacobsdotter/|JUL 1679||1750||
+pb82f869a.html|Jacobsson-Klockare|Lars /Jacobsson-Klockare/|1580|Lund 1, Skellefteå sn|1641|Hjoggböle 4, Östra Hjoggböle, Skellefteå sn|
+pe23e5b0f.html|Jacobsson-Tegenfäldt-Spinnel-Bergstedt|Pär /Jacobsson-Tegenfäldt-Spinnel-Bergstedt/|1687||1737||
+p6efb54e6.html|Jacobsson|Jacob /Jacobsson/|18JAN 1700|Bygdeträsk 8, Innansjön, Burträsk fs, Burträsk sn|25NOV 1754|Bygdeträsk 8, Innansjön, Burträsk fs, Burträsk sn|
+p1e3c98ad.html|Jacobsson|Johan /Jacobsson/|JAN 1667||SEP 1736||
+pc09f46c9.html|Jacobsson|Nils /Jacobsson/|||||
+pc149dfee.html|Jakobsdotter|Brita /Jakobsdotter/|1487|Bureå 8, Skellefteå sn||Jävre, Piteå lfs, Piteå sn|
+p66b716be.html|Jakobsdotter|Elin /Jakobsdotter/|1482|Bureå 8, Skellefteå sn||Österteg, Umeå lfs, Umeå sn|
+pef902e7e.html|Jakobsdotter|Karin /Jakobsdotter/|1485|Bureå 8, Skellefteå sn||Piteå sn|
+p03b81c43.html|Jakobsdotter|Lucia /Jakobsdotter/|1685|Bodbyn, Burträsk sn|5DEC 1769|Mårtensboda 2, Lövångers fs, Lövångers sn|
+p85671ddf.html|Jakobsdotter|Maria (Mariet) /Jakobsdotter/||Bureå 8, Skellefteå lfs, Skellefteå sn||Grubbe, Umeå lfs, Umeå sn|
+p9417442b.html|Jakobsdotter|N /Jakobsdotter/||Lund 1, Skellefteå sn||Hjoggböle 7, Sjön, Skellefteå sn|
+pebefc7e9.html|Jakobson|Anders /Jakobson/||||Böle 8, Norrböle, Skellefteå sn|
+p2ac7df0d.html|Jakobsson Jåpsson|Måns /Jakobsson Jåpsson/||||Tjärn 3, Skellefteå sn|
+pfcb3050a.html|Jakobsson|Anders /Jakobsson/||||Böle 8, Norrböle, Skellefteå sn|
+p07dadaa4.html|Jakobsson|Anders /Jakobsson/|1475|Bureå 8, Skellefteå sn|1539|Storkåge 4, Granden, Skellefteå sn|
+p21f0ed17.html|Jakobsson|Carl /Jakobsson/|1477|Bureå 8, Skellefteå sn||Bureå 8, Skellefteå sn|
+peb85209d.html|Jakobsson|Herman /Jakobsson/||Tavelsjö, Umeå lfs, Umeå sn|OCT 1678|Tavelsjö, Umeå lfs, Umeå sn|
+p17a7ac1a.html|Jakobsson|Johan /Jakobsson/|JAN 1667|Bodbyn 7, Brännan, Burträsk fs, Burträsk sn|SEP 1736|Bodbyn 13, Kvarnriset, Burträsk fs, Burträsk sn|
+pb8df9eaa.html|Jakobsson|Lars /Jakobsson/|||||
+pe560b3fe.html|Jakobsson|Lars /Jakobsson/|||||
+p273a9d2d.html|Jakobsson|Lars /Jakobsson/|1603|Bodbyn, Brännan, Skellefteå lfs, Skellefteå sn|14OCT 1683|Bodbyn 7, Brännan, Burträsk fs, Burträsk sn|
+p40e8ed43.html|Jakobsson|Moses /Jakobsson/|1480|Bureå 8, Skellefteå sn||Bureå 8, Skellefteå sn|
+p63601ad7.html|Johansdotter Black|Anna /Johansdotter Black/|20JAN 1701|Avan|1781||
+pe5bb90f2.html|Johansdotter Black|Dorothea /Johansdotter Black/|||1738|Brahe stad, Österbotten|
+p0a7758e9.html|Johansdotter Black|Karin /Johansdotter Black/|1686|Avan|1779||
+p37ee54bd.html|Johansdotter|Anna /Johansdotter/|||JUL 1719|Gammelbyn, Burträsk fs, Burträsk sn|
+pb96d8682.html|Johansdotter|Anna /Johansdotter/|1DEC 1701||||
+p96de604e.html|Johansdotter|Brita /Johansdotter/|1694|Bodbyn, Burträsk sn|JUN 1757|Bursiljum 4, Burträsk sn|
+pdbafefac.html|Johansdotter|Karin /Johansdotter/||||Åbyn, Burträsk sn|
+pd68bdb32.html|Johansdotter|Karin /Johansdotter/|15JAN 1714|Bodbyn 13, Kvarnriset, Burträsk fs, Burträsk sn|||
+pc1973e22.html|Johansdotter|Karin /Johansdotter/|1724|Renbergsvattnet, Burträsk sn|24APR 1808|Bygdeträsk, Burträsk sn|
+p1b04490e.html|Johansdotter|Kerstin (Stina) /Johansdotter/|1721|Renbergsvattnet 1, Burträsk sn|18DEC 1821|Ruskträsk, Lycksele sn|
+pfc61de02.html|Johansdotter|Kerstin /Johansdotter/|1711|Bureå 2, Skellefteå lfs, Skellefteå sn|||
+p6a5b4937.html|Johansdotter|Lisbeta /Johansdotter/||Botsmark, Umeå sn|||
+p9fa8d9c6.html|Johansdotter|Malin /Johansdotter/|1703|Bureå 2, Skellefteå lfs, Skellefteå sn|||
+pb9830ec5.html|Johansdotter|Margareta /Johansdotter/||Böle 8, Norrböle, Skellefteå sn|||
+p51246d27.html|Johansdotter|Margeta /Johansdotter/|1694|Östanbäck 5, Skellefteå lfs, Skellefteå sn|1767|Östanbäck 3, Skellefteå lfs, Skellefteå sn|
+p43825d1a.html|Johansdotter|Maria /Johansdotter/|1704|Gammelbyn 3, Mora, Burträsk fs, Burträsk sn|1762|Hjoggböle 7, Sjön, Skellefteå sn|
+p324835e7.html|Johansdotter|Maria /Johansdotter/|1732|Renbergsvattnet, Burträsk sn|1745||
+p7043a9d5.html|Johansdotter|Maria /Johansdotter/|13MAY 1749|Bygdeträsk, Burträsk sn|||
+pba1be61f.html|Johansdotter|Mariet /Johansdotter/|1695|Böle 8, Norrböle, Skellefteå sn|1763||
+pb414e40a.html|Johansdotter|Sara /Johansdotter/||Stöcksjö 7, Umeå lfs, Umeå sn|1715|Brännland 7, Umeå lfs, Umeå sn|
+pb3baa977.html|Johansdotter|Sara /Johansdotter/|1671|Östanbäck 5, Skellefteå lfs, Skellefteå sn|1729||
+p5c7e5142.html|Johansson-Boström|Jakob /Johansson-Boström/|2NOV 1688|Bodbyn 13, Kvarnriset, Burträsk fs, Burträsk sn|24DEC 1761|Avan, Lövånger sn|
+p6a51f285.html|Johansson-Brummer|Per /Johansson-Brummer/|28OCT 1694||APR 1765|Gammelbyn, Burträsk fs, Burträsk sn|
+p863410b3.html|Johansson-Cardinal-Churfurste|Måns /Johansson-Cardinal-Churfurste/|||1718|Saramski, Ryssland|
+p61f8065d.html|Johansson-Duva|Olof /Johansson-Duva/|6APR 1708|Gammelbyn, Burträsk fs, Burträsk sn|27NOV 1785|Åbyn, Burträsk sn|
+p31c4f00d.html|Johansson-Kurfurste|Jonas (Jon) /Johansson-Kurfurste/|7AUG 1691|Bodbyn 13, Kvarnriset, Burträsk sn|1APR 1777|Bodbyn 8, Burträsk fs, Burträsk sn|
+pcdc78a12.html|Johansson-Skotte-Furman-Furmark|Johan /Johansson-Skotte-Furman-Furmark/|1692|Östanbäck 5, Skellefteå lfs, Skellefteå sn|1754|Kusmark 12, Liden, Skellefteå sn|
+pb899d39e.html|Johansson-Skotte-Gök|Anders /Johansson-Skotte-Gök/|1700|Skellefteå lfs, Skellefteå sn|1791|Böle 2, Sörböle, Skellefteå sn|
+p41dfbf67.html|Johansson-Smed|Nils /Johansson-Smed/|1697|Böle 8, Norrböle, Skellefteå sn|1782|Böle 8, Norrböle, Skellefteå sn|
+pf3ed0870.html|Johansson-Utter|Anders /Johansson-Utter/|1655|Gummark 2, Skellefteå sn|NOV 1710|Porsnäs 5, Otter, Piteå sn|
+p8e6dae3d.html|Johansson Black|Peter /Johansson Black/|MAY 1692|Avan 2, Lövångers fs, Lövångers sn|12NOV 1779|Avan 1, Lövångers fs, Lövångers sn|
+pfcb8c3bb.html|Johansson Boström|Anders /Johansson Boström/|25JUL 1706|Bodbyn 13, Kvarnriset, Burträsk fs, Burträsk sn|OCT 1763|Åbyn, Burträsk sn|
+p2eb0e9a5.html|Johansson Rehn|Elias /Johansson Rehn/|1641|Öjebyn 22, Hamnen, Piteå sn|28FEB 1685|Öjebyn 22, Hamnen, Piteå sn|
+p240e60b9.html|Johansson|Anders /Johansson/|1714|Bureå 2, Skellefteå lfs, Skellefteå sn|||
+paeca1651.html|Johansson|Christier /Johansson/||Gummark, Skellefteå sn|||
+p22d0a534.html|Johansson|Håkan /Johansson/|1728|Renbergsvattnet, Burträsk sn|0|Renbergsvattnet, Burträsk sn|
+p352e7b76.html|Johansson|Johan /Johansson/||Bygdsiljum, Burträsk sn||Bygdsiljum, Burträsk sn|
+pfd8eadaf.html|Johansson|Johan /Johansson/||Gummark 6, Skellefteå lfs, Skellefteå sn|1678|Gummark 6, Skellefteå lfs, Skellefteå sn|
+p6899a259.html|Johansson|Johan /Johansson/|1655|Östanbäck 5, Skellefteå lfs, Skellefteå sn|1739|Östanbäck 5, Skellefteå lfs, Skellefteå sn|
+p094e76e9.html|Johansson|Johan /Johansson/|1706|Böle 8, Norrböle, Skellefteå sn|||
+pa885f6bd.html|Johansson|Jon /Johansson/|4MAR 1714|Gammelbyn, Lövångers fs, Lövångers sn|24NOV 1747|Gammelbyn, Lövångers fs, Lövångers sn|
+p0fcf94cb.html|Johansson|Jonas (Jon) /Johansson/|1722|Renbergsvattnet 1, Burträsk sn|26FEB 1797|Renbergsvattnet 1, Burträsk sn|
+p936c865c.html|Johansson|Jöns /Johansson/|1689|Östanbäck 5, Skellefteå lfs, Skellefteå sn|1769|Östanbäck 5, Skellefteå lfs, Skellefteå sn|
+p17317e4a.html|Johansson|Lars /Johansson/|||||
+p8ce989b3.html|Johansson|Lars /Johansson/||Östanbäck 5, Skellefteå lfs, Skellefteå sn|1686|Bureå 1, Skellefteå sn|
+pa76a2d25.html|Johansson|Lars /Johansson/||Bodbyn 13, Burträsk fs, Burträsk sn|26APR 1698|Bodbyn 13, Burträsk fs, Burträsk sn|
+pfbf856fd.html|Johansson|Lars /Johansson/|1680|Östanbäck 5, Skellefteå lfs, Skellefteå sn|1744|Östanbäck 10, Skellefteå lfs, Skellefteå sn|
+pfefa5678.html|Johansson|Lars /Johansson/|1703|Storkåge 20, Skellefteå lfs, Skellefteå sn|1787|Storkåge 20, Skellefteå lfs, Skellefteå sn|
+pb5dd9497.html|Johansson|Lars /Johansson/|JUL 1704|Bodbyn 13, Kvarnriset, Burträsk fs, Burträsk sn|8MAR 1785|Bodbyn 6, Burträsk fs, Burträsk sn|
+p93b3bfe3.html|Johansson|Måns /Johansson/|1656|Storkåge 17, Jörnkläppen, Skellefteå sn|1736|Storkåge 19, Jörnkläppen, Skellefteå sn|
+p151e168b.html|Johansson|Nils /Johansson/|1669|Gummark 6, Skellefteå lfs, Skellefteå sn|1750|Gummark 6, Skellefteå lfs, Skellefteå sn|
+p2a7461e2.html|Johansson|Olof /Johansson/||Storkåge e, Skellefteå lfs, Skellefteå sn||Storkåge 17, Jörnkläppen, Skellefteå sn|
+p52f49e95.html|Johansson|Olof /Johansson/|1725|Renbergsvattnet, Burträsk sn|14FEB 1815|Renbergsvattnet, Burträsk sn|
+p2cc181a6.html|Johansson|Zackris /Johansson/|1723|Renbergsvattnet 1, Burträsk sn|11NOV 1770|Renbergsvattnet 1, Burträsk sn|
+p51e13e12.html|Jonsdotter Åberg|Anna Brita /Jonsdotter Åberg/|1769|Ljusvattnet 1, Burträsk, Burträsk fs, Burträsk sn|10AUG 1809|Mårtensboda 2, Lövångers sn|
+p0a99c89f.html|Jonsdotter Åberg|Eva Christina (Stina) /Jonsdotter Åberg/|1775|Ljusvattnet 1, Burträsk, Burträsk fs, Burträsk sn|30NOV 1840|Vägsele, Lycksele sn|
+p0d227a0a.html|Jonsdotter Åberg|Justina /Jonsdotter Åberg/|19FEB 1772|Ljusvattnet 1, Burträsk, Burträsk fs, Burträsk sn|||
+pdea74e98.html|Jonsdotter Åberg|Magdalena /Jonsdotter Åberg/|1759|Ljusvattnet 1, Burträsk, Burträsk fs, Burträsk sn|12MAR 1843|Grundträsk, Arvidsjaur sn|
+p902fd8c3.html|Jonsdotter Åberg|Maria Catharina /Jonsdotter Åberg/|1762|Ljusvattnet 1, Burträsk, Burträsk fs, Burträsk sn|||
+p2228ffcd.html|Jonsdotter Åberg|Sara Margareta (Greta) /Jonsdotter Åberg/|1766|Ljusvattnet 1, Burträsk, Burträsk fs, Burträsk sn|||
+p2d4f2c82.html|Jonsdotter|Agnes /Jonsdotter/||Bureå 2, Skellefteå lfs, Skellefteå sn||Burvik 8, Backen, Skellefteå sn|
+pb649ca99.html|Jonsdotter|Brita /Jonsdotter/||||Röbäck, Umeå lfs, Umeå sn|
+p7d0d4db5.html|Jonsdotter|Brita /Jonsdotter/||Yttervik a, Skellefteå sn||Åbyn, Burträsk, Skellefteå sn|
+pab5a5a17.html|Jonsdotter|Brita /Jonsdotter/|DEC 1690|Bygdsiljum 6, Burträsk sn|||
+pb6521098.html|Jonsdotter|Brita /Jonsdotter/|14SEP 1704|Renbergsvattnet 2, Burträsk sn|27DEC 1755|Renbergsvattnet 2, Burträsk sn|
+pd67006db.html|Jonsdotter|Brita /Jonsdotter/|1715|Bursiljum 5, Burträsk sn|||
+pa1111af5.html|Jonsdotter|Brita /Jonsdotter/|1744|Frostkåge 11, Skellefteå lfs, Skellefteå sn|||
+p0b0e034e.html|Jonsdotter|Cecilia /Jonsdotter/||Bureå 2, Skellefteå lfs, Skellefteå sn||Blåsmark, Piteå lfs, Piteå sn|
+pbf00f047.html|Jonsdotter|Christina (Kerstin) /Jonsdotter/|17AUG 1731|Yttervik 6, Skellefteå sn|||
+p50eac03d.html|Jonsdotter|Cicilia /Jonsdotter/|19APR 1713|Renbergsvattnet 2, Burträsk sn|5FEB 1768|Bygdeträsk 8, Innansjön, Burträsk fs, Burträsk sn|
+p0024e1e1.html|Jonsdotter|Elsa /Jonsdotter/|1735|Mjödvattnet, Burträsk sn|13FEB 1794|Gammelbyn, Burträsk fs, Burträsk sn|
+pb1922844.html|Jonsdotter|Gunhild /Jonsdotter/||Yttervik a, Skellefteå sn|1552|Bäck 7, Skellefteå lfs, Skellefteå sn|
+p55039126.html|Jonsdotter|Karin /Jonsdotter/||Renbergsvattnet 1, Burträsk sn|||
+pe2e994f4.html|Jonsdotter|Karin /Jonsdotter/||Yttervik a, Skellefteå sn||Ersmark, Skellefteå sn|
+p07804039.html|Jonsdotter|Karin /Jonsdotter/|24JUL 1763|Renbergsvattnet 1, Burträsk sn|22JUL 1818|Bodbyn 7, Burträsk sn|
+p52930fc1.html|Jonsdotter|Kerstin /Jonsdotter/||Sävar, Umeå sn|||
+pa5be605c.html|Jonsdotter|Kerstin /Jonsdotter/|1722|Bodbyn, Burträsk sn|17MAY 1800|Bodbyn, Burträsk sn|
+p4ab7bd02.html|Jonsdotter|Margareta /Jonsdotter/|13JUN 1738|Storkåge 10, Skellefteå lfs, Skellefteå sn|1797|Innervik 11, Gästgivargården, Skellefteå sn|
+p3c1e4383.html|Jonsdotter|Margareta /Jonsdotter/|9FEB 1759|Gummark 1, Skellefteå lfs, Skellefteå sn|||
+p770af898.html|Jonsdotter|Marget /Jonsdotter/|AUG 1687|Ljusvattnet 3, Burträsk, Burträsk fs, Burträsk sn|13JAN 1754|Ljusvattnet 3, Burträsk, Burträsk fs, Burträsk sn|
+p6f20c2f2.html|Jonsdotter|Marget /Jonsdotter/|1JAN 1715|Renbergsvattnet 2, Burträsk sn|1759|Stämningsgården 2, Berget, Skellefteå sn|
+pd0671f99.html|Jonsdotter|Margreta /Jonsdotter/|1723|Yttervik 4, Skellefteå sn|1786|Boviken 4, Skellefteå lfs, Skellefteå sn|
+p18fe2562.html|Jonsdotter|Maria /Jonsdotter/|1688|Renbergsvattnet 1, Burträsk sn|7DEC 1760|Renbergsvattnet 1, Burträsk sn|
+pb98d9c54.html|Jonsdotter|Maria /Jonsdotter/|1MAY 1728|Yttervik 6, Skellefteå lfs, Skellefteå sn|7JUL 1816|Frostkåge 4, Skellefteå lfs, Skelleffteå sn|
+pa3a8ba07.html|Jonsdotter|Maria Catharina (Maja Cajsa) /Jonsdotter/|12SEP 1792|Frostkåge 3, Skellefteå lfs, Skelleffteå sn|14DEC 1871|Rönnbäcken, Skellefteå lfs, Skellefteå sn|
+p18a8a34a.html|Jonsdotter|Mariet /Jonsdotter/||Bureå 2, Skellefteå lfs, Skellefteå sn|||
+p31c68968.html|Jonsdotter|N /Jonsdotter/||||Hjoggböle 7, Sjön, Skellefteå sn|
+p9f7f0aec.html|Jonsdotter|N /Jonsdotter/||Bureå 2, Skellefteå lfs, Skellefteå sn||Piteå sn|
+pb4212b80.html|Jonsdotter|N /Jonsdotter/||Bureå 2, Skellefteå lfs, Skellefteå sn||Ersmark, Skellefteå sn|
+pd8b25def.html|Jonsdotter|Sara /Jonsdotter/|26DEC 1701|Renbergsvattnet 2, Burträsk sn|||
+pfc360015.html|Jonsdotter|Sara Greta /Jonsdotter/|9JAN 1776|Mjödvattnet, Burträsk sn|5SEP 1856|Åbyn, Burträsk sn|
+pcb766442.html|Jonsson-And|Mårten /Jonsson-And/|1692|Renbergsvattnet 2, Burträsk sn|20APR 1740|Bygdeträsk, Burträsk sn|
+p52b4c53f.html|Jonsson-Brant|Johan /Jonsson-Brant/|1705||1768|Bureå 2, Skellefteå lfs, Skellefteå sn|
+peb35874d.html|Jonsson-Kock|Lars /Jonsson-Kock/||Bureå 5, Skellefteå lfs, Skellefteå sn|||
+p23800202.html|Jonsson-Pamp-Mört-Lindemark|Eric /Jonsson-Pamp-Mört-Lindemark/|1694|Hökmark 6, Lövångers sn|30JAN 1740|Bissjön 6, Lövångers sn|
+pa0a72c9f.html|Jonsson-Reen|Håkan /Jonsson-Reen/|20DEC 1710|Renbergsvattnet 2, Burträsk sn|5NOV 1763|Renbergsvattnet 2, Burträsk sn|
+p88f2a852.html|Jonsson-Renberg|Johan /Jonsson-Renberg/|25APR 1755|Renbergsvattnet 1, Burträsk sn|||
+pb095c1f7.html|Jonsson-Sjöman-Brännare|Per /Jonsson-Sjöman-Brännare/|1686|Frostkåge 6, Sörbyn, Skellefteå lfs, Skellefteå sn|AUG 1741|Frostkåge 6, Sörbyn, Skellefteå lfs, Skellefteå sn|
+pb9e0de8d.html|Jonsson Bure|Sten /Jonsson Bure/||Bureå 2, Skellefteå lfs, Skellefteå sn||Vadstena|
+peca29bc4.html|Jonsson Normark|Anders /Jonsson Normark/|30NOV 1799|Innervik 11, Gästgivargården, Skellefteå sn|13NOV 1850|Innervik 12, Skellefteå lfs, Skellefteå sn|
+p52ac116a.html|Jonsson|Abraham /Jonsson/||||Gammelbyn 8, Svedjan, Burträsk fs, Burträsk sn|
+p75ff8b2c.html|Jonsson|Anders /Jonsson/||Yttervik a, Skellefteå sn||Yttervik 7, Skellefteå sn|
+pe564a5f8.html|Jonsson|Anders /Jonsson/||||Frostkåge 6, Sörbyn, Skellefteå lfs, Skellefteå sn|
+pe9125b67.html|Jonsson|Carl /Jonsson/|1739|Mjödvattnet, Burträsk sn|4SEP 1783|Gammelbyn, Burträsk fs, Burträsk sn|
+p31690fd4.html|Jonsson|Carl /Jonsson/|10DEC 1767|Renbergsvattnet 1, Burträsk sn|27NOV 1857|Renbergsvattnet 1, Burträsk sn|
+p43e78632.html|Jonsson|Erik /Jonsson/||Hjoggböle 7, Sjön, Skellefteå sn||Hjoggböle 7, Sjön, Skellefteå sn|
+p4c4b9c90.html|Jonsson|Johan /Jonsson/|1724|Gammelbyn, Burträsk fs, Burträsk sn|20JAN 1788|Gammelbyn, Burträsk fs, Burträsk sn|
+p7e02fe8f.html|Jonsson|Jon /Jonsson/||||Yttervik 6, Skellefteå sn|
+p32771918.html|Jonsson|Jonas (Jon) /Jonsson/||Renbergsvattnet 1, Burträsk sn|||
+pe8f3de59.html|Jonsson|Jonas /Jonsson/|19JUN 1765|Gummark 1, Noret, Skellefteå lfs, Skellefteå sn|9NOV 1813|Innervik 11, Gästgivargården, Skellefteå sn|
+p7693af06.html|Jonsson|Lars /Jonsson/|1608|Rönnbäcken 1, Skellefteå sn|OCT 1678|Rönnbäcken 1, Skellefteå sn|
+pdaab3316.html|Jonsson|Lasse /Jonsson/||Storkåge 10, Skellefteå lfs, Skellefteå sn||Storkåge 5, Hängengården, Skellefteå sn|
+p6e000211.html|Jonsson|Mats /Jonsson/||Storkåge 10, Skellefteå lfs, Skellefteå sn|||
+p263f025a.html|Jonsson|Mårten /Jonsson/||Storkåge 10, Skellefteå lfs, Skellefteå sn|||
+p3e3247bd.html|Jonsson|Mårten /Jonsson/|1619|Hjoggböle 1, Västra Hjoggböle, Skellefteå sn|1708|Bergsbyn 7, Bergsholmen, Skellefteå sn|
+pf240f0ae.html|Jonsson|Nils /Jonsson/|||||
+p5d1c127c.html|Jonsson|Olof /Jonsson/||Yttervik 6, Skellefteå sn||Yttervik 6, Skellefteå sn|
+pd60cfbaf.html|Jonsson|Olof /Jonsson/||Yttervik a, Skellefteå sn||Yttervik a, Skellefteå sn|
+p9edef290.html|Jonsson|Olof /Jonsson/||Bureå 2, Skellefteå lfs, Skellefteå sn|1559|Bureå 2, Skellefteå lfs, Skellefteå sn|
+paac1276e.html|Jonsson|Olof /Jonsson/|1600||1689||
+p77e49075.html|Jonsson|Olof /Jonsson/|25MAR 1661|Gunsmark, Nysätra sn|1690||
+pab4609c5.html|Jonsson|Pehr /Jonsson/|||||
+p25a9de62.html|Jonsson|Per /Jonsson/||||Degerbyn 2, Skellefteå lfs, Skellefteå sn|
+p909f325e.html|Jonsson|Per /Jonsson/||Storkåge 10, Skellefteå lfs, Skellefteå sn||Storkåge 10, Skellefteå lfs, Skellefteå sn|
+p066e2951.html|Jonsson|Per /Jonsson/||Yttervik 6, Skellefteå sn|1703|Tåme 4, Skellefteå sn|
+p0d835452.html|Jonsson|Pär /Jonsson/|1695|Gumboda, Nysätra sn|3FEB 1767||
+p5438214f.html|Jonsson|Stefan /Jonsson/|11JUN 1758|Renbergsvattnet 1, Burträsk sn|26AUG 1830|Renbergsvattnet 1, Burträsk sn|
+p7947e301.html|Jonsson|Önde /Jonsson/||Storkåge 10, Skellefteå lfs, Skellefteå sn|1659|Storkåge 10, Skellefteå lfs, Skellefteå sn|
+p83b81b62.html|Jönsdotter|Catarina (Karin) /Jönsdotter/|||9MAY 1674|Staden, Piteå sn|
+pdf8faea1.html|Jönsdotter|Karin /Jönsdotter/|MAY 1681|Ljusvattnet, Burträsk sn|20DEC 1766|Ljusvattnet, Burträsk sn|
+p298681dc.html|Jönsdotter|Karin /Jönsdotter/|1726|Östanbäck 5, Skellefteå lfs, Skellefteå sn|17MAR 1809|Frostkåge 14, Skellefteå lfs, Skellefteå sn|
+pda724cd3.html|Jönsdotter|Margreta /Jönsdotter/|18FEB 1725|Östanbäck 5, Skellefteå lfs, Skellefteå sn||Östanbäck 5, Skellefteå lfs, Skellefteå sn|
+p2d38f050.html|Jönsson-Bäck|Måns /Jönsson-Bäck/|1715|Östanbäck 5, Skellefteå lfs, Skellefteå sn|1743|Roten 110 Bäck, Östanbäck, Skellefteå sn|
+p2ea18fe0.html|Jönsson|Anders /Jönsson/||Bodan 6, Lövångers fs, Lövångers sn|1699|Bodan 6, Lövångers fs, Lövångers sn|
+pf93c5893.html|Jönsson|Johan /Jönsson/|1718|Östanbäck 5, Skellefteå lfs, Skellefteå sn|1763|Östanbäck 5, Skellefteå lfs, Skellefteå sn|
+pac6aaaf1.html|Jönsson|Olof /Jönsson/|||||
+pde049844.html|Jönsson|Tomas /Jönsson/||||Hiske, Umeå sn|
+p2a556ac7.html|Karlsson|Jon /Karlsson/||Tåme 4, Skellefteå sn||Tåme 4, Skellefteå sn|
+p6223e494.html|Kettilsson|Tomas /Kettilsson/||Degerbyn 3, Skellefteå sn|1596|Storkåge 4, Granden, Skellefteå sn|
+p73c7db1f.html|Knutsdotter|Brita /Knutsdotter/||Ersmark 11, Falshemmanet, Skellefteå sn||Ersmark 11, Falshemmanet, Skellefteå sn|
+p948952c2.html|Larsdotter Björk|Sara /Larsdotter Björk/|||APR 1698|Bodbyn 13, Kvarnriset, Burträsk fs, Burträsk sn|
+p17becbbf.html|Larsdotter|Anna /Larsdotter/|1662|Gunsmark, Nysätra sn|||
+p2263ffa0.html|Larsdotter|Anna /Larsdotter/|23NOV 1765|Brände, Nysätra fs, Nysätra sn|26APR 1850|Åbyn, Burträsk sn|
+p4cd7dc09.html|Larsdotter|Barbro /Larsdotter/|||||
+p43f33ebf.html|Larsdotter|Brita /Larsdotter/|1703|Burvik 3, Skellefteå lfs, Skellefteå sn|1777|Burvik 3, Skellefteå lfs, Skellefteå sn|
+pd7a7d185.html|Larsdotter|Britta /Larsdotter/||Storkåge 19, Skellefteå lfs, Skellefteå sn||Sjulnäs, Piteå sn|
+pb7fdc6e0.html|Larsdotter|Cecilia /Larsdotter/|||JUL 1695|Renbergsvattnet 2, Burträsk sn|
+p16b24116.html|Larsdotter|Elsa /Larsdotter/|1666||24AUG 1740|Blacke, Lövångers sn|
+pee2c379c.html|Larsdotter|Karin /Larsdotter/|1658|Storkåge 19, Jörnkläppen, Skellefteå sn|1728|Storkåge 19, Jörnkläppen, Skellefteå sn|
+p80b069c3.html|Larsdotter|Karin /Larsdotter/|1661|Degerbyn 1, Skellefteå sn|1735|Bureå 2, Skellefteå lfs, Skellefteå sn|
+p54c46f27.html|Larsdotter|Karin /Larsdotter/|1692|Hertzånger, Nysätra sn|||
+p0d6469ff.html|Larsdotter|Katarina (Karin) /Larsdotter/|1710|Boviken 1, Skellefteå lfs, Skellefteå sn|1801|Byske, Skellefteå sn|
+p4a746178.html|Larsdotter|Kelu /Larsdotter/|1658|Skellefteå sn|1740|Östanbäck 5, Skellefteå lfs, Skellefteå sn|
+p8e986dcb.html|Larsdotter|Kerstin /Larsdotter/||Boviken 3, Skellefteå lfs, Skellefteå sn||Boviken 3, Skellefteå lfs, Skellefteå sn|
+p35921780.html|Larsdotter|Kerstin /Larsdotter/|1640|Hjoggböle, Skellefteå sn|1732|Storkåge 17, Jörnkläppen, Skellefteå sn|
+pc9c183b4.html|Larsdotter|Magdlena (Malin) /Larsdotter/||Bissjön 3, Lövångers sn|1744|Bissjön 3, Lövångers sn|
+p0451350a.html|Larsdotter|Malin /Larsdotter/|1689|Hertzånger, Nysätra sn|31JAN 1767||
+pc4a3c140.html|Larsdotter|Mariet /Larsdotter/||Storkåge 19, Skellefteå lfs, Skellefteå sn||Burträsk sn|
+pedcdeb62.html|Larsdotter|N /Larsdotter/||Storkåge 19, Jörnkläppen, Skellefteå sn|||
+pc62c3e19.html|Larsdotter|N /Larsdotter/||Storkåge 19, Jörnkläppen, Skellefteå sn|||
+p99346af0.html|Larsdotter|N /Larsdotter/||Östanbäck 4, Skellefteå lfs, Skellefteå sn|1663|Östanbäck 5, Skellefteå lfs, Skellefteå sn|
+p226986e7.html|Larsdotter|Sara /Larsdotter/|8NOV 1694|Bursiljum 9, Svarttjärn, Burträsk sn|13MAY 1753|Bodbyn 8, Burträsk fs, Burträsk sn|
+p514f0df2.html|Larsdotter|Sara /Larsdotter/|1705|Burvik 3, Skellefteå lfs, Skellefteå sn|1742|Gärdsmark 4, Skellefteå lfs, Skellefteå sn|
+pbeda65b2.html|Larsson-Ryss|Per /Larsson-Ryss/|1676|Hedensbyn 1, Skellefteå lfs, Skellefteå sn|1758|Hedensbyn 1, Skellefteå lfs, Skellefteå sn|
+pb8b6b75f.html|Larsson-Tröger|Olof /Larsson-Tröger/|1696|Hertzånger, Nysätra sn|12MAY 1782||
+p22f96592.html|Larsson Sibort|Olof /Larsson Sibort/|1599|Myckle 3, Skellefteå lfs, Skellefteå sn|APR 1682|Degerbyn 1, Skellefteå sn|
+pafceee6b.html|Larsson Skinnare|Nils /Larsson Skinnare/||Östanbäck 4, Skellefteå lfs, Skellefteå sn||Östanbäck 4, Skellefteå lfs, Skellefteå sn|
+p599e72e2.html|Larsson|Anders /Larsson/||Tjärn 5, Skellefteå sn|||
+p747c39e1.html|Larsson|Anders /Larsson/||Östanbäck 4, Skellefteå lfs, Skellefteå sn|||
+pbe5fdfd8.html|Larsson|Anders /Larsson/||Storkåge 9, Skellefteå lfs, Skellefteå sn||Storkåge 9, Skellefteå lfs, Skellefteå sn|
+p4472f9ba.html|Larsson|Anders /Larsson/||Myckle 3, Skellefteå lfs, Skellefteå sn|1674|Myckle 3, Skellefteå lfs, Skellefteå sn|
+pe9055ddc.html|Larsson|Anders /Larsson/|1712|Boviken 1, Skellefteå lfs, Skellefteå sn|1796|Boviken 1, Skellefteå lfs, Skellefteå sn|
+pc19556ee.html|Larsson|Anders /Larsson/|30OCT 1745|Vebomark, Lövångers fs, Lövångers sn|||
+p6f867ffc.html|Larsson|Erik /Larsson/|||||
+p5a8dd8ea.html|Larsson|Håkan /Larsson/|1702|Hertzånger, Nysätra sn|0||
+p03cb1b3b.html|Larsson|Israel /Larsson/|12JUL 1763|Jeppnäs, Burträsk sn|28APR 1840|Vägsele, Lycksele sn|
+p0b7ee782.html|Larsson|Jakob /Larsson/||||Burträsk, Skellefteå lfs, Skellefteå sn|
+p91e4676d.html|Larsson|Jakob /Larsson/|||||
+pa5ba91f4.html|Larsson|Jakob /Larsson/||Storkåge 19, Jörnkläppen, Skellefteå sn|||
+p682e478d.html|Larsson|Jakob /Larsson/||Ytterbyn, Skellefteå lfs, Skellefteå sn|1638|Bodbyn 7, Brännan, Burträsk fs, Burträsk sn|
+p483f08f6.html|Larsson|Jakob /Larsson/||Bodbyn 7, Brännan, Burträsk fs, Burträsk sn|22MAY 1684|Bodbyn 7, Brännan, Burträsk fs, Burträsk sn|
+p4769f27d.html|Larsson|Jöns /Larsson/|||||
+p51f036e5.html|Larsson|Lars /Larsson/|1665|Burvik 3, Skellefteå lfs, Skellefteå sn|1741|Burvik 3, Skellefteå lfs, Skellefteå sn|
+p4261fbdf.html|Larsson|Mats /Larsson/||Burvik 3, Skellefteå lfs, Skellefteå sn||Burvik 3, Skellefteå lfs, Skellefteå sn|
+p0a5efb94.html|Larsson|Mårten /Larsson/||Tjärn 5, Skellefteå sn|||
+p997d8fd5.html|Larsson|Mårten /Larsson/||Porsnäs, Piteå sn||Porsnäs, Piteå sn|
+pde210960.html|Larsson|Nils /Larsson/||Tjärn 5, Skellefteå sn||Tjärn 5, Skellefteå sn|
+pba1eec23.html|Larsson|Nils /Larsson/||Burvik 3, Skellefteå lfs, Skellefteå sn||Burvik 4, Skellefteå lfs, Skellefteå sn|
+p73eebc5a.html|Larsson|Nils /Larsson/|7APR 1756|Yttre Webbomark, Lövånger sn|||
+p717debb2.html|Larsson|Olof /Larsson/||Storkåge 19, Skellefteå lfs, Skellefteå sn||Storkåge 19, Skellefteå lfs, Skellefteå sn|
+p471467b6.html|Larsson|Olof /Larsson/|||||
+pbd63cadb.html|Larsson|Olof /Larsson/|18AUG 1704|Åbyn 10, Burträsk sn|13JAN 1750|Åbyn, Burträsk sn|
+p09c827ac.html|Larsson|Per /Larsson/||Tjärn 5, Skellefteå sn|||
+p807803f2.html|Larsson|Per /Larsson/|||1648|Bygdsiljum, Burträsk sn|
+pe633066f.html|Larsson|Per /Larsson/||Storkåge 19, Jörnkläppen, Skellefteå sn|1676|I soldattjänst|
+p6c3acd79.html|Larsson|Per /Larsson/|1631|Åbyn 7, Burträsk fs, Burträsk sn|29MAY 1733|Åbyn 7, Burträsk fs, Burträsk sn|
+p8db4aadf.html|Larsson|Per /Larsson/|1661|Bygdsiljum 3, Burträsk sn|25JUN 1748|Bygdeträsk 6, Burträsk sn|
+p53f5e1bc.html|Lind|Anna Eva Maria /Lind/|22MAR 1908|Svartöstaden, Nederluleå fs, Luleå sn|23DEC 1981|Anderstorg 16, Skellefteå, Skellefteå lfs, Skellefteå kn|
+pb9b3e126.html|Lindgren|Jonas (Jon) /Lindgren/|9APR 1797|Tjälen, Lövånger sn|||
+pbd630d0c.html|Lundström|Jack Oskar /Lundström/|24APR 1933|Skellefteå, Skellefteå sfs, Skellefteå stad|||
+p3fd2d636.html|Lundström|Karl /Lundström/|5NOV 1869|Gärdsmark 3, Skellefteå lfs, Skellefteå sn|1FEB 1943|Gärdsmark 3, Skellefteå lfs, Skellefteå sn|
+p34e65d3a.html|Lundström|Oskar Johannes /Lundström/|19DEC 1902|Gärdsmark 3, Skellefteå lfs, Skellefteå sn|14OCT 1984|Lingonstigen 12 /Lundström/, Skellefteå, Sankt Olovs fs, Skellefteå kn|
+pd00d135e.html|Marcusdotter|Margareta Catharina (Greta Cajsa) /Marcusdotter/|1JUL 1802|Innervik 8, Skellefteå lfs, Skellefteå sn|24MAR 1841|Innervik 12, Gästgivargården, Skellefteå sn|
+p1204356e.html|Markgren|Margareta Gustava /Markgren/|12JAN 1868|Gummark, Skellefteå lfs, Skellefteå sn|21MAY 1952|Nygatan 104, Skellefteå kfbd, Skellefteå stad|
+p36cf45c3.html|Markusson|Anders /Markusson/||Boviken 3, Skellefteå lfs, Skellefteå sn|1645|Hälsingland|
+pe6b2d393.html|Markusson|Erik /Markusson/||Boviken 3, Skellefteå lfs, Skellefteå sn||Boviken 3, Skellefteå lfs, Skellefteå sn|
+p6a24e9a4.html|Markusson|Olof /Markusson/||Boviken 3, Skellefteå lfs, Skellefteå sn||Boviken 3, Skellefteå lfs, Skellefteå sn|
+pbffea18e.html|Matsdotter|Karin /Matsdotter/||Burvik 3, Skellefteå lfs, Skellefteå sn|||
+p82ec393d.html|Matsdotter|Marit /Matsdotter/||Burvik 3, Skellefteå lfs, Skellefteå sn|||
+pc98fe3d3.html|Matsson|Anders /Matsson/||Burvik 3, Skellefteå lfs, Skellefteå sn||Burvik 3, Skellefteå lfs, Skellefteå sn|
+pd776921c.html|Matsson|Lars /Matsson/||Burvik 3, Skellefteå lfs, Skellefteå sn|||
+p9a4f6aa5.html|Matsson|Mårten /Matsson/||Burvik 3, Skellefteå lfs, Skellefteå sn|||
+p99d9b69d.html|Matsson|Per /Matsson/||Burvik 3, Skellefteå lfs, Skellefteå sn|||
+p41a5b6fb.html|Mattsdotter  Boström|Margareta /Mattsdotter  Boström/|1MAR 1768|Umeå|23JUN 1822|Sävar, Umeå lfs, Umeå sn|
+p25b3d830.html|Mattsdotter Djurman|Margareta /Mattsdotter Djurman/|1710|Umeå sfs, Umeå stad|8JUN 1788|Åbyn, Burträsk sn|
+p0f87c5d8.html|Mattsdotter Enbeck|Kerstin /Mattsdotter Enbeck/||Önderbyn, Bygdeå sn|||
+p82b3b0f7.html|Mattsdotter|Anna Brita /Mattsdotter/|1800|Mårtensboda 2, Lövångers sn|||
+pdd941171.html|Mattsdotter|Christina Catharina /Mattsdotter/|18FEB 1784|Mårtensboda 2, Lövångers sn|9JUL 1851||
+p39e4bda7.html|Mattsdotter|Maria Margareta /Mattsdotter/|25APR 1798|Mårtensboda 2, Lövångers sn|||
+p70890006.html|Mattsdotter|N /Mattsdotter/||Falmark, Skellefteå lfs, Skellefteå sn||Renbergsvattnet 3, Burträsk fs, Burträsk sn|
+pbdc89fed.html|Mattsson-Käck|Per /Mattsson-Käck/|10MAR 1794|Mårtensboda, Lövångers sn|8OCT 1873|Rönnbäcken, Skellefteå lfs, Skellefteå sn|
+p90ec5bc5.html|Mattsson Djurman|Anders /Mattsson Djurman/|||1709||
+pb5f9ce71.html|Mattsson Djurman|Per /Mattsson Djurman/||Umeå stad|||
+pa3ba84b2.html|Mattsson Skog|Nils /Mattsson Skog/|7OCT 1796|Mårtensboda 2, Lövångers sn|||
+p254656b8.html|Mattsson|Andreas (Anders) /Mattsson/|22AUG 1786|Mårtensboda 2, Lövångers sn|||
+p6ad77ba5.html|Mattsson|Jonas /Mattsson/|20APR 1795|Mårtensboda 2, Lövångers sn|||
+p569d450d.html|Mattsson|Mattias /Mattsson/|22FEB 1789|Mårtensboda 2, Lövångers sn|31DEC 1874|Mårtensboda 1, Lövångers fs, Lövångers sn|
+p03c011de.html|Mattsson|Olof /Mattsson/|1662|Ytterursviken 4, Skellefteå lfs, Skellefteå sn|1737|Ytterursviken 4, Skellefteå lfs, Skellefteå sn|
+pc116df73.html|Mattsson|Stephanus /Mattsson/|24JAN 1781|Mårtensboda 2, Lövångers sn|9NOV 1862|Tjärnberg, Norsjö fs, Norsjö sn|
+ped49fe2c.html|Mellin|Brita /Mellin/|11FEB 1752|Gammelbyn, Burträsk fs, Burträsk sn|||
+pae066369.html|Michaelsdotter|Kerstin /Michaelsdotter/|MAY 1683||29APR 1733|Mjödvattnet, Burträsk sn|
+pb4428d43.html|Michelsdotter|Elsa /Michelsdotter/|||1688||
+p378f70f4.html|Michelsson|Pär /Michelsson/|DEC 1659||NOV 1737||
+pc21d3ac4.html|Mickelsson|Anders /Mickelsson/|||||
+pe8d2da1b.html|Moesson|Anders /Moesson/||Burvik 6, Skellefteå lfs, Skellefteå sn|||
+peb88858a.html|Mosesdotter|Anna /Mosesdotter/||Burvik 6, Skellefteå lfs, Skellefteå sn|||
+p2262a953.html|Mosesdotter|Brita /Mosesdotter/||Burvik 6, Skellefteå lfs, Skellefteå sn|||
+pa6240a0b.html|Mosesson-Nyman|Per /Mosesson-Nyman/|1661|Burvik 6, Skellefteå lfs, Skellefteå sn|1740|Burvik 6, Skellefteå lfs, Skellefteå sn|
+pf68ceb66.html|Mosesson|Håkan /Mosesson/||Burvik 6, Skellefteå lfs, Skellefteå sn|||
+p441831d0.html|Mosesson|Moses /Mosesson/||Burvik 6, Skellefteå lfs, Skellefteå sn|||
+p0551c7c4.html|Mosesson|Per /Mosesson/||Storkåge 19, Skellefteå lfs, Skellefteå sn||Storkåge 19, Skellefteå lfs, Skellefteå sn|
+pfe74ac38.html|Mosesson|Per /Mosesson/|1602|Burvik 6, Skellefteå lfs, Skellefteå sn|1663|Burvik 6, Skellefteå lfs, Skellefteå sn|
+pd257a9ca.html|Månsdotter|Brita /Månsdotter/|1683|Storkåge 19, Jörnkläppen, Skellefteå sn|1731|Kusmark 6, Brönet, Skellefteå sn|
+pd39dc4b0.html|Månsdotter|Karin /Månsdotter/|1694|Storkåge 19, Jörnkläppen, Skellefteå sn|1754|Storkåge 20, Skellefteå lfs, Skellefteå sn|
+p0f398a5c.html|Månsdotter|Kerstin /Månsdotter/||Tjärn 3, Skellefteå sn||Storkåge 17, Jörnkläppen, Skellefteå sn|
+p244441b2.html|Månsdotter|Malin /Månsdotter/|1699|Storkåge 19, Jörnkläppen, Skellefteå sn|1769|Östanbäck 13, Skellefteå lfs, Skellefteå sn|
+p16afe799.html|Månsdotter|Margareta /Månsdotter/|1688|Storkåge 19, Jörnkläppen, Skellefteå sn|1758|Östanbäck 5, Skellefteå lfs, Skellefteå sn|
+pc5fe8325.html|Månsdotter|Mariet /Månsdotter/|1681|Storkåge 19, Jörnkläppen, Skellefteå sn|1733|Storkåge 19, Jörnkläppen, Skellefteå sn|
+p6c6c0cf5.html|Månsdotter|N /Månsdotter/||Tjärn 3, Skellefteå sn|||
+pc642d4be.html|Månsdotter|N /Månsdotter/||Tjärn 3, Skellefteå sn|||
+p5dc7b2b8.html|Månsdotter|N /Månsdotter/||Tjärn 3, Skellefteå sn|||
+p1c9e2847.html|Månsdotter|N /Månsdotter/||Tjärn 3, Skellefteå sn|1685|Tjärn 3, Skellefteå sn|
+pecabbc16.html|Månsson|Anders /Månsson/||Tjärn 3, Skellefteå sn|1637|Tjärn 3, Skellefteå sn|
+p26a110d7.html|Månsson|Anders /Månsson/|1621|Tjärn 3, Skellefteå sn|1635|Stettin, Polen|
+p805665f2.html|Månsson|Erik /Månsson/||Mjödvattnet 6, Burträsk sn|JUN 1688|Mjödvattnet 6, Burträsk sn|
+p9486f0ad.html|Månsson|Jon /Månsson/||Mjödvattnet 6, Burträsk sn|1646|Mjödvattnet 6, Burträsk sn|
+p08da988d.html|Månsson|Olof /Månsson/||Tjärn 3, Skellefteå sn|1645|Utanför Köpenhamn|
+p61bc0cab.html|Månsson|Zackris /Månsson/||Mjödvattnet 6, Burträsk sn|||
+p8a3c68f3.html|Mårtensdotter|Anna /Mårtensdotter/|1671|Bergsbyn 7, Bergsholmen, Skellefteå sn|1734|Ersmark 5, Jåsshemmanet, Skellefteå sn|
+p2149aa51.html|Mårtensdotter|Anna /Mårtensdotter/|6JAN 1701|Åbyn 3, Burträsk fs, Burträsk sn|13MAY 1781|Andersvattnet, Burträsk sn|
+pbf6e8722.html|Mårtensdotter|Karin /Mårtensdotter/||Åbyn 3, Burträsk fs, Burträsk sn|||
+pc75423d6.html|Mårtensdotter|Karin /Mårtensdotter/|1657|Hjoggböle a, Västra, Skellefteå sn|1743|Yttervik 2, Skellefteå sn|
+p7682bb3c.html|Mårtensdotter|Kerstin /Mårtensdotter/|1660|Hjoggböle a, Västra, Skellefteå sn|1747|Yttervik 5, Hällbacken, Skellefteå sn|
+p93a1be88.html|Mårtensdotter|Lisbeta /Mårtensdotter/|1676|Bergsbyn 7, Bergsholmen, Skellefteå sn|1765|Hedensbyn 1, Skellefteå lfs, Skellefteå sn|
+p2ad69455.html|Mårtensdotter|Malin /Mårtensdotter/|1672|Bergsbyn 7, Bergsholmen, Skellefteå sn|1759|Ytterursviken 4, Skellefteå lfs, Skellefteå sn|
+pae20df62.html|Mårtensdotter|Margareta /Mårtensdotter/|1654|Hjoggböle a, Västra, Skellefteå sn|24DEC 1736|Porsnäs 5, Otter, Piteå sn|
+pae355ea1.html|Mårtensdotter|Sara /Mårtensdotter/|1650|Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn|1742|Bergsbyn 3, Skellefteå sn|
+p8918e05b.html|Mårtensson-Frisk|Mårten /Mårtensson-Frisk/|1721|Bursiljum 8, Svarttjärn, Burträsk sn|15JUL 1796|Järvträsk, Burträsk sn|
+pda60ead4.html|Mårtensson-Utter|Stefan /Mårtensson-Utter/|22MAR 1696|Renbergsvattnet 6, Burträsk sn|11NOV 1770|Renbergsvattnet 6, Burträsk sn|
+pb5aafc4f.html|Mårtensson (Månsson)|Anders /Mårtensson (Månsson)/||Renbergsvattnet 1 , Skellefteå lfs, Skellefteå sn|||
+pc519c813.html|Mårtensson|Abraham /Mårtensson/|DEC 1682|Åbyn 3, Burträsk fs, Burträsk sn|14MAR 1761|Ljusvattnet 3, Burträsk, Burträsk fs, Burträsk sn|
+p0c1352e7.html|Mårtensson|Anders /Mårtensson/||Renbergsvattnet 3, Burträsk fs, Burträsk sn||Renbergsvattnet 3, Burträsk fs, Burträsk sn|
+pdc268cbc.html|Mårtensson|Anders /Mårtensson/|1679|Åbyn 3, Burträsk fs, Burträsk sn|11FEB 1758|Åbyn 3, Burträsk fs, Burträsk sn|
+p1081a682.html|Mårtensson|Christiern /Mårtensson/|||||
+p0f94e157.html|Mårtensson|Clemet /Mårtensson/||Pitholm, Piteå sn||Pitholm, Piteå sn|
+p1d5ba62d.html|Mårtensson|Gert /Mårtensson/|1658|Hjoggböle a, Västra, Skellefteå sn|1747|Bergsbyn 7, Bergsholmen, Skellefteå sn|
+pbacb8c99.html|Mårtensson|Jon /Mårtensson/||Renbergsvattnet 3, Burträsk sn|1629|Hjoggböle 1, Västra Hjoggböle, Skellefteå sn|
+p9a579008.html|Mårtensson|Jon /Mårtensson/|1724|Qvarnbyn, Burträsk sn|19JUN 1783|Qvarnbyn, Burträsk sn|
+p74840fc0.html|Mårtensson|N /Mårtensson/||Burvik a, Skellefteå sn|1578|Burvik a, Skellefteå sn|
+p63022767.html|Mårtensson|Nikodemus /Mårtensson/|1663|Hjoggböle a, Västra, Skellefteå sn|||
+pbee27872.html|Mårtensson|Nils /Mårtensson/||Åbyn 3, Burträsk fs, Burträsk sn|1660|Åbyn 3, Burträsk fs, Burträsk sn|
+p2e1fe6ff.html|Mårtensson|Olof /Mårtensson/||||Yttervik 5, Hällbacken, Skellefteå sn|
+p839bdce4.html|Mårtensson|Olof /Mårtensson/|1657|Kålaboda, Nysätra sn|1720||
+p4b68078e.html|Mårtensson|Per /Mårtensson/||Bergsbyn 7, Bergsholmen, Skellefteå sn|||
+pf597294f.html|Mårtensson|Petrus (Per) /Mårtensson/|25AUG 1729|Hedensbyn 5, Brönet, Skellefteå sn|17SEP 1809|Yttervik, Skellefteå sn|
+p26e42688.html|Mårtensson|Stefan /Mårtensson/|24JAN 1692|Åbyn 3, Burträsk fs, Burträsk sn|24APR 1777|Åbyn 16, Burträsk fs, Burtrräsk sn|
+pbc56ed5c.html|Mårtensson|Sven /Mårtensson/|1604||1683|Yttervik 5, Hällbacken, Skellefteå sn|
+p93cd75ee.html|N|(Bur-Mariet?) /N/||Skellefteå lfs, Skellefteå sn||Bureå 6, Skellefteå lfs, Skellefteå sn|
+p35560417.html|N|Albrekt /N/|1475|Myckle 3, Skellefteå lfs, Skellefteå sn|1543|Myckle 3, Skellefteå lfs, Skellefteå sn|
+pd567e487.html|N|Andreas /N/|||1506|Storkåge 4, Granden, Skellefteå sn|
+pd73caaf0.html|N|Anna /N/||Ostvik 9, Skellefteå lfs, Skellefteå sn||Ostvik 9, Skellefteå lfs, Skellefteå sn|
+p84809d76.html|N|Anna /N/|||||
+p51e45408.html|N|Anna /N/||||Tjärn 3, Skellefteå sn|
+pef3c14aa.html|N|Anna /N/|||DEC 1717|Renbergsvattnet 1, Burträsk sn|
+p8a7f7cd7.html|N|Anna /N/|||MAR 1724|Mjödvattnet, Burträsk sn|
+p5a92a9be.html|N|Brita /N/|1654||MAR 1731|Renbergsvattnet 1, Burträsk sn|
+p2c85a55d.html|N|Britta /N/|1645|Skellefteå sn|1731|Yttervik 5, Hällbacken, Skellefteå sn|
+p3834978e.html|N|Elisabet /N/||||Burvik 6, Skellefteå lfs, Skellefteå sn|
+pdf1858c2.html|N|Herr Peder /N/||||Vada, Vallentuna sn|
+p2ba96a08.html|N|Herse(?) /N/|||1385|Lövånger|
+p5afa5abe.html|N|Jakob /N/||||Jävre, Piteå lfs, Piteå sn|
+pade3d816.html|N|Karin /N/|||||
+p32afa3d3.html|N|Karin /N/||||Gammelbyn 8, Svedjan, Burträsk fs, Burträsk sn|
+p43f5b720.html|N|Karin /N/|||||
+p66bea079.html|N|Karin /N/||||Böle 10, Norrböle, Skellefteå sn|
+p8e14e6e8.html|N|Karin /N/||||Boviken 3, Skellefteå lfs, Skellefteå sn|
+p79f151bc.html|N|Karin /N/||||Tjärn 5, Skellefteå sn|
+pf7bc85d3.html|N|Kerstin /N/||||Bodan 6, Lövångers fs, Lövångers sn|
+p91f8f7ce.html|N|Kerstin /N/||||Tjärn 5, Skellefteå sn|
+pa7442967.html|N|Kerstin /N/|||1663|Tjärn 3, Skellefteå sn|
+pc756c63b.html|N|Kälug (Kjellög) /N/|1450|Grubbe, Umeå sn||Bureå 8, Skellefteå sn|
+p60fb0411.html|N|Kälug /N/||||Böle 8, Norrböle, Skellefteå sn|
+p5780d0fb.html|N|Lucia /N/|||FEB 1691|Åbyn 3, Burträsk fs, Burträsk sn|
+p3078a6e9.html|N|Margareta /N/|||1659|Mjödvattnet 6, Burträsk sn|
+p9d6f70d1.html|N|Margareta /N/|||JUL 1677|Degerbyn 1, Skellefteå sn|
+p820e4e7d.html|N|Margareta /N/|||1691|Myckle 6, Skellefteå lfs, Skellefteå sn|
+pcf2dac3d.html|N|Margareta /N/|1650||1731|Yttervik 6, Skellefteå sn|
+pfc6bdfab.html|N|Margeta /N/||||Gammelbyn 8, Svedjan, Burträsk fs, Burträsk sn|
+p5317b27a.html|N|Mariet (Märta) /N/|||||
+pf9ae8dc5.html|N|Mariet /N/||||Ostvik 9, Skellefteå lfs, Skellefteå sn|
+p83bbc439.html|N|Mariet /N/||Skellefteå lfs, Skellefteå sn|||
+p136cc699.html|N|Mårten /N/||||Renbergsvattnet 3, Burträsk fs, Burträsk sn|
+pd4f881ba.html|N|Märet (Mariet) /N/|||1705|Gummark 6, Skellefteå lfs, Skellefteå sn|
+p4a58070a.html|N|N /N/||||Gammelbyn 7, Västomsundet,  Burträsk fs, Burträsk sn|
+pc2b4d670.html|N|N /N/||||Bureå 1, Skellefteå lfs, Skellefteå sn|
+pe6b02da2.html|N|N /N/||||Myckle 3, Skellefteå lfs, Skellefteå sn|
+p7fd185af.html|N|N /N/||||Bureå 1, Skellefteå sn|
+p12724959.html|N|N /N/||||Bureå 6, Skellefteå lfs, Skellefteå sn|
+pc246ec5a.html|N|N /N/||||Stämningsgården 5, Skellefteå sn|
+p4fd738ca.html|N|N /N/||Torneå, Österbotten|||
+pbf28298c.html|N|N /N/||||Myckle 3, Skellefteå lfs, Skellefteå sn|
+p73bb1102.html|N|N /N/||||Hjoggböle 7, Sjön, Skellefteå sn|
+pfeb9d0ca.html|N|N /N/||||Ostvik 9, Skellefteå lfs, Skellefteå sn|
+p11f9f2a8.html|N|N /N/|||||
+p93525529.html|N|N /N/||||Boviken 3, Skellefteå lfs, Skellefteå sn|
+pf97848c3.html|N|N /N/||||Boviken 3, Skellefteå lfs, Skellefteå sn|
+p3eef5556.html|N|N /N/|||||
+p51df8047.html|N|N /N/||||Gammelbyn 8, Svedjan, Burträsk fs, Burträsk sn|
+pf4bfea3c.html|N|N /N/||||Yttervik 5, Hällbacken, Skellefteå sn|
+p95136727.html|N|N /N/||||Ostvik 10, Frambyn, Skellefteå sn|
+paf2c328c.html|N|N /N/||Ostvik 10, Frambyn, Skellefteå sn|||
+pf9dec8ea.html|N|N /N/|||||
+p9711493b.html|N|N /N/||Bälinge sn, Uppland|||
+p958d601c.html|N|N /N/||||Gammelbyn 8, Svedjan, Burträsk fs, Burträsk sn|
+p0dfa4889.html|N|N /N/|||||
+p3479065b.html|N|N /N/||Bureå, Skellefteå sn|||
+p1613f4d2.html|N|N /N/||||Bureå 2, Skellefteå lfs, Skellefteå sn|
+pafe1668a.html|N|N /N/||||Viken, Skellefteå sn|
+pc382fa4c.html|N|N /N/||||Burvik 4, Skellefteå lfs, Skellefteå sn|
+pa79b3988.html|N|N /N/||||Burvik 3, Skellefteå lfs, Skellefteå sn|
+p0a60dcd1.html|N|N /N/||||Gummark 6, Skellefteå lfs, Skellefteå sn|
+pb17981c0.html|N|N /N/|||||
+pf77a3480.html|N|N /N/||||Storkåge 19, Jörnkläppen, Skellefteå sn|
+pbc087a85.html|N|N /N/|||||
+p501ba925.html|N|N /N/|||||
+pe1c67ab1.html|N|N /N/||||Myckle 3, Skellefteå lfs, Skellefteå sn|
+peb31071c.html|N|N /N/||Bureå 8, Skellefteå sn|||
+pde2cc2ce.html|N|N /N/|||||
+p862c6671.html|N|N /N/||||Bureå 2, Skellefteå lfs, Skellefteå sn|
+p52db6e60.html|N|N /N/|||1631|Mjödvattnet 6, Burträsk sn|
+p4fde5ed8.html|N|N /N/|||1641|Bygdsiljum, Burträsk sn|
+p1ef05ddb.html|N|N /N/|||1647|Storkåge 19, Jörnkläppen, Skellefteå sn|
+p716e8cbe.html|N|N /N/|||1662|Myckle 6, Skellefteå lfs, Skellefteå sn|
+p0cfe0499.html|N|N /N/|||1679|Storkåge 10, Skellefteå lfs, Skellefteå sn|
+p0fc26e91.html|N|N /N/|||1684|Boviken 3, Skellefteå lfs, Skellefteå sn|
+pc49ebd34.html|N|N /N/|||1694|Holmsvattnet 1, Skellefteå lfs, Skellefteå sn|
+p6e9775bf.html|N|N /N/|||JUL 1696|Bodbyn 13, Kvarnriset, Burträsk fs, Burträsk sn|
+pa9146860.html|N|N /N/|||1709|Gummark 6, Skellefteå lfs, Skellefteå sn|
+p6b05a890.html|N|N /N/|||1710|Bergsbyn 7, Bergsholmen, Skellefteå sn|
+p0f732bc4.html|N|N /N/|||1710|Boviken 3, Skellefteå lfs, Skellefteå sn|
+peb5799f5.html|N|Olof /N/||||Bäck 7, Skellefteå lfs, Skellefteå sn|
+ped00a67a.html|N|Sara /N/||||Burvik 3, Skellefteå lfs, Skellefteå sn|
+pf5a21c7b.html|N|Sara /N/|||1671|Staden, Piteå sn|
+p79fce124.html|N|Sara /N/|||1688|Degerbyn 1, Skellefteå sn|
+p13deace1.html|N|Sigrid /N/||Burvik a, Skellefteå sn||Burvik 3, Skellefteå lfs, Skellefteå sn|
+p3e3adfb1.html|N|Sigrid /N/||||Bureå 2, Skellefteå lfs, Skellefteå sn|
+p3a0a9a8e.html|Nicodemidotter|Elisabet (Lisbeta) /Nicodemidotter/|1641|Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn|16JUN 1688|Öjebyn 22, Hamnen, Piteå sn|
+pa10c6547.html|Nicodemidotter|Karin /Nicodemidotter/|1651|Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn|1723|Myckle 3, Skellefteå lfs, Skellefteå sn|
+p99d03190.html|Nicodemidotter|N /Nicodemidotter/|1652|Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn|1652|Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn|
+pe8746764.html|Nicodemidotter|NN /Nicodemidotter/|1624|Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn|1696|Bergsbyn 7, Bergsholmen, Skellefteå sn|
+p608c2f76.html|Nicodemusson|Erik /Nicodemusson/||Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn|||
+p75e0a9c4.html|Nicodemusson|Lars /Nicodemusson/||Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn||Gammelbyn 8, Svedjan, Burträsk fs, Burträsk sn|
+p2bd550ea.html|Nicodemusson|Per /Nicodemusson/|1640|Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn|MAY 1697|Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn|
+p7f1000ec.html|Nilsdotter Burstedt|Maria /Nilsdotter Burstedt/|11APR 1765|Roten 7 Burstedt i Bureå, Skellefteå sn|7MAR 1814|Frostkåge 4, Skellefteå lfs, Skelleffteå sn|
+p1e7bca69.html|Nilsdotter|Anna /Nilsdotter/||Falmark 10, Östra Falmark, Skellefteå sn||Hiske, Umeå sn|
+p634faefb.html|Nilsdotter|Anna /Nilsdotter/|JAN 1658||MAR 1734|Bygdeträsk 6, Burträsk sn|
+pebbd0b40.html|Nilsdotter|Anna /Nilsdotter/|1674||||
+p939d1a0d.html|Nilsdotter|Anna /Nilsdotter/|1731|Böle 8, Norrböle, Skellefteå sn||Hedensbyn 5, Brönet, Skellefteå sn|
+pb520138a.html|Nilsdotter|Barbro /Nilsdotter/|1695|Bodbyn, Burträsk sn|10NOV 1770|Bygdeträsk, Burträsk sn|
+p62566f47.html|Nilsdotter|Brita /Nilsdotter/|1732|Böle 8, Norrböle, Skellefteå sn|||
+p2c0f8105.html|Nilsdotter|Brita /Nilsdotter/|13SEP 1745|Åbyn, Burträsk sn|27JUN 1815|Åbyn, Burträsk sn|
+pd745cc9c.html|Nilsdotter|Elin /Nilsdotter/||Böle 10, Norrböle, Skellefteå sn||Böle 10, Norrböle, Skellefteå sn|
+pce50adb7.html|Nilsdotter|Elisabet /Nilsdotter/|||||
+p68d62c8c.html|Nilsdotter|Gunhild (Gunilla) /Nilsdotter/||Falmark 10, Östra Falmark, Skellefteå sn|||
+p9232e399.html|Nilsdotter|Karin /Nilsdotter/||||Umeå stad|
+p3fbff1a2.html|Nilsdotter|Karin /Nilsdotter/||Falmark 10, Östra Falmark, Skellefteå sn|||
+p0fb688ab.html|Nilsdotter|Karin /Nilsdotter/|1693|Hjoggböle 7, Sjön, Skellefteå sn|1757|Hjoggböle 9, Forsen, Skellefteå sn|
+p3e0baccc.html|Nilsdotter|Kerstin /Nilsdotter/|1724|Böle 8, Norrböle, Skellefteå sn|1793|Boviken 3, Skellefteå lfs, Skellefteå sn|
+p3900f1bf.html|Nilsdotter|Kristina /Nilsdotter/|13AUG 1781|Norsjö 14, Kvavisträsk, Skellefteå lfs, Skellefteå sn|23MAR 1873|Tjärnberg, Norsjö sn|
+pfbd9eed6.html|Nilsdotter|Kälug /Nilsdotter/||Falmark 10, Östra Falmark, Skellefteå sn|||
+pd2232e17.html|Nilsdotter|Lisbeta /Nilsdotter/||Falmark 10, Östra Falmark, Skellefteå sn||Stämningsgården 5, Skellefteå sn|
+p04e70cd9.html|Nilsdotter|Lisbeta /Nilsdotter/|||SEP 1697|Bygdeträsk 6, Burträsk sn|
+p74539c4d.html|Nilsdotter|Magdalena (Malin) /Nilsdotter/|1720|Falmark 10, Östra Falmark, Skellefteå sn|30SEP 1807|Böle 8, Norrböle, Skellefteå sn|
+p423e4321.html|Nilsdotter|Malin /Nilsdotter/|1683||9JAN 1758|Åbyn, Burträsk sn|
+p0a09e071.html|Nilsdotter|Margareta (Margeta) /Nilsdotter/||Tjärn 5, Skellefteå sn|1652|Bureå 8, Skellefteå sn|
+p4c849ee3.html|Nilsdotter|Margareta /Nilsdotter/|1689|Hjoggböle 7, Sjön, Skellefteå sn|1773|Boviken 3, Skellefteå lfs, Skellefteå sn|
+pb9fc857f.html|Nilsdotter|Marget /Nilsdotter/|1680||26FEB 1743|Renbergsvattnet 2, Burträsk sn|
+pc8bece38.html|Nilsdotter|Mariet (Margareta) /Nilsdotter/|1699|Hjoggböle 7, Sjön, Skellefteå sn|1773|Burvik 6, Skellefteå lfs, Skellefteå sn|
+pdf99d1f5.html|Nilsdotter|Mariet /Nilsdotter/||Falmark 10, Östra Falmark, Skellefteå sn||Lappvattnet, Burträsk fs, Burträsk sn|
+pd3e1980c.html|Nilsdotter|Marta /Nilsdotter/|1730|Böle 8, Norrböle, Skellefteå sn|1782|Vallen 8, Lövångers fs, Lövångers sn|
+pf6f7fbd7.html|Nilsdotter|N /Nilsdotter/||Tjärn 5, Skellefteå sn||Tjärn 3, Skellefteå sn|
+p42296fba.html|Nilsdotter|N /Nilsdotter/||Hjoggböle 1, Västra Hjoggböle, Skellefteå sn||Hjoggböle 7, Sjön, Skellefteå sn|
+p651899d3.html|Nilsdotter|N /Nilsdotter/||Gunsmark, Nysätra sn||Gammelbyn 8, Svedjan, Burträsk fs, Burträsk sn|
+paf088d87.html|Nilsdotter|N /Nilsdotter/||Åbyn 3, Burträsk fs, Burträsk sn|DEC 1704|Åbyn 3, Burträsk fs, Burträsk sn|
+pbd1a76e1.html|Nilsdotter|Sara /Nilsdotter/|26APR 1725|Böle 8, Norrböle, Skellefteå sn|17NOV 1814|Innervik 19, Skellefteå lfs, Skellefteå sn|
+pd0946dbd.html|Nilsdotter|Segri /Nilsdotter/|1663|Blacke, Lövångers sn|18MAY 1754||
+pb0bdd7cd.html|Nilsson-Biörn|Erik /Nilsson-Biörn/|||||
+p761f6111.html|Nilsson-Black|Johan /Nilsson-Black/|||||
+p64aea223.html|Nilsson-Burstedt-Brandt|Nils /Nilsson-Burstedt-Brandt/|29JAN 1727|Burvik 3, Skellefteå lfs, Skellefteå sn|23MAY 1808|Frostkåge 3, Skellefteå lfs, Skelleffteå sn|
+pe7dd8fad.html|Nilsson-Junkare-Kräkman-Frimodig-Bjurling|Olof /Nilsson-Junkare-Kräkman-Frimodig-Bjurling/|1694|Lappviken (Bjurön)|||
+pa9be40fb.html|Nilsson-Lustig|Anders /Nilsson-Lustig/|||||
+pf89b626a.html|Nilsson-Sjöman|Erik /Nilsson-Sjöman/|1696|Hjoggböle 7, Sjön, Skellefteå sn|1755|Hjoggböle 7, Sjön, Skellefteå sn|
+p2935cd6f.html|Nilsson Burén|Johan /Nilsson Burén/|17JUN 1753|Bodbyn 2, Burträsk sn|15JUN 1807|Ljusvattnet 1, Burträsk, Burträsk fs, Burträsk sn|
+pf2c2e52d.html|Nilsson d.y.|Nils /Nilsson d.y./||Falmark 10, Östra Falmark, Skellefteå sn||Falmark 10, Östra Falmark, Skellefteå sn|
+p90ad34ba.html|Nilsson Norström|Olof /Nilsson Norström/|16FEB 1725|Rote 53 Vind, Nolbyn, Lövångers sn|3MAR 1789|Nolbyn 5, Lövångers fs, Lövångers sn|
+p879b71ea.html|Nilsson|Anders /Nilsson/||Flarken, Nysätra fs, Nysätra sn||Flarken, Nysätra fs, Nysätra sn|
+p9cee1f0d.html|Nilsson|Anders /Nilsson/|1669||22JUL 1747||
+p426c2899.html|Nilsson|Anders /Nilsson/|1706|Hjoggböle 7, Sjön, Skellefteå sn|||
+p11d545f0.html|Nilsson|Anders /Nilsson/|1727|Ljusvattnet, Burträsk sn|1803|Blåbergsliden, Burträsk sn|
+pe09e1ac2.html|Nilsson|Anders /Nilsson/|18MAY 1742|Burvik 3, Skellefteå lfs, Skellefteå sn|1799|Burvik 3, Skellefteå lfs, Skellefteå sn|
+pbc5002d2.html|Nilsson|Erik /Nilsson/|1623|Hjoggböle 7, Sjön, Skellefteå sn||Hjoggböle 7, Sjön, Skellefteå sn|
+p5d777558.html|Nilsson|Johan /Nilsson/||Böle 8, Norrböle, Skellefteå sn|1718|Böle 8, Norrböle, Skellefteå sn|
+p09ffbd06.html|Nilsson|Johan /Nilsson/|MAR 1674|Andersvattnet, Burträsk sn|DEC 1732||
+p98e3c6aa.html|Nilsson|Johan /Nilsson/|1723|Böle 8, Norrböle, Skellefteå sn|1779|Böle 8, Norrböle, Skellefteå sn|
+pdbe16c51.html|Nilsson|Lars /Nilsson/||Östanbäck 4, Skellefteå lfs, Skellefteå sn|1651|Östanbäck 4, Skellefteå lfs, Skellefteå sn|
+p995c933a.html|Nilsson|Mårten /Nilsson/||Åbyn 3, Burträsk fs, Burträsk sn|APR 1712|Åbyn 3, Burträsk fs, Burträsk sn|
+p00240a68.html|Nilsson|Nils /Nilsson/||Östanbäck 4, Skellefteå lfs, Skellefteå sn||Östanbäck 4, Skellefteå lfs, Skellefteå sn|
+pebcee994.html|Nilsson|Nils /Nilsson/||||Burträsk sn|
+pfacc5476.html|Nilsson|Nils /Nilsson/||Falmark 10, Östra Falmark, Skellefteå sn|1585|Falmark 10, Östra Falmark, Skellefteå sn|
+p5daa96d8.html|Nilsson|Nils /Nilsson/|1702|Gummark 6, Skellefteå sn|1778|Burvik 3, Skellefteå lfs, Skellefteå sn|
+pbc87336e.html|Nilsson|Nils /Nilsson/|1725|Boviken 4, Skellefteå lfs, Skellefteå sn|21FEB 1810|Boviken 4, Skellefteå lfs, Skellefteå sn|
+p94d6421b.html|Nilsson|Nils /Nilsson/|10JUL 1744|Bodbyn, Burträsk sn|1JUL 1828|Bodbyn, Burträsk sn|
+paf78e8ba.html|Nilsson|Olof /Nilsson/||Ljusvattnet 11 , Burträsk, Burträsk fs, Burträsk sn||Ljusvattnet 11, Burträsk, Burträsk fs, Burträsk sn|
+p16c46201.html|Nilsson|Olof /Nilsson/||||Morön 2, Skellefteå sn|
+p1c98c6f0.html|Nilsson|Olof /Nilsson/|||||
+pe342e7eb.html|Nilsson|Olof /Nilsson/||Falmark 10, Östra Falmark, Skellefteå sn|1601|Falmark 10, Östra Falmark, Skellefteå sn|
+pfba484b5.html|Nilsson|Olof /Nilsson/||Tjärn 5, Skellefteå sn|1620|Tjärn 5, Skellefteå sn|
+pcc90b8dd.html|Nilsson|Olof /Nilsson/|||19FEB 1699|Mårtensboda 1, Lövångers fs, Lövångers sn|
+pcee5fe80.html|Nilsson|Olof /Nilsson/|1539|Myckle 3, Skellefteå lfs, Skellefteå sn|1622|Myckle 3, Skellefteå lfs, Skellefteå sn|
+pd7cd24a4.html|Nilsson|Per /Nilsson/||Drängsmark 2, Skellefteå lfs, Skellefteå sn||Drängsmark 2, Skellefteå lfs, Skellefteå sn|
+p5057abf0.html|Nilsson|Per /Nilsson/||Burvik 3, Skellefteå lfs, Skellefteå sn||Burvik 3, Skellefteå lfs, Skellefteå sn|
+pf3872a8b.html|Nilsson|Per /Nilsson/||Falmark 10, Östra Falmark, Skellefteå sn||Falmark 20, Sjöbotten, Skellefteå sn|
+pdd230cbf.html|Nilsson|Per /Nilsson/|21JAN 1771|Frostkåge 7, Sörbyn, Skellefteå lfs, Skellefteå sn|8AUG 1854|Frostkåge 7, Sörbyn, Skellefteå lfs, Skellefteå sn|
+p56c93232.html|Nilsson|Sven /Nilsson/|1655|Yttervik 2, Skellefteå sn|1746|Yttervik 2, Skellefteå sn|
+p4d73c709.html|NN|NN /NN/||||Bygdsiljum, Burträsk sn|
+p910ea289.html|Normark|Anna Catharina /Normark/|22MAR 1830|Innervik 11, Gästgivargården, Skellefteå sn|21APR 1875|Gärdsmark 3, Skellefteå lfs, Skellefteå sn|
+p3776e2fb.html|Nyman|Sara /Nyman/|JAN 1683|Gammelbyn 3, Mora, Burträsk fs, Burträsk sn|28SEP 1760|Bodbyn, Burträsk sn|
+p5b7b81ce.html|Olofsdotter Fattenborg|Cherstin /Olofsdotter Fattenborg/|28JAN 1682|Kräkånger 1, Lövångers sn|20DEC 1766|Kräkånger 1, Lövångers sn|
+p5856ab28.html|Olofsdotter|Agnes /Olofsdotter/||Bureå 2, Skellefteå lfs, Skellefteå sn|||
+p71e39020.html|Olofsdotter|Anna /Olofsdotter/||Norrbo sn, Hälsingland||Degerbyn 5, Samuelsbacken, Skellefteå sn|
+pc3b42704.html|Olofsdotter|Anna /Olofsdotter/||Ostvik 9, Skellefteå lfs, Skellefteå sn||Norge|
+p675952da.html|Olofsdotter|Anna /Olofsdotter/||Bureå 2, Skellefteå lfs, Skellefteå sn||Pitholm, Piteå sn|
+pd70ae76c.html|Olofsdotter|Anna /Olofsdotter/|26MAR 1729|Vebomark, Lövångers fs, Lövångers sn|||
+p64cf4dd9.html|Olofsdotter|Barbro /Olofsdotter/||Gammelbyn 12, Burträsk fs, Burträsk sn||Östanbäck, Skellefteå lfs, Skellefteå sn|
+pfea8c6b5.html|Olofsdotter|Barbro /Olofsdotter/||Ostvik 9, Skellefteå lfs, Skellefteå sn||Skuttunge sn|
+p155cfd9e.html|Olofsdotter|Barbro /Olofsdotter/|1649||1715||
+pfcbfae61.html|Olofsdotter|Barbro /Olofsdotter/|1669|Bureå 8, Skellefteå sn|1754|Bergsbyn 7, Bergsholmen, Skellefteå sn|
+p68a1e2a7.html|Olofsdotter|Brita /Olofsdotter/|1729|Ljusvattnet, Burträsk sn|29AUG 1809|Stavträsk, Burträsk sn|
+pd6a820b0.html|Olofsdotter|Brita /Olofsdotter/|17JUN 1753|Vallen, Lövånger sn|12MAR 1829|Renbergsvattnet, Burträsk sn|
+p5a8d1552.html|Olofsdotter|Catharina /Olofsdotter/|14FEB 1759|Vebomark, Lövångers fs, Lövångers sn|||
+p94c82872.html|Olofsdotter|Cecilia /Olofsdotter/||Myckle 3, Skellefteå lfs, Skellefteå sn||Drängsmark 2, Skellefteå lfs, Skellefteå sn|
+p8e83c647.html|Olofsdotter|Cecilia /Olofsdotter/||Lövångers fs, Lövångers sn||Hjoggböle 7, Sjön, Skellefteå sn|
+pe391f181.html|Olofsdotter|Christina /Olofsdotter/|||||
+p385e8b02.html|Olofsdotter|Christina /Olofsdotter/|19DEC 1766|Gunsmark, Nysätra sn|||
+p40dee7bf.html|Olofsdotter|Justina /Olofsdotter/|||1724||
+p27ed65b8.html|Olofsdotter|Karin /Olofsdotter/||Degerbyn 1, Skellefteå sn|||
+pb7fb778b.html|Olofsdotter|Karin /Olofsdotter/||Myckle 3, Skellefteå lfs, Skellefteå sn|||
+pb029f3e5.html|Olofsdotter|Karin /Olofsdotter/||Bureå 2, Skellefteå lfs, Skellefteå sn|||
+paec6da1c.html|Olofsdotter|Karin /Olofsdotter/|1691|Mjödvattnet 1, Burträsk fs, Burträsk sn|16NOV 1760|Mårtensboda 1, Lövångers fs, Lövångers sn|
+p391a30ee.html|Olofsdotter|Karin /Olofsdotter/|1705|Gumboda, Nysätra sn|16MAR 1771||
+p8df4e507.html|Olofsdotter|Karin /Olofsdotter/|1JAN 1711||||
+p2165b940.html|Olofsdotter|Kerstin /Olofsdotter/||Ostvik 9, Skellefteå lfs, Skellefteå sn|||
+p9c0d43af.html|Olofsdotter|Kerstin /Olofsdotter/|1683|Yttervik 6, Skellefteå sn|1746|Risön 1, Skellefteå sn|
+p3f37feda.html|Olofsdotter|Kerstin /Olofsdotter/|1732|Bursiljum, Burträsk sn|28NOV 1818|Åbyn, Burträsk sn|
+p7e499664.html|Olofsdotter|Kerstin /Olofsdotter/|1736|Bursiljum, Burträsk sn|22JAN 1814|Bygdeträsk, Burträsk sn|
+p3d38eb3f.html|Olofsdotter|Malin /Olofsdotter/||Bureå 2, Skellefteå lfs, Skellefteå sn||Myckle 3, Skellefteå lfs, Skellefteå sn|
+pbd9d9851.html|Olofsdotter|Malin /Olofsdotter/|1647||1717||
+p94cd7946.html|Olofsdotter|Malin /Olofsdotter/|1734|Mjödvattnet 3, Burträsk sn|15NOV 1784|Renbergsvattnet 1, Burträsk sn|
+p7d2ee212.html|Olofsdotter|Margareta (Greta) /Olofsdotter/|16DEC 1773|Innervik 11, Gästgivargården, Skellefteå sn|6FEB 1833|Innervik 11, Gästgivargården, Skellefteå sn|
+p0fb97b69.html|Olofsdotter|Margareta /Olofsdotter/||Myckle 3, Skellefteå lfs, Skellefteå sn||Storkåge 9, Skellefteå lfs, Skellefteå sn|
+pd5d796e2.html|Olofsdotter|Margareta /Olofsdotter/||Bureå 2, Skellefteå lfs, Skellefteå sn|||
+p924619dd.html|Olofsdotter|Margareta /Olofsdotter/|1652|Degerbyn 1, Skellefteå sn|1730|Degerbyn 2, Skellefteå sn|
+pecf8088a.html|Olofsdotter|Maria /Olofsdotter/|25DEC 1709|Nolbyn, Lövångers fs, Lövångers sn|||
+p6755db56.html|Olofsdotter|Maria /Olofsdotter/|27SEP 1710|Bygdsiljum, Burträsk sn|5FEB 1787|Storsävarträsk 1, Burträsk sn|
+p5e4d4108.html|Olofsdotter|Mariet /Olofsdotter/|1652||||
+p16d1bea7.html|Olofsdotter|Marit /Olofsdotter/||Bureå 2, Skellefteå lfs, Skellefteå sn|||
+p3a5d6cfe.html|Olofsdotter|Marjett /Olofsdotter/||Bureå 1, Skellefteå sn|||
+p5a7bfba0.html|Olofsdotter|N /Olofsdotter/||Degerbyn 1, Skellefteå sn|||
+p22572c07.html|Olofsdotter|N /Olofsdotter/||Bureå 1, Skellefteå sn|||
+p1b574047.html|Olofsdotter|N /Olofsdotter/|||1385|Lövångers sn|
+p9bdfd178.html|Olofsdotter|N /Olofsdotter/||Ersmark 2, Skellefteå sn|1710|Storkåge 17, Jörnkläppen, Skellefteå sn|
+pcf62d7f3.html|Olofsdotter|Ragnhild /Olofsdotter/||Bäck 7, Skellefteå lfs, Skellefteå sn|||
+p5fc4d36c.html|Olofsdotter|Sara /Olofsdotter/|11MAY 1712||1JUN 1712||
+p2960ab38.html|Olofsson-Bure|Erik /Olofsson-Bure/||Bureå 2, Skellefteå lfs, Skellefteå sn|||
+p9077f98b.html|Olofsson-Cardinal|Nils /Olofsson-Cardinal/|||||
+pa6aefd00.html|Olofsson-Cardinal|Nils /Olofsson-Cardinal/|1722|Mårtensboda 2, Lövångers fs, Lövångers sn|1DEC 1761|Vebomark 9, Lövångers fs, Lövångers sn|
+p81ecf9e9.html|Olofsson-Grubb|Olof /Olofsson-Grubb/|1678|Sunnanå 5, Grubban, Skellefteå sn|1746|Risön 1, Skellefteå sn|
+p971d86a4.html|Olofsson-Hertzberg|Daniel /Olofsson-Hertzberg/|1661|Hertzånger, Nysätra sn|21JAN 1741||
+p78ef8ab9.html|Olofsson-Kolare|Johan /Olofsson-Kolare/||Storkåge e, Skellefteå lfs, Skellefteå sn||Storkåge 17, Jörnkläppen, Skellefteå sn|
+p5c2dbfa2.html|Olofsson-Snickare|Lars /Olofsson-Snickare/|1735|Åbyn, Burträsk sn|||
+p0aa8fd37.html|Olofsson Boberg|Johannes (Johan) /Olofsson Boberg/|24MAR 1729||||
+p742920e6.html|Olofsson Bure|Jon /Olofsson Bure/||Bureå 2, Skellefteå lfs, Skellefteå sn|1584|Bureå 2, Skellefteå lfs, Skellefteå sn|
+p893318af.html|Olofsson Burman|Anders /Olofsson Burman/|1520|Bureå 2, Skellefteå lfs, Skellefteå sn|1563|Bureå 5, Skellefteå sn|
+pdc4fd55d.html|Olofsson Burman|Benjamin /Olofsson Burman/||Hjoggböle 1, Västra Hjoggböle, Skellefteå sn|1676|Staden, Piteå sn|
+p66d4cf93.html|Olofsson Burman|Carl /Olofsson Burman/||Bureå 8, Skellefteå sn|1637|Bureå 8, Skellefteå sn|
+p28639f5f.html|Olofsson Burman|Erik /Olofsson Burman/||Hjoggböle 1, Västra Hjoggböle, Skellefteå sn|27FEB 1686|Staden, Piteå sn|
+p7b6ef72a.html|Olofsson Burman|Jon /Olofsson Burman/||Hjoggböle 1, Västra Hjoggböle, Skellefteå sn|1686|Hjoggböle 1, Västra Hjoggböle, Skellefteå sn|
+padf548da.html|Olofsson Burman|Nils /Olofsson Burman/||Hjoggböle 1, Västra Hjoggböle, Skellefteå sn|||
+p2354ad87.html|Olofsson Burman|Olof /Olofsson Burman/||Hjoggböle 1, Västra Hjoggböle, Skellefteå sn|||
+pd2c3a055.html|Olofsson Markgren|Olof /Olofsson Markgren/|7SEP 1836|Gärdsmark, Skellefteå lfs, Skellefteå sn|||
+p2ebcc3b2.html|Olofsson Olai|Andreas /Olofsson Olai/|3MAR 1512|Uppsala|3MAR 1569|Storkåge 1, Skellefteå lfs, Skellefteå sn|
+p3bcec173.html|Olofsson Olsson|Jakob /Olofsson Olsson/||||Sjulnäs, Piteå sn|
+p942c6774.html|Olofsson Sundbom|Lars /Olofsson Sundbom/|1740|Sunnanå, Skellefteå sn|12JUN 1822|Gammelbyn, Burträsk fs, Burträsk sn|
+p04f0599b.html|Olofsson, Halsduk|Lars /Olofsson, Halsduk/|1660|Hertzånger, Nysätra sn|1726||
+p694e4ba4.html|Olofsson|Anders /Olofsson/||Bureå 1, Skellefteå sn|||
+p1f8e29e9.html|Olofsson|Anders /Olofsson/||Frostkåge c, Skellefteå sn|1565|Frostkåge c, Skellefteå sn|
+p4fe4c81c.html|Olofsson|Anders /Olofsson/|1425|Bureå 1, Skellefteå lfs, Skellefteå sn||Bureå 6, Skellefteå lfs, Skellefteå sn|
+pe246ef8b.html|Olofsson|Anders /Olofsson/|1579|Myckle 3, Skellefteå lfs, Skellefteå sn|1679|Myckle 6, Skellefteå lfs, Skellefteå sn|
+p2567cd89.html|Olofsson|Anders /Olofsson/|24SEP 1740|Kräkånger, Lövångers sn|27MAR 1810|Kräkånger, Lövångers sn|
+p683533c9.html|Olofsson|Arvid /Olofsson/||Morön 2, Skellefteå sn||Morön 2, Skellefteå sn|
+p243f44ea.html|Olofsson|Christier /Olofsson/|||1693|Vallen 1, Lövångers fs, Lövångers sn|
+p42ab4278.html|Olofsson|Christiern /Olofsson/|||1660||
+p8e7a8e71.html|Olofsson|Engelbrekt /Olofsson/||Myckle 3, Skellefteå lfs, Skellefteå sn|||
+pf6b165f7.html|Olofsson|Herman /Olofsson/|1736|Stämningsgården, Skellefteå sn|1740|Stämningsgården, Skellefteå sn|
+p2b7ef83b.html|Olofsson|Håkan /Olofsson/|1626|Estersmark, Nysätra sn|1715||
+pfe3b0d32.html|Olofsson|Isak /Olofsson/|1694|Andersvattnet, Burträsk sn|10NOV 1751|Bursiljum 4, Burträsk sn|
+pa470a48e.html|Olofsson|Isak /Olofsson/|1738|Mjödvattnet 3, Burträsk sn|7SEP 1805|Mjödvattnet 4, Burträsk sn|
+pd37ad4d0.html|Olofsson|Jacob /Olofsson/|25JUN 1725||30SEP 1725||
+pcc0b2ac0.html|Olofsson|Jon /Olofsson/||Bureå 1, Skellefteå sn||Bureå 2, Skellefteå lfs, Skellefteå sn|
+pb67e3392.html|Olofsson|Jon /Olofsson/||||Yttervik a, Skellefteå sn|
+p2015115e.html|Olofsson|Jon /Olofsson/||Böle 5, Norrböle, Skellefteå sn|1705|Böle 5, Norrböle, Skellefteå sn|
+p1ce3b0ed.html|Olofsson|Jon /Olofsson/|1694|Yttervik 6, Skellefteå sn|1749|Yttervik 6, Skellefteå sn|
+pcc12d59a.html|Olofsson|Jonas (Jon) /Olofsson/|18MAY 1742|Gagsmark 2, Oppgårds, Skellefteå sn|1820|Gagsmark 2, Oppgårds, Skellefteå sn|
+p722f40a6.html|Olofsson|Jöns /Olofsson/|||||
+pe5ee5311.html|Olofsson|Lars (Lasse) /Olofsson/|1609|Storkåge a, Skellefteå lfs, Skellefteå sn|1700|Tjärn 3, Skellefteå sn|
+p417fe290.html|Olofsson|Lars /Olofsson/||Myckle 3, Skellefteå lfs, Skellefteå sn|1655|Myckle 3, Skellefteå lfs, Skellefteå sn|
+pab6a1a52.html|Olofsson|Lars /Olofsson/||Degerbyn 1, Skellefteå sn|1692|Degerbyn 1, Skellefteå sn|
+p4904ca42.html|Olofsson|Markus /Olofsson/||Boviken 3, Skellefteå lfs, Skellefteå sn|1672|Boviken 3, Skellefteå lfs, Skellefteå sn|
+p01ba0dd5.html|Olofsson|Måns /Olofsson/|||1641|Mjödvattnet 6, Burträsk sn|
+pc6dce586.html|Olofsson|N /Olofsson/|29JUL 1705||||
+p9f3e0730.html|Olofsson|N /Olofsson/|FEB 1708||31MAY 1708||
+pa72c9e66.html|Olofsson|Nils /Olofsson/||||Piteå sn|
+p822f344f.html|Olofsson|Nils /Olofsson/||Blåsmark, Piteå lfs, Piteå sn||Blåsmark, Piteå lfs, Piteå sn|
+p437cc8b9.html|Olofsson|Nils /Olofsson/|1677|Vebomark, Lövångers fs, Lövågers sn|19JUN 1739|Mårtensboda 1, Lövångers fs, Lövångers sn|
+pced3307d.html|Olofsson|Olaus /Olofsson/|22JUL 1726||8OCT 1726||
+p5a2615f3.html|Olofsson|Olof /Olofsson/||Bureå 1, Skellefteå lfs, Skellefteå sn||Bureå 1, Skellefteå lfs, Skellefteå sn|
+pf473edb2.html|Olofsson|Olof /Olofsson/||||Jävre, Piteå lfs, Piteå sn|
+p8c1afdc2.html|Olofsson|Olof /Olofsson/|1570|Myckle 3, Skellefteå lfs, Skellefteå sn||Degerbyn 5, Samuelsbacken, Skellefteå sn|
+p49f67352.html|Olofsson|Olof /Olofsson/|1680|Mårtensboda 1, Lövångers fs, Lövångers sn|25NOV 1743|Mårtensboda 2, Lövångers fs, Lövångers sn|
+p736f3782.html|Olofsson|Olof /Olofsson/|1683|Kusmark 6, Brönet, Skellefteå sn|1764|Kusmark 6, Brönet, Skellefteå sn|
+pf4584061.html|Olofsson|Olof /Olofsson/|1713|Ytterursviken, Skellefteå lfs, Skellefteå sn|1742|Stämningsgården, Skellefteå sn|
+p887c8535.html|Olofsson|Olof /Olofsson/|6JUN 1721|Vebomark, Lövångers fs, Lövångers sn|25FEB 1722|Mårtensboda, Lövångers sn|
+pe9bdd9d4.html|Olofsson|Olof /Olofsson/|9DEC 1727||7APR 1728||
+p7620500b.html|Olofsson|Olof Abraham /Olofsson/||Mjödvattnet 1, Burträsk sn|MAR 1715|Mjödvattnet 1, Burträsk sn|
+p1cb5dc02.html|Olofsson|Per /Olofsson/||Yttervik 5, Hällbacken, Skellefteå sn||Yttervik 5, Hällbacken, Skellefteå sn|
+p1b6c01c9.html|Olofsson|Per /Olofsson/||Ostvik 9, Skellefteå lfs, Skellefteå sn||Ostvik 10, Frambyn, Skellefteå sn|
+p8e226d2c.html|Olofsson|Per /Olofsson/|1684|Mårtensboda 1, Lövångers fs, Lövångers sn|2APR 1733|Kräkånger 1, Lövångers sn|
+p268ef609.html|Olofsson|Per /Olofsson/|13SEP 1710|Andersvattnet, Burträsk sn|28OCT 1778|Andersvattnet, Burträsk sn|
+pda160cb3.html|Olofsson|Påvel (Pål) /Olofsson/||Ostvik 9, Skellefteå lfs, Skellefteå sn||Ostvik 9, Skellefteå lfs, Skellefteå sn|
+pd94665ef.html|Olofsson|Päder /Olofsson/|13FEB 1708|Nolbyn, Lövångers fs, Lövångers sn|6MAR 1710||
+p0b5fa90b.html|Olofsson|Pär /Olofsson/|1DEC 1644||0|Bursiljum 1, Burträsk sn|
+p1330653f.html|Olofsson|Samuel /Olofsson/|24FEB 1651||1698||
+p8d04c589.html|Olofsson|Stephan /Olofsson/|18MAY 1718|Burträsk sn|18JUN 1782|Mårtensboda 2, Lövångers fs, Lövångers sn|
+pf15c4357.html|Olofsson|Sven /Olofsson/||||Bäck 7, Skellefteå lfs, Skellefteå sn|
+pb54b1413.html|Olofsson|Östen /Olofsson/|1680|Ragvaldsträsk 4, Skellefteå sn|1759|Storkåge 19, Jörnkläppen, Skellefteå sn|
+p2ea223f5.html|Olsson Smed|Clemet /Olsson Smed/||||Stämningsgården 5, Skellefteå sn|
+p23aac213.html|Olsson|Erik /Olsson/||Storkåge 19, Skellefteå lfs, Skellefteå sn|||
+p16557076.html|Olsson|Jon /Olsson/||Boviken 1, Skellefteå lfs, Skellefteå sn||Stämningsgården 5, Skellefteå sn|
+pd61ce35b.html|Olsson|Jon /Olsson/|1640||1697||
+p84eee89b.html|Olsson|Lars /Olsson/||Storkåge 19, Skellefteå lfs, Skellefteå sn|||
+pc7961a7e.html|Olsson|Moses /Olsson/||Storkåge 19, Skellefteå lfs, Skellefteå sn|||
+pf20653b4.html|Olsson|Per /Olsson/||Östhammar sn|||
+pd4f478f5.html|Olsson|Per /Olsson/||Kusmark, Skellefteå lfs, Skellefteå sn|||
+p912ad903.html|Olsson|Per /Olsson/||Frostkåge 6, Sörbyn, Skellefteå lfs, Skellefteå sn||Frostkåge 6, Sörbyn, Skellefteå lfs, Skellefteå sn|
+p3d6b20aa.html|Olsson|Östen /Olsson/||||Yttervik 7, Båtvik, Skellefteå sn|
+pa17a881b.html|Pedersdotter|Karin /Pedersdotter/||Vada, Vallentuna sn||Vada, Vallentuna sn|
+pb2fba951.html|Pedersdotter|Mariet /Pedersdotter/||Vada, Vallentuna sn||Vada, Vallentuna sn|
+p7b373724.html|Pedersdotter|Ursilia /Pedersdotter/||Vada, Vallentuna sn||Hjoggböle 3, Västra Hjoggböle, Skellefteå sn|
+p5150bce1.html|Pehrsdotter|Margareta /Pehrsdotter/|||||
+pf8c69827.html|Pehrsdotter|Margreta /Pehrsdotter/|1724|Bygdeträsk, Burträsk sn|18OCT 1811|Gammelbyn, Burträsk fs, Burträsk sn|
+p3a10a30b.html|Pehrsson-Höök-Högsint|Anders /Pehrsson-Höök-Högsint/|1724|Bursiljum, Burträsk sn|15JAN 1791||
+p426d8edc.html|Pehrsson-Nordström|Zackris /Pehrsson-Nordström/|1722|Degerbyn, Skellefteå sn|25AUG 1789|Gammelbyn, Burträsk fs, Burträsk sn|
+pb1340872.html|Pehrsson-Rönmark|Pehr /Pehrsson-Rönmark/|9JUL 1749|Önnesmark, Lövånger sn|||
+p46aacab6.html|Perdotter|Anna /Perdotter/||Bygdsiljum 6, Burträsk fs, Burträsk sn|||
+p3ce24980.html|Persdotter Black|Maria /Persdotter Black/|7MAY 1736|Avan 1, Lövångers fs, Lövångers sn|||
+p2d24a885.html|Persdotter Flarck|Sigrid /Persdotter Flarck/|1682|Umeå stad, Umeå sn|4MAR 1750|Burträsk sn|
+p3d199b14.html|Persdotter|Anna /Persdotter/||Ostvik 10, Frambyn, Skellefteå sn|||
+p6f977001.html|Persdotter|Anna /Persdotter/|SEP 1677|Åbyn 7, Burträsk fs, Burträsk sn|||
+pf2164129.html|Persdotter|Anna /Persdotter/|1694|Hjoggböle 6, Östra Hjoggböle, Skellefteå sn|1781|Yttervik 5, Hällbacken, Skellefteå sn|
+p7e8d2c71.html|Persdotter|Anna /Persdotter/|1725|Bygdeträsk, Burträsk sn|18AUG 1810|Qvarnbyn, Burträsk sn|
+pe4a91a42.html|Persdotter|Anna /Persdotter/|19JUL 1764|Åbyn, Burträsk sn|18MAY 1788|Åbyn, Burträsk sn|
+p521ae95b.html|Persdotter|Brita /Persdotter/||Ostvik 10, Frambyn, Skellefteå sn|||
+p505edae8.html|Persdotter|Cathrina (Karin) /Persdotter/|1734|Siksele, Lycksele sn|||
+pef5d208c.html|Persdotter|Cecilia /Persdotter/||Ostvik 10, Frambyn, Skellefteå sn|||
+pfd03ab83.html|Persdotter|Elsa /Persdotter/||||Hjoggböle 1, Västra Hjoggböle, Skellefteå sn|
+p3d2e0de7.html|Persdotter|Eva /Persdotter/|12JAN 1766|Åbyn 7, Burträsk sn|17MAY 1845|Renbergsvattnet 1, Burträsk sn|
+p0e806648.html|Persdotter|Eva Catharina /Persdotter/|19NOV 1805|Nysätra sn|||
+p05afbf08.html|Persdotter|Helena /Persdotter/|29MAY 1743|Bygdeträsk, Burträsk sn|25OCT 1809|Kräkånger, Lövångers sn|
+pae84bdbe.html|Persdotter|Kajsa /Persdotter/||Ostvik 10, Frambyn, Skellefteå sn|||
+pb150b2e4.html|Persdotter|Karin /Persdotter/||Bygdsiljum 6, Burträsk sn|||
+p590ab161.html|Persdotter|Karin /Persdotter/|1685|Åbyn 7, Burträsk fs, Burträsk sn|15NOV 1766|Åbyn 7, Burträsk fs, Burträsk sn|
+pcb477eb6.html|Persdotter|Karin /Persdotter/|17APR 1691|Burträsk sn|18JAN 1773|Åbyn, Burträsk sn|
+pb75c80b1.html|Persdotter|Karin /Persdotter/|1738|Bygdeträsk, Burträsk sn|1SEP 1803|Kyrkostaden, Burträsk fs, Burträsk sn|
+pbe73d2ad.html|Persdotter|Karin /Persdotter/|19FEB 1756|Åbyn, Burträsk sn|16APR 1830|Åbyn, Burträsk sn|
+p73667bfd.html|Persdotter|Karin Alice /Persdotter/|1667|Gammelbyn 7, Västomsundet,  Burträsk fs, Burträsk sn|DEC 1721|Mjödvattnet 1, Burträsk sn|
+pb6c02c03.html|Persdotter|Kerstin /Persdotter/||Åbyn, Burträsk sn|||
+pbfca68e1.html|Persdotter|Kerstin /Persdotter/||Storkåge 24, Skellefteå lfs, Skellefteå sn|||
+pedfae9ba.html|Persdotter|Magdalena (Malin) /Persdotter/|1685|Östanbäck 7, Skellefteå lfs, Skellefteå sn|1725|Östanbäck 10, Skellefteå lfs, Skellefteå sn|
+p2ad65b93.html|Persdotter|Maja Greta /Persdotter/|13DEC 1759|Åbyn, Burträsk sn|19MAR 1846|Gammelbyn, Burträsk fs, Burträsk sn|
+pa4dba9d1.html|Persdotter|Margareta /Persdotter/||Ostvik 10, Frambyn, Skellefteå sn||Burvik 6, Skellefteå lfs, Skellefteå sn|
+p504d5ee2.html|Persdotter|Margareta /Persdotter/||Gammelbyn 8, Svedjan, Burträsk fs, Burträsk sn|JUN 1697|Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn|
+pd50d8bcc.html|Persdotter|Margareta /Persdotter/|||1766|Frostkåge 6, Sörbyn, Skellefteå lfs, Skellefteå sn|
+pf4e8662e.html|Persdotter|Marget /Persdotter/||Bygdsiljum 6, Burträsk fs, Burträsk sn|||
+p889c8683.html|Persdotter|Marget /Persdotter/|1666|Gammelbyn 7, Västomsundet,  Burträsk fs, Burträsk sn|21MAY 1745|Bygdeträsk, Burträsk sn|
+p167934fb.html|Persdotter|Marget /Persdotter/|24DEC 1692|Åbyn 7, Burträsk fs, Burträsk sn|||
+p2fca8d86.html|Persdotter|Maria /Persdotter/|1692|Bygdsiljum 6, Burträsk sn|16JAN 1780|Bygdsiljum 2, Burträsk sn|
+p57b34e24.html|Persdotter|Maria /Persdotter/|2JUL 1726|Bursiljum 2, Burträsk fs, Burträsk sn|17AUG 1797|Vebomark 9, Lövångers fs, Lövångers sn|
+pd87448f2.html|Persdotter|Maria /Persdotter/|1734|Mjödvattnet, Burträsk sn|||
+pfcfb8088.html|Persdotter|Mariet /Persdotter/||Ostvik 10, Frambyn, Skellefteå sn|||
+p8633e355.html|Persdotter|N /Persdotter/||Yttervik 5, Hällbacken, Skellefteå sn|JUL 1697|Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn|
+p004f6361.html|Persdotter|Sara /Persdotter/|1670|Tjärn 1, Skellefteå sn|1739|Tåme 4, Skellefteå sn|
+p6a323b7e.html|Persdotter/Lidberg|Maria /Persdotter/Lidberg/|19JUL 1741|Bygdeträsk, Burträsk sn|29DEC 1827|Nederkalix sn|
+p586629af.html|Person|Jon /Person/||Frostkåge 6, Sörbyn, Skellefteå lfs, Skellefteå sn|||
+pe77112f1.html|Persson-Brant|Anders /Persson-Brant/|1686|Bureå 2, Skellefteå lfs, Skellefteå sn|1723|Bureå 2, Skellefteå lfs, Skellefteå sn|
+p3c3730cb.html|Persson-Brännare|Anders /Persson-Brännare/|1722|Roten 109 Brännare, Östanbäck, Skellefteå sn|11JAN 1807|Frostkåge 14, Skellefteå lfs, Skellefteå sn|
+p873a8aba.html|Persson-Hurtig|Herman /Persson-Hurtig/||Storkåge 24, Skellefteå lfs, Skellefteå sn||Bureå 2, Skellefteå lfs, Skellefteå sn|
+p983943cc.html|Persson-Hurtig|Per /Persson-Hurtig/||Burvik 6, Skellefteå lfs, Skellefteå sn (?)|1723|Storkåge övriga, Skellefteå lfs, Skellefteå sn|
+p5754ce6d.html|Persson-Klint-Frimodig|Abraham /Persson-Klint-Frimodig/|1640|Storkåge 24, Skellefteå lfs, Skellefteå sn|1702|I fält|
+p1f9e41a7.html|Persson-Köpman|Anders /Persson-Köpman/||Storkåge 19, Jörnkläppen, Skellefteå sn|||
+p51efb257.html|Persson-Nyman|Per /Persson-Nyman/|1702|Burvik 6, Skellefteå lfs, Skellefteå sn|1775|Burvik 6, Skellefteå lfs, Skellefteå sn|
+p266c9511.html|Persson-Stuthorn|Per /Persson-Stuthorn/|28FEB 1692|Mjödvattnet, Burträsk sn|APR 1754|Mjödvattnet, Burträsk sn|
+p0ca23bab.html|Persson-Wippa|Per /Persson-Wippa/|29AUG 1699|Bygdsiljum 6, Burträsk sn|19JUN 1747|Bygdeträsk 1, Burträsk sn|
+p12519d17.html|Persson Bod|Lars /Persson Bod/||||Hjoggböle 3, Västra Hjoggböle, Skellefteå sn|
+pd3667a0b.html|Persson Grubb|Anders /Persson Grubb/||Grubbe, Umeå sn||Grubbe, Umeå lfs, Umeå sn|
+pc0288ee5.html|Persson Lundström|Karl Johan /Persson Lundström/|29NOV 1824|Roten 36 Käck i Rönnbäcken, Skellefteå sn|20NOV 1906|Gärdsmark 3, Skellefteå lfs, Skellefteå sn|
+p37b958f1.html|Persson Smed|Anders /Persson Smed/||Ostvik 10, Frambyn, Skellefteå sn|||
+p8c1d7d79.html|Persson Wikman|Nils /Persson Wikman/||Yttervik 5, Hällbacken, Skellefteå sn|1705|Böle 7, Norrböle, Skellefteå sn|
+p1003031d.html|Persson|Abraham /Persson/||Gammelbyn 8, Svedjan, Burträsk fs, Burträsk sn|1688|Gammelbyn 8, Svedjan, Burträsk fs, Burträsk sn|
+p16dfe4dc.html|Persson|Anders /Persson/||Bodan, Lövånger sn||Bodan 5-6, Lövångers fs, Lövånger sn|
+p2cd55bac.html|Persson|Anders /Persson/||Bodan 3, Lövånger sn|||
+p1dec6e75.html|Persson|Anders /Persson/|1700|Bygdsiljum 6, Burträsk sn|||
+p8ca4b91f.html|Persson|Anders /Persson/|6DEC 1754|Åbyn, Burträsk sn|||
+p20c7e9c2.html|Persson|Erik /Persson/||Gammelbyn 8, Svedjan, Burträsk fs, Burträsk sn||Gammelbyn 8, Svedjan, Burträsk fs, Burträsk sn|
+p2bf60e63.html|Persson|Henrik /Persson/|1729|Bygdeträsk, Burträsk sn|1JUL 1809|Bygdeträsk, Burträsk sn|
+pf4a7e3bf.html|Persson|Henrik /Persson/|10DEC 1758|Åbyn, Burträsk sn|8JAN 1845|Åbyn, Burträsk sn|
+p0d461efe.html|Persson|Hindrick /Persson/||||Yttervik 5, Hällbacken, Skellefteå sn|
+p7f14d581.html|Persson|Isak /Persson/|4SEP 1711|Andersvattnet 2, Burträsk sn|23NOV 1786|Andersvattnet 2, Burträsk sn|
+pfd7c57bc.html|Persson|Jacob /Persson/||Mjödvattnet, Burträsk sn|||
+p1a76807f.html|Persson|Johan /Persson/||Bygdsiljum, Burträsk sn||Bygdsiljum, Burträsk sn|
+p5fe7d309.html|Persson|Johan /Persson/|MAR 1667|Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn|29SEP 1745|Gammelbyn 3, Mora, Burträsk fs, Burträsk sn|
+pd182c173.html|Persson|Johan /Persson/|12DEC 1746|Bygdeträsk, Burträsk sn|||
+p1d22917f.html|Persson|Jon /Persson/||Storkåge 10, Skellefteå lfs, Skellefteå sn||Storkåge 10, Skellefteå lfs, Skellefteå sn|
+p89903ac8.html|Persson|Jon /Persson/||Hedensbyn, Skellefteå sn|||
+p4740ca7e.html|Persson|Jon /Persson/||Bygdsiljum 6, Burträsk fs, Burträsk sn|1890|Bygdsiljum 6, Burträsk sn|
+p9d89855c.html|Persson|Jonas /Persson/|1695|Bygdsiljum 6, Burträsk fs, Burträsk sn|||
+p18011c35.html|Persson|Jonas /Persson/|1725|Roten 109 Brännare, Östanbäck, Skellefteå sn|1740||
+pef2d30d9.html|Persson|Lars (Lasse) /Persson/||Burvik 3, Skellefteå lfs, Skellefteå sn||Burvik 3, Skellefteå lfs, Skellefteå sn|
+p08269513.html|Persson|Lars /Persson/||Vada, Vallentuna sn|||
+p62f7c5f8.html|Persson|Lars /Persson/|1619|Storkåge 19, Jörnkläppen, Skellefteå sn|1696|Storkåge 19, Jörnkläppen, Skellefteå sn|
+p4bada90e.html|Persson|Lasse /Persson/||Tjärn 5, Skellefteå sn|1573|Tjärn 5, Skellefteå sn|
+p4fb406bb.html|Persson|Moses /Persson/||Burvik 6, Skellefteå lfs, Skellefteå sn|1676|Burvik 6, Skellefteå lfs, Skellefteå sn|
+p451f6daa.html|Persson|Mårten /Persson/||||Renbergsvattnet, Skellefteå lfs, Skellefteå sn|
+pc1d4ed98.html|Persson|Mårten /Persson/||Yttervik 5, Hällbacken, Skellefteå sn||Yttervik 5, Hällbacken, Skellefteå sn|
+p65342d74.html|Persson|N /Persson/||Bygdsiljum 6, Burträsk fs, Burträsk sn|26JUN 1697|Bygdsiljum 6, Burträsk fs, Burträsk sn|
+pfa5e4749.html|Persson|N /Persson/|1704|Bygdsiljum 6, Burträsk sn|1704|Bygdsiljum 6, Burträsk sn|
+p4f6f7119.html|Persson|Nicodemus /Persson/|1661|Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn|21APR 1745|Gammelbyn 7, Västomsundet, Burträsk fs, Burträsk sn|
+p91609f5e.html|Persson|Nils /Persson/||Gammelbyn 3, Mora, Burträsk fs, Burträsk sn||Ljusvattnet 11, Burträsk, Burträsk fs, Burträsk sn|
+pe2b78e6e.html|Persson|Nils /Persson/||Storkåge 19, Jörnkläppen, Skellefteå sn|||
+pffd4875a.html|Persson|Nils /Persson/||Morön 2, Skellefteå sn|1685|Böle 8, Norrböle, Skellefteå sn|
+pb6999f2c.html|Persson|Nils /Persson/|8APR 1750|Svarttjern, Lövånger sn|5OCT 1807|Mjödvattnet, Burträsk sn|
+p3e3c7d8c.html|Persson|Olof /Persson/||Gammelbyn 8, Svedjan, Burträsk fs, Burträsk sn|||
+p43425395.html|Persson|Olof /Persson/|1MAY 1763|Åbyn, Burträsk sn|15AUG 1842|Åbyn, Burträsk sn|
+p4689b192.html|Persson|Per /Persson/||Storkåge 19, Jörnkläppen, Skellefteå sn|||
+pba6f0ca3.html|Persson|Per /Persson/|1683|Ånäset|1717||
+p752b9756.html|Persson|Per /Persson/|1687|Hjoggböle 6, Östra Hjoggböle, Skellefteå sn|1774|Hjoggböle 6, Östra Hjoggböle, Skellefteå sn|
+p74ac6114.html|Persson|Per /Persson/|1728|Bygdeträsk 6, Burträsk fs, Burträsk sn|8NOV 1815|Åbyn 7, Burträsk fs, Burträsk sn|
+pcaa5a303.html|Persson|Per /Persson/|19SEP 1752|Åbyn, Burträsk sn|13JUN 1835|Åbyn, Burträsk sn|
+pef3dc52b.html|Persson|Sven /Persson/|1655|Yttervik 5, Hällbacken, Skellefteå sn|1748|Yttervik 5, Hällbacken, Skellefteå sn|
+pb6111279.html|Pettersson|Gurli Vivi-Ann /Pettersson/|25SEP 1933|Boliden, Skellefteå lfs, Skellefteå sn|||
+p14a9e0f9.html|Pålsdotter|Ingeborg /Pålsdotter/|1654|Nolbyn 5, Lövångers fs, Lövångers sn|27JUL 1729|Nolbyn 5, Lövångers fs, Lövångers sn|
+pa0942613.html|Påvelsson|Anders /Påvelsson/||Ostvik 9, Skellefteå lfs, Skellefteå sn|1553|Ostvik 12, Frambyn, Skellefteå sn|
+p98501734.html|Påvelsson|Erik /Påvelsson/||Ostvik 9, Skellefteå lfs, Skellefteå sn|||
+p04de6da4.html|Påvelsson|Olof /Påvelsson/||Ostvik 9, Skellefteå lfs, Skellefteå sn|1539|Ostvik 9, Skellefteå lfs, Skellefteå sn|
+p3d0b649c.html|Pärsdotter|Anna /Pärsdotter/|1723|Bursiljum, Burträsk sn|1JUL 1787||
+p1323b93b.html|Pärsdotter|Brita /Pärsdotter/|||||
+p622416b3.html|Pärsdotter|Cherstin /Pärsdotter/|30MAR 1721|Bursiljum, Burträsk sn|1802||
+pbc3afbe3.html|Pärsdotter|Elsa /Pärsdotter/|||||
+pf7f97c63.html|Pärsdotter|Kerstin /Pärsdotter/|||||
+p387e8fa5.html|Pärsdotter|Margareta /Pärsdotter/|1737|Bursiljum 1, Burträsk sn|||
+p676ca1ed.html|Pärsdotter|Maria /Pärsdotter/|2JUL 1726|Bursiljum 1, Burträsk sn|||
+pe3540e4d.html|Pärsson-Wik|Anders /Pärsson-Wik/|25MAR 1690|Gammelbyn, Burträsk fs, Burträsk sn|0||
+pedbdc753.html|Pärsson|Anders /Pärsson/|||||
+p208ae04f.html|Pärsson|Jonas /Pärsson/|1731|Bursiljum, Burträsk sn|23JUN 1794||
+p2e0d7e80.html|Pärsson|Lars /Pärsson/|1738|Bursiljum 1, Burträsk sn|0||
+pedd67d26.html|Pärsson|Magnus /Pärsson/|1737|Bursiljum, Burträsk sn|15OCT 1799||
+p1df21ed8.html|Pärsson|Mickel /Pärsson/|||||
+p4011af79.html|Pärsson|Olof /Pärsson/|1734||2APR 1807||
+p3bf7affb.html|Pärsson|Pär /Pärsson/|11FEB 1697||0||
+p2cbc53c1.html|Pärsson|Pär /Pärsson/|9FEB 1729|Bursiljum, Burträsk sn|28SEP 1768||
+pb6968cbf.html|Rasmusson|Nils /Rasmusson/|||||
+pf85edd2a.html|Samuelsson|Nils /Samuelsson/|1713|Degerbyn 5, Samuelsbacken, Skellefteå sn|1788|Frostkåge 2, Backen, Skellefteå sn|
+pb105368e.html|Simonsson|Hans /Simonsson/|20DEC 1700|Ljusvattnet, Burträsk sn|31JUL 1742|fält|
+pd5148b03.html|Steckzenius|Catharina /Steckzenius/|||24JUN 1768||
+p69dd520c.html|Stefansdotter|Anna /Stefansdotter/|1726|Åbyn 16, Burträsk sn|12MAR 1778|Andersvattnet 2, Burträsk sn|
+p162b07cc.html|Stefansdotter|Elisabet Catharina (Elsa Cajsa, Karin) /Stefansdotter/|29AUG 1798|Renbergsvattnet 1, Burträsk sn|||
+pfea11b90.html|Stefansdotter|Elsa /Stefansdotter/|1728|Åbyn 16, Burträsk sn|21MAR 1808|Renbergsvattnet 1, Burträsk sn|
+p3186aec4.html|Stefansdotter|Eva Maria /Stefansdotter/|21NOV 1803|Renbergsvattnet, Burträsk sn|1864|Stämningsgården, Sellefteå lfs, Skellefteå sn|
+p70a3659d.html|Stefansdotter|Karin /Stefansdotter/|1645||APR 1735|Åbyn 3, Burträsk fs, Burträsk sn|
+p4b36081b.html|Stefansdotter|Karin /Stefansdotter/|1721|Åbyn, Burträsk sn|16MAR 1810|Lappvattnet, Burträsk fs, Burträsk sn|
+pb36eff50.html|Stefansdotter|Kerstin /Stefansdotter/|1734|Åbyn, Burträsk sn|13MAR 1824|Blåbergsliden, Burträsk sn|
+pf505f026.html|Stefansdotter|Maria Karin /Stefansdotter/|SEP 1791|Renbergsvattnet 1, Burträsk sn|2SEP 1797|Renbergsvattnet 1, Burträsk sn|
+p4a3d771e.html|Stefansdotter|N /Stefansdotter/||Brände, Nysätra fs, Nysätra sn|||
+p0b8f0803.html|Stefansson Åström|Carl Fredrik /Stefansson Åström/|2SEP 1790|Renbergsvattnet 1, Burträsk sn|||
+p93452c6a.html|Stefansson|Gustaf Henrik /Stefansson/|28DEC 1806|Renbergsvattnet, Burträsk sn|||
+pabf5794e.html|Stefansson|Johan /Stefansson/|27FEB 1805|Renbergsvattnet, Burträsk sn|||
+pff2365e8.html|Stefansson|Mårten /Stefansson/|1722|Åbyn, Burträsk sn|1742|Finland|
+p55f99984.html|Stefansson|Per /Stefansson/|1729|Åbyn, Burträsk sn|16AUG 1814|Stavträsk, Burträsk sn|
+pcfdb33b2.html|Stefansson|Per /Stefansson/|7MAR 1788|Renbergsvattnet 1, Burträsk sn|||
+pbfa6d41b.html|Stefansson|Stefan /Stefansson/|1732|Åbyn, Burträsk sn|28MAR 1802|Åbyn, Burträsk sn|
+pdca5de7c.html|Stefansson|Stefan /Stefansson/|SEP 1793|Renbergsvattnet 1, Burträsk sn|2SEP 1794|Renbergsvattnet 1, Burträsk sn|
+p5eb03fcc.html|Stephansdotter|Anna /Stephansdotter/|21DEC 1751|Mårtensboda, Lövångers sn|||
+p40c8340a.html|Stephansdotter|Christina /Stephansdotter/|5FEB 1759|Mårtensboda, Lövångers sn|||
+pfe5673d0.html|Stephansdotter|Justina /Stephansdotter/|3MAY 1750|Burträsk sn|8SEP 1751||
+p9b44510b.html|Stephansdotter|Maria /Stephansdotter/|14AUG 1761|Mårtensboda, Lövångers sn|25MAR 1762||
+p1be96208.html|Stephansdotter|Sara /Stephansdotter/|10DEC 1763|Mårtensboda, Lövångers sn|26SEP 1765||
+pc436679b.html|Stephansson|Matts /Stephansson/|11JUN 1754|Mårtensboda 2, Lövångers sn|5SEP 1827|Mårtensboda 2, Lövångers sn|
+pe1950e0c.html|Stephansson|Nils /Stephansson/|23AUG 1756|Lövångers sn|||
+p8949c768.html|Stephansson|Olof /Stephansson/|1FEB 1747|Mårtensboda, Lövångers sn|||
+p172ad02a.html|Stephansson|Pehr /Stephansson/|1748|Mårtensboda, Lövångers sn|||
+p65f369a0.html|Sunesdotter|Kajsa /Sunesdotter/||Stämningsgården 5, Skellefteå sn|||
+pbc4898a7.html|Sunesdotter|Kälug /Sunesdotter/||Stämningsgården 5, Skellefteå sn||Morön 2, Skellefteå sn|
+p9d4cc0ea.html|Sunesdotter|Margareta /Sunesdotter/||Stämningsgården 5, Skellefteå sn||Stämningsgården 5, Skellefteå sn|
+p5bf9322a.html|Sunesdotter|Sara /Sunesdotter/||Stämningsgården 5, Skellefteå sn|||
+pf3ede623.html|Sunesson|Clemet /Sunesson/||Stämningsgården 5, Skellefteå sn|||
+p9ddc6fff.html|Sunesson|Hans /Sunesson/||Stämningsgården 5, Skellefteå sn|||
+p5e5f4770.html|Sunesson|Nils /Sunesson/||Stämningsgården 5, Skellefteå sn|||
+pa355cce5.html|Sunesson|Olof /Sunesson/||Stämningsgården 5, Skellefteå sn||Stockholm|
+pff275b31.html|Svensdotter|Anna /Svensdotter/|1699|Yttervik 5, Hällbacken, Skellefteå sn|1785|Böle 8, Norrböle, Skellefteå sn|
+p3677e33d.html|Svensdotter|Gertrud /Svensdotter/||Bäck 7, Skellefteå lfs, Skellefteå sn||Bäck 7, Skellefteå lfs, Skellefteå sn|
+p4fa750fd.html|Svensdotter|Lisbeta /Svensdotter/|1705|Yttervik 5, Hällbacken, Skellefteå sn|1748|Hjoggböle 6, Östra Hjoggböle, Skellefteå sn|
+p396c5c5d.html|Svensdotter|Lucia (Lussi) /Svensdotter/||Bäck 7, Skellefteå lfs, Skellefteå sn||Falmark 10, Östra Falmark, Skellefteå sn|
+pef8781f3.html|Svensdotter|Lucia /Svensdotter/|||||
+p8c284b55.html|Svensdotter|Margareta /Svensdotter/|1708|Yttervik 5, Hällbacken, Skellefteå sn|1796|Böle 2, Sörböle, Skellefteå sn|
+pbc22f3a2.html|Svensdotter|Mariet /Svensdotter/||Bodan, Lövångers fs, Lövånger sn|||
+pfc682d15.html|Svensdotter|Märiet /Svensdotter/||Bäck 7, Skellefteå lfs, Skellefteå sn||Holmsvattnet 1, Skellefteå lfs, Skellefteå sn|
+p4c0e2204.html|Svensdotter|Märit /Svensdotter/|||MAY 1721||
+p57f6c312.html|Svensdotter|N (Ingeborg?, Barbro?, Anna?, /Svensdotter/||Bodan, Lövångers fs, Lövånger sn||Bodan 6, Lövångers fs, Lövångers sn|
+p5468be4d.html|Svensdotter|Sara /Svensdotter/|1661|Böle 10, Norrböle, Skellefteå sn|1724|Böle 8, Norrböle, Skellefteå sn|
+pa91d1390.html|Svensson-Humla-Håman-Tjörbåga|Benjamin /Svensson-Humla-Håman-Tjörbåga/|1705|Yttervik 5, Hällbacken, Skellefteå sn|1742|I fält|
+pb15956b0.html|Svensson|Jon /Svensson/|1640|Yttervik 2, Skellefteå sn|1727|Bergsbyn 3, Skellefteå sn|
+p0e4e7c42.html|Svensson|Lars /Svensson/||||Burträsk sn|
+p3df2b97c.html|Svensson|Olof /Svensson/||Yttervik 5, Hällbacken, Skellefteå sn|1656|Polen|
+pb6801de2.html|Svensson|Olov /Svensson/||||Yttervik 7, Båtvik, Skellefteå sn|
+p99c468dd.html|Svensson|Per /Svensson/||Yttervik 5, Hällbacken, Skellefteå sn|1695|Yttervik 5, Hällbacken, Skellefteå sn|
+pcc4cd661.html|Svensson|Per /Svensson/|1692|Yttervik 5, Hällbacken, Skellefteå sn|1740|Yttervik 5, Hällbacken, Skellefteå sn|
+pf175e46d.html|Thomasdotter Nyberg|Maria /Thomasdotter Nyberg/|1723|Brände, Nysätra fs, Nysätra sn|1803||
+pa51a47ae.html|Thomasson Nordström|Herman /Thomasson Nordström/|NOV 1732|Kattisträsk 1, Näset, Skellefteå sn|1791|Frautjälen, Skellefteå sn|
+p9e7ec259.html|Thomasson|Nils /Thomasson/|5FEB 1700|Kräkånger, Lövångers sn|||
+p4c51b49e.html|Tomasdotter Bromsköld|Anna /Tomasdotter Bromsköld/|AUG 1700|Brännland 7, Umeå lfs, Umeå sn|11MAY 1756|Avan 1, Lövångers fs, Lövångers sn|
+pbfc3e115.html|Tomasdotter|Brita /Tomasdotter/|1636|Frostkåge 7, Sörbyn, Skellefteå lfs, Skellefteå sn|1737|Bureå 1, Skellefteå sn|
+p76b676f3.html|Tomasson|Matts /Tomasson/||Obbola, Umeå lfs||Umeå stad|
+p88e9e219.html|Tomasson|Per /Tomasson/||Degerbyn 3, Skellefteå sn|1APR 1552|Storkåge 4, Granden, Skellefteå sn|
+p62baac25.html|Tomassson-Blank-Bromsköld|Tomas /Tomassson-Blank-Bromsköld/|||1704|Brännland 7, Umeå lfs, Umeå sn|
+pd90a9662.html|Trast|Catharina /Trast/|1713||1798||
+paa1cb188.html|Zachrisdotter|Anna /Zachrisdotter/|1647||7NOV 1730||
+pe302d40f.html|Zachrisdotter|Brita /Zachrisdotter/|1655|Edfastmark|1702||
+p1515df5f.html|Zackrisdotter|Kerstin /Zackrisdotter/|4DEC 1698|Mjödvattnet 6, Burträsk sn|10JUN 1782|Bygdeträsk, Burträsk sn|
+p9ec95596.html|Zackrisdotter|Margit /Zackrisdotter/|1693|Mjödvattnet 6, Burträsk sn|19FEB 1781|Mjödvattnet 4, Burträsk sn|
+p8c2d1166.html|Zackrisdotter|N /Zackrisdotter/|1707|Mjödvattnet 6, Burträsk sn|OCT 1707|Mjödvattnet 6, Burträsk sn|
+pb333e803.html|Zackrisson-Fogel|Olof /Zackrisson-Fogel/|MAY 1683|Mjödvattnet 6, Burträsk sn|27JAN 1780|Mjödvattnet, Burträsk sn|
+p4a675649.html|Zackrisson|Anders /Zackrisson/||Mjödvattnet 6, Burträsk sn|||
+p0e465d10.html|Zackrisson|Erik /Zackrisson/|4MAY 1690|Mjödvattnet 6, Burträsk sn|16JUL 1743|Ljusvattnet 12, Burträsk, Burträsk fs, Burträsk sn|
+p3e88da32.html|Zackrisson|Johan /Zackrisson/|20JUN 1691|Mjödvattnet 6, Burträsk sn|29APR 1785|Renbergsvattnet 1, Burträsk sn|
+p83281052.html|Zackrisson|Jon /Zackrisson/|31MAR 1696|Mjödvattnet 6, Burträsk sn|MAR 1764|Mjödvattnet, Burträsk sn|
+p83bde400.html|Zackrisson|Lars /Zackrisson/||Mjödvattnet 6, Burträsk sn|||
+p0d1c0320.html|Zackrisson|Per /Zackrisson/||Mjödvattnet 6, Burträsk sn|||
+p66828901.html|Zackrisson|Östen /Zackrisson/||Mjödvattnet 6, Burträsk sn|||
+p35f91b69.html|Åberg|Jonas /Åberg/|1737|Villvattnet, Burträsk fs, Burträsk sn|||
+pe936ab96.html|Åberg|Peter /Åberg/|1762|Ljusvattnet 1, Burträsk, Burträsk fs, Burträsk sn|||
+pe9457581.html|Öndesdotter|Kerstin /Öndesdotter/|1631|Storkåge 10, Skellefteå lfs, Skellefteå sn|1710|Böle, Råneå sn|
+p681a013f.html|Öndesson|Erik /Öndesson/|1607|Storkåge 10, Skellefteå lfs, Skellefteå sn|1670|Storkåge 10, Skellefteå lfs, Skellefteå sn|
+pbad10b72.html|Öndesson|Johan /Öndesson/||Ytterursviken 1, Skellefteå lfs, Skellefteå sn|||
+p33ad5086.html|Öndesson|Johan /Öndesson/|1617|Storkåge 10, Skellefteå lfs, Skellefteå sn|1695|Östanbäck 5, Skellefteå lfs, Skellefteå sn|
+pa6da760f.html|Östensdotter|Elsa /Östensdotter/|1722|Hertzånger, Nysätra sn|0||
+pab51dbde.html|Östensdotter|Kelu /Östensdotter/||Yttervik 6, Skellefteå sn||Yttervik 6, Skellefteå sn|
+p248ae751.html|Östensdotter|Margareta /Östensdotter/|1691|Innervik 3, Skellefteå lfs, Skellefteå sn|1780|Kusmark 12, Liden, Skellefteå sn|
+p1a4653b7.html|Östensson|Nils /Östensson/|1666||1MAY 1710||
+p9309a115.html|Östensson|Per /Östensson/||Bäck 4, Skellefteå lfs, Skellefteå sn|1723|Böle 4, Sörböle, Skellefteå sn|
+p0678923d.html|Östensson|Per /Östensson/|1703|Gärdsmark 4, Skellefteå lfs, Skellefteå sn|1778|Gärdsmark 4, Skellefteå lfs, Skellefteå sn|

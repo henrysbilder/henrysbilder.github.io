@@ -1,0 +1,2 @@
+logo="Författarsläkten i Norr"
+&url=index.html

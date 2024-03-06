@@ -1,0 +1,275 @@
+body	{
+	scrollbar-base-color: #969AA3;
+	scrollbar-track-color: #F0F0F0;
+	margin: 10px;
+	padding: 0px;
+	border: #FFFFFF 0px solid;
+	}
+
+
+
+
+/* NON-MENU LINK COLORS */
+
+a:link		{ color: #0066FF; text-decoration: none; }
+
+a:visited	{ color: #0066FF; text-decoration: none; }
+
+a:active	{ color: #0066FF; text-decoration: none; }
+
+a:hover		{ color: #333399; text-decoration: none; }
+
+
+
+
+
+
+/* THIS LINE CONTROLS THE FONT SIZE ON ALL PAGES */
+
+table 		{ color: #72767F; font: 11px verdana, arial, sans-serif; font-weight: normal; }
+
+.title 		{ color: #000000; font: 20px arial, verdana, sans-serif; font-weight: normal; }
+
+.subtitle 	{ color: #000000; font: 14px arial, verdana, sans-serif; font-weight: bold; }
+
+.headerphone 	{ color: #FFFFFF; font: 15px arial, verdana, sans-serif; font-weight: bold; }
+
+.headertext 	{ color: #FFFFFF; font: 11px arial, verdana, sans-serif; font-weight: bold; }
+
+.testimonial	{ color: #009900; font: 11px verdana, sans-serif; font-style: italic; font-weight: bold; }
+
+.just 		{ text-align: justify; }
+
+.formmargin	{ margin: 0px; margin-top: 5px; }
+
+.list		{ margin: 0px; margin-top: 8px; margin-left: 25px; }
+
+.pagewidth	{ width: 850px; }
+
+.pageheight	{ height: 600px; }
+
+
+
+
+
+
+/* INNER AND OUTER BACKGROUNDS */
+
+.inner-background	{
+			background-color: #FFFFFF;
+			border: #4C2806 0px solid;
+			}
+
+.outer-background	{
+			background-color: #FFFFFF;
+			background-image: url("picts/background-outer.jpg");
+			background-repeat: repeat-X;
+			background-attachment: fixed;
+			}
+
+
+
+
+
+
+/* SIDEBAR */
+
+.sidebartext 		{ color: #72767F; font: 10px verdana, arial, sans-serif; font-weight: normal; }
+
+.sidebar		{
+			width: 225px;
+			border-right: #D7D7D7 1px solid;
+			border-left: #D7D7D7 1px solid;
+			background-color: #F0F0F0;
+			background-image: url("picts/background-sidebar.gif");
+			}
+
+
+
+
+
+
+/* FOOTER */
+
+.footer		{ background-color: #FFFFFF; }
+
+.footertext 	{ color: #72767F; font: 10px arial, verdana, sans-serif; font-weight: normal; }
+
+
+
+
+
+
+/* PAYPAL PAGE */
+
+.viewmargin	{ margin: 0px; }
+
+.price	 	{ color: #FF6633; font: 16px arial, verdana, sans-serif; font-weight: bold; }
+
+.button-order	{ font-size: 13px; }
+
+
+
+
+
+
+/* CONTACT PAGE CODE */
+
+.contacttitle 	{ color: #000000; font: 14px arial, sans-serif; font-weight: bold }
+
+.formbutton 	{ font: 12px arial, verdana, sans-serif; }
+
+
+.shadeform	{
+		font: 13px arial, verdana, helvetica, sans-serif;
+		background-image: url("picts/shadeform.gif");
+		width: 200px;
+		border: #999999 1px solid;
+		}
+
+
+.textarea	{
+		font: 13px arial, verdana, helvetica, sans-serif;
+		background-image: url("picts/shadeform.gif");
+		width: 250px;
+		height: 140px;
+		border: #999999 1px solid;
+		}
+
+
+.dropdown 	{
+		font: 11px arial, verdana, helvetica, sans-serif;
+		color: #000000;
+		width: 200px;
+		}
+
+
+
+
+
+
+/* IMAGE BORDERS */
+
+.bannerborder		{
+			border: solid #D7D7D7;
+			border-width: 0px 0px 0px 0px;
+			/* NOTE: BORDERs ABOVE ARE | top | right | bottom | left */
+			}
+
+.imageborders		{ border: #7B7F88 1px solid; }
+
+.imageborderside	{ border: #7B7F88 1px solid; }
+
+
+
+
+
+
+/* PAGE LINES & BORDERS */
+
+.page-splits		{
+			margin: 0px;
+			margin-top: 3px;
+			padding: 0px;
+			border: #D7D7D7 0px solid;
+			border-top: #D7D7D7 1px solid;
+			border-bottom: #FFFFFF 0px solid;
+			background-color: #FFFFFF;
+			color: #FFFFFF;
+			height: 2px;
+			}
+
+.pagebar-bottom	{
+		background-color: #F0F0F0;
+		background-image: url("picts/pagebar-bottom.jpg");
+		height: 35px;
+		border: solid #D7D7D7;
+		border-width: 1px 1px 1px 1px;
+		/* NOTE: BORDERs ABOVE ARE | top | right | bottom | left */
+		}
+
+
+
+
+
+
+/* START THE CODE FOR THE MENUS */
+
+.menu-table 	{
+		width: 100%;
+		background-color:#969AA3;
+		background-image: url("picts/menu.gif");
+		padding-top: 10px;
+		padding-bottom: 10px;
+		border: solid #7B7F88;
+		border-width: 0px 0px 0px 0px;
+		/* NOTE: BORDERs ABOVE ARE | top | right | bottom | left */
+		}
+
+
+.menu		{
+		font-family: arial, helvetica, sans-serif;
+		font-size: 11px;
+		font-weight: bold;
+		text-align:center;
+		padding-top: 3px;
+		padding-bottom: 4px;
+		padding-left: 20px;
+		padding-right: 20px;
+		margin-left: 0px;
+		cursor: pointer;
+		display: block;
+		white-space: nowrap;
+		background-color: transparent;
+		border-right: #7B7F88 1px solid;
+		}
+
+
+.firstmenu	{
+		margin-left: 5px;
+		border-left: #7B7F88 0px solid;
+		}
+
+
+
+a.menu:link 	{
+		color: #FFFFFF;
+		}
+
+
+a.menu:visited 	{
+		color: #FFFFFF;
+		}
+
+
+a.menu:active 	{
+		color: #FFFFFF;
+		}
+
+
+
+a.menu:hover 	{
+		position: relative; top: -11px; right: 1px;
+		padding-left:21px;
+		padding-right:19px;
+		padding-top: 13px;
+		margin-bottom: -22px;
+		padding-bottom: 14px;
+		background-color:#000000;
+		color: #FFFFFF;
+		border-right: #000000 1px solid;
+		}
+
+
+
+
+
+.outer-background center .pagewidth.inner-background tr td table tr td table tr .just p u {
+	color: #F00;
+}
+.outer-background center .pagewidth.inner-background tr td table tr td table tr .just table tr .just {
+	color: #F00;
+}
+.outer-background center .pagewidth.inner-background tr td table tr td table tr .just table tr .just {
+	color: #000;
+}

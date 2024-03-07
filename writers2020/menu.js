@@ -24,7 +24,7 @@ document.write('</td><td align="center">');
 document.write('</td><td align="center">');
 
 
-document.write('<a href="pdfgallery-ac-authors.html" class="menu">Författare m.fl.</a>');
+document.write('<a href="pdfgallery-ac-authors.html" class="menu">FÃ¶rfattare m.fl.</a>');
 document.write('</td><td align="center">');
 
 
